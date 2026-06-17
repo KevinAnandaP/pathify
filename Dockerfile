@@ -14,7 +14,6 @@ COPY . .
 
 # Generate Prisma Client (Prisma 7)
 ENV NEXT_TELEMETRY_DISABLED=1
-ENV DATABASE_URL="postgresql://postgres:postgres@localhost:5432/pathify"
 RUN npx prisma generate
 RUN npm run build
 
