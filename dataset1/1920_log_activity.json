@@ -1,0 +1,8002 @@
+[
+  {
+    "ACTION_ID": 1,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.7690162037
+  },
+  {
+    "ACTION_ID": 2,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.76903935185
+  },
+  {
+    "ACTION_ID": 3,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.76903935185
+  },
+  {
+    "ACTION_ID": 4,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.76908564815
+  },
+  {
+    "ACTION_ID": 5,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.76908564815
+  },
+  {
+    "ACTION_ID": 6,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.76909722222
+  },
+  {
+    "ACTION_ID": 7,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.76909722222
+  },
+  {
+    "ACTION_ID": 8,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.76909722222
+  },
+  {
+    "ACTION_ID": 9,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.76912037037
+  },
+  {
+    "ACTION_ID": 10,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1230,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.76912037037
+  },
+  {
+    "ACTION_ID": 11,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.76913194444
+  },
+  {
+    "ACTION_ID": 12,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1230,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.76913194444
+  },
+  {
+    "ACTION_ID": 13,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1230,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.76914351852
+  },
+  {
+    "ACTION_ID": 14,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.769224537034
+  },
+  {
+    "ACTION_ID": 15,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.769224537034
+  },
+  {
+    "ACTION_ID": 16,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1510,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.76925925926
+  },
+  {
+    "ACTION_ID": 17,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.76938657407
+  },
+  {
+    "ACTION_ID": 18,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.76945601852
+  },
+  {
+    "ACTION_ID": 19,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.77001157407
+  },
+  {
+    "ACTION_ID": 20,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.77001157407
+  },
+  {
+    "ACTION_ID": 21,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.7700462963
+  },
+  {
+    "ACTION_ID": 22,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.7700462963
+  },
+  {
+    "ACTION_ID": 23,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.7700462963
+  },
+  {
+    "ACTION_ID": 24,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.77005787037
+  },
+  {
+    "ACTION_ID": 25,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1510,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.77005787037
+  },
+  {
+    "ACTION_ID": 26,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.77005787037
+  },
+  {
+    "ACTION_ID": 27,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 86465,
+    "TIMESTAMP": 43740.77013888889
+  },
+  {
+    "ACTION_ID": 28,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 184,
+    "TIMESTAMP": 43742.76366898148
+  },
+  {
+    "ACTION_ID": 29,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 184,
+    "TIMESTAMP": 43742.76368055555
+  },
+  {
+    "ACTION_ID": 30,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 184,
+    "TIMESTAMP": 43742.76368055555
+  },
+  {
+    "ACTION_ID": 31,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 184,
+    "TIMESTAMP": 43742.7637962963
+  },
+  {
+    "ACTION_ID": 32,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 803,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 56145,
+    "TIMESTAMP": 43742.88028935185
+  },
+  {
+    "ACTION_ID": 33,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 337,
+    "CONTENT_ID": 1125,
+    "SESSION_ID": 35680,
+    "TIMESTAMP": 43742.80572916667
+  },
+  {
+    "ACTION_ID": 34,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 337,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 35680,
+    "TIMESTAMP": 43742.80579861111
+  },
+  {
+    "ACTION_ID": 35,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 337,
+    "CONTENT_ID": 1125,
+    "SESSION_ID": 35680,
+    "TIMESTAMP": 43742.805810185186
+  },
+  {
+    "ACTION_ID": 36,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 337,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 35680,
+    "TIMESTAMP": 43742.805810185186
+  },
+  {
+    "ACTION_ID": 37,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 337,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 35680,
+    "TIMESTAMP": 43742.805810185186
+  },
+  {
+    "ACTION_ID": 38,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 337,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 101155,
+    "TIMESTAMP": 43746.33856481482
+  },
+  {
+    "ACTION_ID": 39,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 337,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 101155,
+    "TIMESTAMP": 43746.33856481482
+  },
+  {
+    "ACTION_ID": 40,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 337,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 101155,
+    "TIMESTAMP": 43746.33857638889
+  },
+  {
+    "ACTION_ID": 41,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 337,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 101155,
+    "TIMESTAMP": 43746.33857638889
+  },
+  {
+    "ACTION_ID": 42,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 337,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 101155,
+    "TIMESTAMP": 43746.338692129626
+  },
+  {
+    "ACTION_ID": 43,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 40,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 14802,
+    "TIMESTAMP": 43745.87328703704
+  },
+  {
+    "ACTION_ID": 44,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 40,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 98445,
+    "TIMESTAMP": 43747.76193287037
+  },
+  {
+    "ACTION_ID": 45,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 40,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 98445,
+    "TIMESTAMP": 43747.76193287037
+  },
+  {
+    "ACTION_ID": 46,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 40,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 98445,
+    "TIMESTAMP": 43747.76194444444
+  },
+  {
+    "ACTION_ID": 47,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 40,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 98445,
+    "TIMESTAMP": 43747.76194444444
+  },
+  {
+    "ACTION_ID": 48,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 40,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 98445,
+    "TIMESTAMP": 43747.76207175926
+  },
+  {
+    "ACTION_ID": 49,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 40,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 98445,
+    "TIMESTAMP": 43747.762650462966
+  },
+  {
+    "ACTION_ID": 50,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 46156,
+    "TIMESTAMP": 43740.966782407406
+  },
+  {
+    "ACTION_ID": 51,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 71810,
+    "TIMESTAMP": 43741.5378587963
+  },
+  {
+    "ACTION_ID": 52,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 37067,
+    "TIMESTAMP": 43742.683958333335
+  },
+  {
+    "ACTION_ID": 53,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 82173,
+    "TIMESTAMP": 43745.54305555556
+  },
+  {
+    "ACTION_ID": 54,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 53003,
+    "TIMESTAMP": 43746.44505787037
+  },
+  {
+    "ACTION_ID": 55,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 97432,
+    "TIMESTAMP": 43746.58212962963
+  },
+  {
+    "ACTION_ID": 56,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 97432,
+    "TIMESTAMP": 43746.582766203705
+  },
+  {
+    "ACTION_ID": 57,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 97432,
+    "TIMESTAMP": 43746.58277777778
+  },
+  {
+    "ACTION_ID": 58,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 97432,
+    "TIMESTAMP": 43746.58277777778
+  },
+  {
+    "ACTION_ID": 59,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67084490741
+  },
+  {
+    "ACTION_ID": 60,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67085648148
+  },
+  {
+    "ACTION_ID": 61,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67085648148
+  },
+  {
+    "ACTION_ID": 62,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67086805555
+  },
+  {
+    "ACTION_ID": 63,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67086805555
+  },
+  {
+    "ACTION_ID": 64,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67089120371
+  },
+  {
+    "ACTION_ID": 65,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67089120371
+  },
+  {
+    "ACTION_ID": 66,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67089120371
+  },
+  {
+    "ACTION_ID": 67,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.670902777776
+  },
+  {
+    "ACTION_ID": 68,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67091435185
+  },
+  {
+    "ACTION_ID": 69,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1230,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67091435185
+  },
+  {
+    "ACTION_ID": 70,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1230,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67092592592
+  },
+  {
+    "ACTION_ID": 71,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1230,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67097222222
+  },
+  {
+    "ACTION_ID": 72,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1230,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.6721875
+  },
+  {
+    "ACTION_ID": 73,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67238425926
+  },
+  {
+    "ACTION_ID": 74,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67238425926
+  },
+  {
+    "ACTION_ID": 75,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1510,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.672418981485
+  },
+  {
+    "ACTION_ID": 76,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.672789351855
+  },
+  {
+    "ACTION_ID": 77,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.673263888886
+  },
+  {
+    "ACTION_ID": 78,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.6762962963
+  },
+  {
+    "ACTION_ID": 79,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67643518518
+  },
+  {
+    "ACTION_ID": 80,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.676516203705
+  },
+  {
+    "ACTION_ID": 81,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67658564815
+  },
+  {
+    "ACTION_ID": 82,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.6766087963
+  },
+  {
+    "ACTION_ID": 83,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67667824074
+  },
+  {
+    "ACTION_ID": 84,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67685185185
+  },
+  {
+    "ACTION_ID": 85,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1510,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.676932870374
+  },
+  {
+    "ACTION_ID": 86,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67695601852
+  },
+  {
+    "ACTION_ID": 87,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67704861111
+  },
+  {
+    "ACTION_ID": 88,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67710648148
+  },
+  {
+    "ACTION_ID": 89,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67744212963
+  },
+  {
+    "ACTION_ID": 90,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1510,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67758101852
+  },
+  {
+    "ACTION_ID": 91,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67769675926
+  },
+  {
+    "ACTION_ID": 92,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1434,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67780092593
+  },
+  {
+    "ACTION_ID": 93,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67795138889
+  },
+  {
+    "ACTION_ID": 94,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67795138889
+  },
+  {
+    "ACTION_ID": 95,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67795138889
+  },
+  {
+    "ACTION_ID": 96,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67796296296
+  },
+  {
+    "ACTION_ID": 97,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67796296296
+  },
+  {
+    "ACTION_ID": 98,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67796296296
+  },
+  {
+    "ACTION_ID": 99,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.67798611111
+  },
+  {
+    "ACTION_ID": 100,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.75729166667
+  },
+  {
+    "ACTION_ID": 101,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.8225
+  },
+  {
+    "ACTION_ID": 102,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.82255787037
+  },
+  {
+    "ACTION_ID": 103,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.82256944444
+  },
+  {
+    "ACTION_ID": 104,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.82256944444
+  },
+  {
+    "ACTION_ID": 105,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.82256944444
+  },
+  {
+    "ACTION_ID": 106,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.82256944444
+  },
+  {
+    "ACTION_ID": 107,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.82258101852
+  },
+  {
+    "ACTION_ID": 108,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.82258101852
+  },
+  {
+    "ACTION_ID": 109,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.82258101852
+  },
+  {
+    "ACTION_ID": 110,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.822592592594
+  },
+  {
+    "ACTION_ID": 111,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.822592592594
+  },
+  {
+    "ACTION_ID": 112,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.822592592594
+  },
+  {
+    "ACTION_ID": 113,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 96719,
+    "TIMESTAMP": 43746.822604166664
+  },
+  {
+    "ACTION_ID": 114,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 21083,
+    "TIMESTAMP": 43746.94204861111
+  },
+  {
+    "ACTION_ID": 115,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 81774,
+    "TIMESTAMP": 43747.63994212963
+  },
+  {
+    "ACTION_ID": 116,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 81774,
+    "TIMESTAMP": 43747.63998842592
+  },
+  {
+    "ACTION_ID": 117,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 81774,
+    "TIMESTAMP": 43747.64
+  },
+  {
+    "ACTION_ID": 118,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 81774,
+    "TIMESTAMP": 43747.64011574074
+  },
+  {
+    "ACTION_ID": 119,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 81774,
+    "TIMESTAMP": 43748.64699074074
+  },
+  {
+    "ACTION_ID": 120,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 78321,
+    "TIMESTAMP": 43739.4609837963
+  },
+  {
+    "ACTION_ID": 121,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 67504,
+    "TIMESTAMP": 43739.6405787037
+  },
+  {
+    "ACTION_ID": 122,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 67504,
+    "TIMESTAMP": 43739.64083333333
+  },
+  {
+    "ACTION_ID": 123,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 67504,
+    "TIMESTAMP": 43739.64084490741
+  },
+  {
+    "ACTION_ID": 124,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 67504,
+    "TIMESTAMP": 43739.64084490741
+  },
+  {
+    "ACTION_ID": 125,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 67504,
+    "TIMESTAMP": 43739.640914351854
+  },
+  {
+    "ACTION_ID": 126,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 67504,
+    "TIMESTAMP": 43739.640914351854
+  },
+  {
+    "ACTION_ID": 127,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1411,
+    "SESSION_ID": 67504,
+    "TIMESTAMP": 43739.64092592592
+  },
+  {
+    "ACTION_ID": 128,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1121,
+    "SESSION_ID": 67504,
+    "TIMESTAMP": 43739.64092592592
+  },
+  {
+    "ACTION_ID": 129,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 67504,
+    "TIMESTAMP": 43739.64097222222
+  },
+  {
+    "ACTION_ID": 130,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 67504,
+    "TIMESTAMP": 43739.64097222222
+  },
+  {
+    "ACTION_ID": 131,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 44697,
+    "TIMESTAMP": 43742.17565972222
+  },
+  {
+    "ACTION_ID": 132,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 65528,
+    "TIMESTAMP": 43742.763090277775
+  },
+  {
+    "ACTION_ID": 133,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 65528,
+    "TIMESTAMP": 43742.76310185185
+  },
+  {
+    "ACTION_ID": 134,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 65528,
+    "TIMESTAMP": 43742.76311342593
+  },
+  {
+    "ACTION_ID": 135,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 65528,
+    "TIMESTAMP": 43742.763125
+  },
+  {
+    "ACTION_ID": 136,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.87834490741
+  },
+  {
+    "ACTION_ID": 137,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.880162037036
+  },
+  {
+    "ACTION_ID": 138,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.88017361111
+  },
+  {
+    "ACTION_ID": 139,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.88017361111
+  },
+  {
+    "ACTION_ID": 140,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.88017361111
+  },
+  {
+    "ACTION_ID": 141,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.88017361111
+  },
+  {
+    "ACTION_ID": 142,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1411,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.88018518518
+  },
+  {
+    "ACTION_ID": 143,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1121,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.88018518518
+  },
+  {
+    "ACTION_ID": 144,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1121,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.88023148148
+  },
+  {
+    "ACTION_ID": 145,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.880844907406
+  },
+  {
+    "ACTION_ID": 146,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.880844907406
+  },
+  {
+    "ACTION_ID": 147,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.88087962963
+  },
+  {
+    "ACTION_ID": 148,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.88087962963
+  },
+  {
+    "ACTION_ID": 149,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.880891203706
+  },
+  {
+    "ACTION_ID": 150,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.880891203706
+  },
+  {
+    "ACTION_ID": 151,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.880891203706
+  },
+  {
+    "ACTION_ID": 152,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.880902777775
+  },
+  {
+    "ACTION_ID": 153,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.88091435185
+  },
+  {
+    "ACTION_ID": 154,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1230,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.88091435185
+  },
+  {
+    "ACTION_ID": 155,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1062,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.880949074075
+  },
+  {
+    "ACTION_ID": 156,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.8809837963
+  },
+  {
+    "ACTION_ID": 157,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.8809837963
+  },
+  {
+    "ACTION_ID": 158,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1510,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.88103009259
+  },
+  {
+    "ACTION_ID": 159,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1510,
+    "SESSION_ID": 77820,
+    "TIMESTAMP": 43743.88172453704
+  },
+  {
+    "ACTION_ID": 160,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.59706018519
+  },
+  {
+    "ACTION_ID": 161,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.59707175926
+  },
+  {
+    "ACTION_ID": 162,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.59758101852
+  },
+  {
+    "ACTION_ID": 163,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.59758101852
+  },
+  {
+    "ACTION_ID": 164,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.597592592596
+  },
+  {
+    "ACTION_ID": 165,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.597592592596
+  },
+  {
+    "ACTION_ID": 166,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.59773148148
+  },
+  {
+    "ACTION_ID": 167,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.59777777778
+  },
+  {
+    "ACTION_ID": 168,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.5978125
+  },
+  {
+    "ACTION_ID": 169,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 62,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.59784722222
+  },
+  {
+    "ACTION_ID": 170,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.59798611111
+  },
+  {
+    "ACTION_ID": 171,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.598032407404
+  },
+  {
+    "ACTION_ID": 172,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.5981712963
+  },
+  {
+    "ACTION_ID": 173,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.59821759259
+  },
+  {
+    "ACTION_ID": 174,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.59837962963
+  },
+  {
+    "ACTION_ID": 175,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.598449074074
+  },
+  {
+    "ACTION_ID": 176,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.59846064815
+  },
+  {
+    "ACTION_ID": 177,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.598541666666
+  },
+  {
+    "ACTION_ID": 178,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.59857638889
+  },
+  {
+    "ACTION_ID": 179,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.598657407405
+  },
+  {
+    "ACTION_ID": 180,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.598703703705
+  },
+  {
+    "ACTION_ID": 181,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.59873842593
+  },
+  {
+    "ACTION_ID": 182,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.598761574074
+  },
+  {
+    "ACTION_ID": 183,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.598958333336
+  },
+  {
+    "ACTION_ID": 184,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.5994212963
+  },
+  {
+    "ACTION_ID": 185,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60030092593
+  },
+  {
+    "ACTION_ID": 186,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.600381944445
+  },
+  {
+    "ACTION_ID": 187,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.601111111115
+  },
+  {
+    "ACTION_ID": 188,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60113425926
+  },
+  {
+    "ACTION_ID": 189,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.601168981484
+  },
+  {
+    "ACTION_ID": 190,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60144675926
+  },
+  {
+    "ACTION_ID": 191,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.601481481484
+  },
+  {
+    "ACTION_ID": 192,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60150462963
+  },
+  {
+    "ACTION_ID": 193,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.601631944446
+  },
+  {
+    "ACTION_ID": 194,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60165509259
+  },
+  {
+    "ACTION_ID": 195,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60167824074
+  },
+  {
+    "ACTION_ID": 196,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60172453704
+  },
+  {
+    "ACTION_ID": 197,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60177083333
+  },
+  {
+    "ACTION_ID": 198,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60189814815
+  },
+  {
+    "ACTION_ID": 199,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.602326388886
+  },
+  {
+    "ACTION_ID": 200,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60239583333
+  },
+  {
+    "ACTION_ID": 201,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60254629629
+  },
+  {
+    "ACTION_ID": 202,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60258101852
+  },
+  {
+    "ACTION_ID": 203,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60269675926
+  },
+  {
+    "ACTION_ID": 204,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60275462963
+  },
+  {
+    "ACTION_ID": 205,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.602858796294
+  },
+  {
+    "ACTION_ID": 206,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60293981482
+  },
+  {
+    "ACTION_ID": 207,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.603055555555
+  },
+  {
+    "ACTION_ID": 208,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.603125
+  },
+  {
+    "ACTION_ID": 209,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60318287037
+  },
+  {
+    "ACTION_ID": 210,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60322916666
+  },
+  {
+    "ACTION_ID": 211,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.603321759256
+  },
+  {
+    "ACTION_ID": 212,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60344907407
+  },
+  {
+    "ACTION_ID": 213,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.603472222225
+  },
+  {
+    "ACTION_ID": 214,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.603634259256
+  },
+  {
+    "ACTION_ID": 215,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60371527778
+  },
+  {
+    "ACTION_ID": 216,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 62,
+    "SESSION_ID": 65071,
+    "TIMESTAMP": 43746.60380787037
+  },
+  {
+    "ACTION_ID": 217,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 5574,
+    "TIMESTAMP": 43746.74128472222
+  },
+  {
+    "ACTION_ID": 218,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 5574,
+    "TIMESTAMP": 43746.74133101852
+  },
+  {
+    "ACTION_ID": 219,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 5574,
+    "TIMESTAMP": 43746.74134259259
+  },
+  {
+    "ACTION_ID": 220,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 5574,
+    "TIMESTAMP": 43746.74134259259
+  },
+  {
+    "ACTION_ID": 221,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 5574,
+    "TIMESTAMP": 43746.74135416667
+  },
+  {
+    "ACTION_ID": 222,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 5574,
+    "TIMESTAMP": 43746.74135416667
+  },
+  {
+    "ACTION_ID": 223,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1411,
+    "SESSION_ID": 5574,
+    "TIMESTAMP": 43746.741377314815
+  },
+  {
+    "ACTION_ID": 224,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1121,
+    "SESSION_ID": 5574,
+    "TIMESTAMP": 43746.741377314815
+  },
+  {
+    "ACTION_ID": 225,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 5574,
+    "TIMESTAMP": 43746.74140046296
+  },
+  {
+    "ACTION_ID": 226,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 5574,
+    "TIMESTAMP": 43746.74140046296
+  },
+  {
+    "ACTION_ID": 227,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1434,
+    "SESSION_ID": 5574,
+    "TIMESTAMP": 43746.741423611114
+  },
+  {
+    "ACTION_ID": 228,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 54309,
+    "TIMESTAMP": 43747.35283564815
+  },
+  {
+    "ACTION_ID": 229,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 54309,
+    "TIMESTAMP": 43747.35283564815
+  },
+  {
+    "ACTION_ID": 230,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 54309,
+    "TIMESTAMP": 43747.352847222224
+  },
+  {
+    "ACTION_ID": 231,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 54309,
+    "TIMESTAMP": 43747.352847222224
+  },
+  {
+    "ACTION_ID": 232,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 56680,
+    "TIMESTAMP": 43747.46172453704
+  },
+  {
+    "ACTION_ID": 233,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 56680,
+    "TIMESTAMP": 43749.46402777778
+  },
+  {
+    "ACTION_ID": 234,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1191,
+    "SESSION_ID": 44708,
+    "TIMESTAMP": 43749.56471064815
+  },
+  {
+    "ACTION_ID": 235,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 1191,
+    "SESSION_ID": 44708,
+    "TIMESTAMP": 43749.56475694444
+  },
+  {
+    "ACTION_ID": 236,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 44708,
+    "TIMESTAMP": 43749.56475694444
+  },
+  {
+    "ACTION_ID": 237,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 44708,
+    "TIMESTAMP": 43749.56475694444
+  },
+  {
+    "ACTION_ID": 238,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 44708,
+    "TIMESTAMP": 43749.56475694444
+  },
+  {
+    "ACTION_ID": 239,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 7825,
+    "TIMESTAMP": 43739.58537037037
+  },
+  {
+    "ACTION_ID": 240,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 7825,
+    "TIMESTAMP": 43739.58660879629
+  },
+  {
+    "ACTION_ID": 241,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 7825,
+    "TIMESTAMP": 43741.5883912037
+  },
+  {
+    "ACTION_ID": 242,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 95501,
+    "TIMESTAMP": 43743.50387731481
+  },
+  {
+    "ACTION_ID": 243,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 95501,
+    "TIMESTAMP": 43743.542546296296
+  },
+  {
+    "ACTION_ID": 244,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 95501,
+    "TIMESTAMP": 43743.625763888886
+  },
+  {
+    "ACTION_ID": 245,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.424479166664
+  },
+  {
+    "ACTION_ID": 246,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.47997685185
+  },
+  {
+    "ACTION_ID": 247,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.47998842593
+  },
+  {
+    "ACTION_ID": 248,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.47998842593
+  },
+  {
+    "ACTION_ID": 249,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48
+  },
+  {
+    "ACTION_ID": 250,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48003472222
+  },
+  {
+    "ACTION_ID": 251,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48006944444
+  },
+  {
+    "ACTION_ID": 252,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48076388889
+  },
+  {
+    "ACTION_ID": 253,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48076388889
+  },
+  {
+    "ACTION_ID": 254,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1468,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48079861111
+  },
+  {
+    "ACTION_ID": 255,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.480833333335
+  },
+  {
+    "ACTION_ID": 256,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1434,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48134259259
+  },
+  {
+    "ACTION_ID": 257,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1434,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48137731481
+  },
+  {
+    "ACTION_ID": 258,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48170138889
+  },
+  {
+    "ACTION_ID": 259,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1468,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48174768518
+  },
+  {
+    "ACTION_ID": 260,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48186342593
+  },
+  {
+    "ACTION_ID": 261,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48186342593
+  },
+  {
+    "ACTION_ID": 262,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.481886574074
+  },
+  {
+    "ACTION_ID": 263,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.481886574074
+  },
+  {
+    "ACTION_ID": 264,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48190972222
+  },
+  {
+    "ACTION_ID": 265,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48190972222
+  },
+  {
+    "ACTION_ID": 266,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48190972222
+  },
+  {
+    "ACTION_ID": 267,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48193287037
+  },
+  {
+    "ACTION_ID": 268,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48193287037
+  },
+  {
+    "ACTION_ID": 269,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1510,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.481944444444
+  },
+  {
+    "ACTION_ID": 270,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48200231481
+  },
+  {
+    "ACTION_ID": 271,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48200231481
+  },
+  {
+    "ACTION_ID": 272,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48201388889
+  },
+  {
+    "ACTION_ID": 273,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48212962963
+  },
+  {
+    "ACTION_ID": 274,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 62,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48216435185
+  },
+  {
+    "ACTION_ID": 275,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.4822337963
+  },
+  {
+    "ACTION_ID": 276,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.482395833336
+  },
+  {
+    "ACTION_ID": 277,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.482407407406
+  },
+  {
+    "ACTION_ID": 278,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.482407407406
+  },
+  {
+    "ACTION_ID": 279,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1199,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48248842593
+  },
+  {
+    "ACTION_ID": 280,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48280092593
+  },
+  {
+    "ACTION_ID": 281,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48280092593
+  },
+  {
+    "ACTION_ID": 282,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48287037037
+  },
+  {
+    "ACTION_ID": 283,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48287037037
+  },
+  {
+    "ACTION_ID": 284,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48290509259
+  },
+  {
+    "ACTION_ID": 285,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.482986111114
+  },
+  {
+    "ACTION_ID": 286,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.482986111114
+  },
+  {
+    "ACTION_ID": 287,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.483078703706
+  },
+  {
+    "ACTION_ID": 288,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.483078703706
+  },
+  {
+    "ACTION_ID": 289,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.48310185185
+  },
+  {
+    "ACTION_ID": 290,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.498344907406
+  },
+  {
+    "ACTION_ID": 291,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.49841435185
+  },
+  {
+    "ACTION_ID": 292,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.49842592593
+  },
+  {
+    "ACTION_ID": 293,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.49842592593
+  },
+  {
+    "ACTION_ID": 294,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.4984375
+  },
+  {
+    "ACTION_ID": 295,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.4984375
+  },
+  {
+    "ACTION_ID": 296,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.498460648145
+  },
+  {
+    "ACTION_ID": 297,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1468,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.49931712963
+  },
+  {
+    "ACTION_ID": 298,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.53331018519
+  },
+  {
+    "ACTION_ID": 299,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.53337962963
+  },
+  {
+    "ACTION_ID": 300,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.5333912037
+  },
+  {
+    "ACTION_ID": 301,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.5333912037
+  },
+  {
+    "ACTION_ID": 302,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.5337037037
+  },
+  {
+    "ACTION_ID": 303,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.5337037037
+  },
+  {
+    "ACTION_ID": 304,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.53372685185
+  },
+  {
+    "ACTION_ID": 305,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.53372685185
+  },
+  {
+    "ACTION_ID": 306,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.53372685185
+  },
+  {
+    "ACTION_ID": 307,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.533738425926
+  },
+  {
+    "ACTION_ID": 308,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.533738425926
+  },
+  {
+    "ACTION_ID": 309,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1510,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.533784722225
+  },
+  {
+    "ACTION_ID": 310,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.5412037037
+  },
+  {
+    "ACTION_ID": 311,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54136574074
+  },
+  {
+    "ACTION_ID": 312,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54136574074
+  },
+  {
+    "ACTION_ID": 313,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54138888889
+  },
+  {
+    "ACTION_ID": 314,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54138888889
+  },
+  {
+    "ACTION_ID": 315,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54138888889
+  },
+  {
+    "ACTION_ID": 316,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.541400462964
+  },
+  {
+    "ACTION_ID": 317,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1230,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.541400462964
+  },
+  {
+    "ACTION_ID": 318,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1062,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54142361111
+  },
+  {
+    "ACTION_ID": 319,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54150462963
+  },
+  {
+    "ACTION_ID": 320,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54150462963
+  },
+  {
+    "ACTION_ID": 321,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1411,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54152777778
+  },
+  {
+    "ACTION_ID": 322,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1121,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54152777778
+  },
+  {
+    "ACTION_ID": 323,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.541597222225
+  },
+  {
+    "ACTION_ID": 324,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54184027778
+  },
+  {
+    "ACTION_ID": 325,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54185185185
+  },
+  {
+    "ACTION_ID": 326,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54185185185
+  },
+  {
+    "ACTION_ID": 327,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.541863425926
+  },
+  {
+    "ACTION_ID": 328,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.541863425926
+  },
+  {
+    "ACTION_ID": 329,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.541863425926
+  },
+  {
+    "ACTION_ID": 330,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.541863425926
+  },
+  {
+    "ACTION_ID": 331,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.541863425926
+  },
+  {
+    "ACTION_ID": 332,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.541875
+  },
+  {
+    "ACTION_ID": 333,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1510,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54189814815
+  },
+  {
+    "ACTION_ID": 334,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54195601852
+  },
+  {
+    "ACTION_ID": 335,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.542233796295
+  },
+  {
+    "ACTION_ID": 336,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1510,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.542604166665
+  },
+  {
+    "ACTION_ID": 337,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54277777778
+  },
+  {
+    "ACTION_ID": 338,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54277777778
+  },
+  {
+    "ACTION_ID": 339,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54278935185
+  },
+  {
+    "ACTION_ID": 340,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54549768518
+  },
+  {
+    "ACTION_ID": 341,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.5456712963
+  },
+  {
+    "ACTION_ID": 342,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.5456712963
+  },
+  {
+    "ACTION_ID": 343,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54568287037
+  },
+  {
+    "ACTION_ID": 344,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54568287037
+  },
+  {
+    "ACTION_ID": 345,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54568287037
+  },
+  {
+    "ACTION_ID": 346,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.545694444445
+  },
+  {
+    "ACTION_ID": 347,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.545694444445
+  },
+  {
+    "ACTION_ID": 348,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54574074074
+  },
+  {
+    "ACTION_ID": 349,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1510,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.54578703704
+  },
+  {
+    "ACTION_ID": 350,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.545902777776
+  },
+  {
+    "ACTION_ID": 351,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1510,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.57309027778
+  },
+  {
+    "ACTION_ID": 352,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.573125
+  },
+  {
+    "ACTION_ID": 353,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.573275462964
+  },
+  {
+    "ACTION_ID": 354,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.57494212963
+  },
+  {
+    "ACTION_ID": 355,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.57512731481
+  },
+  {
+    "ACTION_ID": 356,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.5753587963
+  },
+  {
+    "ACTION_ID": 357,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.57542824074
+  },
+  {
+    "ACTION_ID": 358,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.5759375
+  },
+  {
+    "ACTION_ID": 359,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.575949074075
+  },
+  {
+    "ACTION_ID": 360,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.575949074075
+  },
+  {
+    "ACTION_ID": 361,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.57597222222
+  },
+  {
+    "ACTION_ID": 362,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.57597222222
+  },
+  {
+    "ACTION_ID": 363,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.5759837963
+  },
+  {
+    "ACTION_ID": 364,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.5759837963
+  },
+  {
+    "ACTION_ID": 365,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.5759837963
+  },
+  {
+    "ACTION_ID": 366,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.57599537037
+  },
+  {
+    "ACTION_ID": 367,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.57599537037
+  },
+  {
+    "ACTION_ID": 368,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.57599537037
+  },
+  {
+    "ACTION_ID": 369,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.576006944444
+  },
+  {
+    "ACTION_ID": 370,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.59423611111
+  },
+  {
+    "ACTION_ID": 371,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.59428240741
+  },
+  {
+    "ACTION_ID": 372,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.594293981485
+  },
+  {
+    "ACTION_ID": 373,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.594305555554
+  },
+  {
+    "ACTION_ID": 374,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.594305555554
+  },
+  {
+    "ACTION_ID": 375,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.59438657408
+  },
+  {
+    "ACTION_ID": 376,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.59438657408
+  },
+  {
+    "ACTION_ID": 377,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.59439814815
+  },
+  {
+    "ACTION_ID": 378,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.59439814815
+  },
+  {
+    "ACTION_ID": 379,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.59439814815
+  },
+  {
+    "ACTION_ID": 380,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.594409722224
+  },
+  {
+    "ACTION_ID": 381,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.594409722224
+  },
+  {
+    "ACTION_ID": 382,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.594409722224
+  },
+  {
+    "ACTION_ID": 383,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 31994,
+    "TIMESTAMP": 43744.594456018516
+  },
+  {
+    "ACTION_ID": 384,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 64479,
+    "TIMESTAMP": 43745.38655092593
+  },
+  {
+    "ACTION_ID": 385,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 64479,
+    "TIMESTAMP": 43745.45259259259
+  },
+  {
+    "ACTION_ID": 386,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 64479,
+    "TIMESTAMP": 43745.49815972222
+  },
+  {
+    "ACTION_ID": 387,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 64479,
+    "TIMESTAMP": 43745.49849537037
+  },
+  {
+    "ACTION_ID": 388,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 64479,
+    "TIMESTAMP": 43745.498506944445
+  },
+  {
+    "ACTION_ID": 389,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 64479,
+    "TIMESTAMP": 43745.498506944445
+  },
+  {
+    "ACTION_ID": 390,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 64479,
+    "TIMESTAMP": 43745.49917824074
+  },
+  {
+    "ACTION_ID": 391,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 64479,
+    "TIMESTAMP": 43745.49936342592
+  },
+  {
+    "ACTION_ID": 392,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 64479,
+    "TIMESTAMP": 43745.49940972222
+  },
+  {
+    "ACTION_ID": 393,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 12045,
+    "TIMESTAMP": 43746.776296296295
+  },
+  {
+    "ACTION_ID": 394,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 40379,
+    "TIMESTAMP": 43748.58902777778
+  },
+  {
+    "ACTION_ID": 395,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 32738,
+    "TIMESTAMP": 43749.5030787037
+  },
+  {
+    "ACTION_ID": 396,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.92763888889
+  },
+  {
+    "ACTION_ID": 397,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.92765046296
+  },
+  {
+    "ACTION_ID": 398,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.92766203704
+  },
+  {
+    "ACTION_ID": 399,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.92766203704
+  },
+  {
+    "ACTION_ID": 400,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.92824074074
+  },
+  {
+    "ACTION_ID": 401,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.92824074074
+  },
+  {
+    "ACTION_ID": 402,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.928252314814
+  },
+  {
+    "ACTION_ID": 403,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.928252314814
+  },
+  {
+    "ACTION_ID": 404,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1058,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.928252314814
+  },
+  {
+    "ACTION_ID": 405,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.928252314814
+  },
+  {
+    "ACTION_ID": 406,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1058,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.92826388889
+  },
+  {
+    "ACTION_ID": 407,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1301,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.92826388889
+  },
+  {
+    "ACTION_ID": 408,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.92826388889
+  },
+  {
+    "ACTION_ID": 409,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1301,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.92828703704
+  },
+  {
+    "ACTION_ID": 410,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.92842592593
+  },
+  {
+    "ACTION_ID": 411,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.92853009259
+  },
+  {
+    "ACTION_ID": 412,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.93054398148
+  },
+  {
+    "ACTION_ID": 413,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.93078703704
+  },
+  {
+    "ACTION_ID": 414,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.93125
+  },
+  {
+    "ACTION_ID": 415,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.931296296294
+  },
+  {
+    "ACTION_ID": 416,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.93172453704
+  },
+  {
+    "ACTION_ID": 417,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.931875
+  },
+  {
+    "ACTION_ID": 418,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.932280092595
+  },
+  {
+    "ACTION_ID": 419,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.932337962964
+  },
+  {
+    "ACTION_ID": 420,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.9327662037
+  },
+  {
+    "ACTION_ID": 421,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.93298611111
+  },
+  {
+    "ACTION_ID": 422,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.93342592593
+  },
+  {
+    "ACTION_ID": 423,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.93355324074
+  },
+  {
+    "ACTION_ID": 424,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.933842592596
+  },
+  {
+    "ACTION_ID": 425,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.933958333335
+  },
+  {
+    "ACTION_ID": 426,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 1230,
+    "SESSION_ID": 85858,
+    "TIMESTAMP": 43749.9340625
+  },
+  {
+    "ACTION_ID": 427,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 61450,
+    "TIMESTAMP": 43751.693090277775
+  },
+  {
+    "ACTION_ID": 428,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 421,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 61450,
+    "TIMESTAMP": 43751.75212962963
+  },
+  {
+    "ACTION_ID": 429,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 188,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 97675,
+    "TIMESTAMP": 43746.41079861111
+  },
+  {
+    "ACTION_ID": 430,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 188,
+    "CONTENT_ID": 1121,
+    "SESSION_ID": 30288,
+    "TIMESTAMP": 43747.3584375
+  },
+  {
+    "ACTION_ID": 431,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 188,
+    "CONTENT_ID": 1121,
+    "SESSION_ID": 30288,
+    "TIMESTAMP": 43747.35854166667
+  },
+  {
+    "ACTION_ID": 432,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 188,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 30288,
+    "TIMESTAMP": 43747.35854166667
+  },
+  {
+    "ACTION_ID": 433,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 188,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 30288,
+    "TIMESTAMP": 43747.35855324074
+  },
+  {
+    "ACTION_ID": 434,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 188,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 30288,
+    "TIMESTAMP": 43747.35855324074
+  },
+  {
+    "ACTION_ID": 435,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 188,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 30288,
+    "TIMESTAMP": 43750.41616898148
+  },
+  {
+    "ACTION_ID": 436,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 188,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 30288,
+    "TIMESTAMP": 43753.47988425926
+  },
+  {
+    "ACTION_ID": 437,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 7738,
+    "TIMESTAMP": 43740.368263888886
+  },
+  {
+    "ACTION_ID": 438,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 7738,
+    "TIMESTAMP": 43740.372465277775
+  },
+  {
+    "ACTION_ID": 439,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 62458,
+    "TIMESTAMP": 43742.933483796296
+  },
+  {
+    "ACTION_ID": 440,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 38121,
+    "TIMESTAMP": 43747.29825231482
+  },
+  {
+    "ACTION_ID": 441,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 38121,
+    "TIMESTAMP": 43747.36447916667
+  },
+  {
+    "ACTION_ID": 442,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 38121,
+    "TIMESTAMP": 43747.365428240744
+  },
+  {
+    "ACTION_ID": 443,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 92900,
+    "TIMESTAMP": 43749.62767361111
+  },
+  {
+    "ACTION_ID": 444,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 92900,
+    "TIMESTAMP": 43749.62866898148
+  },
+  {
+    "ACTION_ID": 445,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 54044,
+    "TIMESTAMP": 43753.37100694444
+  },
+  {
+    "ACTION_ID": 446,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 38938,
+    "TIMESTAMP": 43753.70880787037
+  },
+  {
+    "ACTION_ID": 447,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 104228,
+    "TIMESTAMP": 43754.34179398148
+  },
+  {
+    "ACTION_ID": 448,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 28333,
+    "TIMESTAMP": 43755.64884259259
+  },
+  {
+    "ACTION_ID": 449,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 29422,
+    "TIMESTAMP": 43756.59637731482
+  },
+  {
+    "ACTION_ID": 450,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.04738425926
+  },
+  {
+    "ACTION_ID": 451,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06340277778
+  },
+  {
+    "ACTION_ID": 452,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.063414351855
+  },
+  {
+    "ACTION_ID": 453,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.063414351855
+  },
+  {
+    "ACTION_ID": 454,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06346064815
+  },
+  {
+    "ACTION_ID": 455,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06346064815
+  },
+  {
+    "ACTION_ID": 456,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06348379629
+  },
+  {
+    "ACTION_ID": 457,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06348379629
+  },
+  {
+    "ACTION_ID": 458,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1058,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06348379629
+  },
+  {
+    "ACTION_ID": 459,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1134,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06348379629
+  },
+  {
+    "ACTION_ID": 460,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06348379629
+  },
+  {
+    "ACTION_ID": 461,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1058,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06353009259
+  },
+  {
+    "ACTION_ID": 462,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1148,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06353009259
+  },
+  {
+    "ACTION_ID": 463,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1152,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06353009259
+  },
+  {
+    "ACTION_ID": 464,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1076,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06353009259
+  },
+  {
+    "ACTION_ID": 465,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1301,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06353009259
+  },
+  {
+    "ACTION_ID": 466,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06353009259
+  },
+  {
+    "ACTION_ID": 467,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1452,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06353009259
+  },
+  {
+    "ACTION_ID": 468,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1152,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.063622685186
+  },
+  {
+    "ACTION_ID": 469,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1076,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06369212963
+  },
+  {
+    "ACTION_ID": 470,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1148,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.063796296294
+  },
+  {
+    "ACTION_ID": 471,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 487,
+    "CONTENT_ID": 1152,
+    "SESSION_ID": 76042,
+    "TIMESTAMP": 43757.06384259259
+  },
+  {
+    "ACTION_ID": 472,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 93304,
+    "TIMESTAMP": 43742.764560185184
+  },
+  {
+    "ACTION_ID": 473,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 93304,
+    "TIMESTAMP": 43742.764560185184
+  },
+  {
+    "ACTION_ID": 474,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 93304,
+    "TIMESTAMP": 43742.76457175926
+  },
+  {
+    "ACTION_ID": 475,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 93304,
+    "TIMESTAMP": 43742.76457175926
+  },
+  {
+    "ACTION_ID": 476,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 1125,
+    "SESSION_ID": 5837,
+    "TIMESTAMP": 43743.024976851855
+  },
+  {
+    "ACTION_ID": 477,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 1125,
+    "SESSION_ID": 5837,
+    "TIMESTAMP": 43743.02501157407
+  },
+  {
+    "ACTION_ID": 478,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 5837,
+    "TIMESTAMP": 43743.02501157407
+  },
+  {
+    "ACTION_ID": 479,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 5837,
+    "TIMESTAMP": 43743.02501157407
+  },
+  {
+    "ACTION_ID": 480,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 5837,
+    "TIMESTAMP": 43743.02501157407
+  },
+  {
+    "ACTION_ID": 481,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 96742,
+    "TIMESTAMP": 43744.84349537037
+  },
+  {
+    "ACTION_ID": 482,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 26929,
+    "TIMESTAMP": 43747.58525462963
+  },
+  {
+    "ACTION_ID": 483,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 66094,
+    "TIMESTAMP": 43753.55831018519
+  },
+  {
+    "ACTION_ID": 484,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 42900,
+    "TIMESTAMP": 43753.746099537035
+  },
+  {
+    "ACTION_ID": 485,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 87768,
+    "TIMESTAMP": 43754.67395833333
+  },
+  {
+    "ACTION_ID": 486,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 87768,
+    "TIMESTAMP": 43754.67396990741
+  },
+  {
+    "ACTION_ID": 487,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 87768,
+    "TIMESTAMP": 43754.67398148148
+  },
+  {
+    "ACTION_ID": 488,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 87768,
+    "TIMESTAMP": 43754.67398148148
+  },
+  {
+    "ACTION_ID": 489,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 25625,
+    "TIMESTAMP": 43755.06930555555
+  },
+  {
+    "ACTION_ID": 490,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 78494,
+    "TIMESTAMP": 43756.79619212963
+  },
+  {
+    "ACTION_ID": 491,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 25152,
+    "TIMESTAMP": 43759.60594907407
+  },
+  {
+    "ACTION_ID": 492,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 25152,
+    "TIMESTAMP": 43759.60596064815
+  },
+  {
+    "ACTION_ID": 493,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 25152,
+    "TIMESTAMP": 43759.60596064815
+  },
+  {
+    "ACTION_ID": 494,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 25152,
+    "TIMESTAMP": 43759.60596064815
+  },
+  {
+    "ACTION_ID": 495,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 94121,
+    "TIMESTAMP": 43759.762407407405
+  },
+  {
+    "ACTION_ID": 496,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 94121,
+    "TIMESTAMP": 43759.76241898148
+  },
+  {
+    "ACTION_ID": 497,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 94121,
+    "TIMESTAMP": 43759.76243055556
+  },
+  {
+    "ACTION_ID": 498,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 123,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 94121,
+    "TIMESTAMP": 43759.76243055556
+  },
+  {
+    "ACTION_ID": 499,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 765,
+    "CONTENT_ID": 1148,
+    "SESSION_ID": 36116,
+    "TIMESTAMP": 43753.66939814815
+  },
+  {
+    "ACTION_ID": 500,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 765,
+    "CONTENT_ID": 1148,
+    "SESSION_ID": 36116,
+    "TIMESTAMP": 43753.66945601852
+  },
+  {
+    "ACTION_ID": 501,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 765,
+    "CONTENT_ID": 1199,
+    "SESSION_ID": 36116,
+    "TIMESTAMP": 43753.669537037036
+  },
+  {
+    "ACTION_ID": 502,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 765,
+    "CONTENT_ID": 1515,
+    "SESSION_ID": 36116,
+    "TIMESTAMP": 43753.669537037036
+  },
+  {
+    "ACTION_ID": 503,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 765,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 36116,
+    "TIMESTAMP": 43753.66962962963
+  },
+  {
+    "ACTION_ID": 504,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 765,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 36116,
+    "TIMESTAMP": 43753.669699074075
+  },
+  {
+    "ACTION_ID": 505,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 765,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 36116,
+    "TIMESTAMP": 43753.669699074075
+  },
+  {
+    "ACTION_ID": 506,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 765,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 38067,
+    "TIMESTAMP": 43754.53108796296
+  },
+  {
+    "ACTION_ID": 507,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 765,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 38067,
+    "TIMESTAMP": 43754.531793981485
+  },
+  {
+    "ACTION_ID": 508,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 765,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 38067,
+    "TIMESTAMP": 43754.53303240741
+  },
+  {
+    "ACTION_ID": 509,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 765,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 38067,
+    "TIMESTAMP": 43754.53355324074
+  },
+  {
+    "ACTION_ID": 510,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 905,
+    "CONTENT_ID": 1078,
+    "SESSION_ID": 102907,
+    "TIMESTAMP": 43749.55372685185
+  },
+  {
+    "ACTION_ID": 511,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 905,
+    "CONTENT_ID": 1078,
+    "SESSION_ID": 102907,
+    "TIMESTAMP": 43749.55373842592
+  },
+  {
+    "ACTION_ID": 512,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 905,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 55759,
+    "TIMESTAMP": 43754.65505787037
+  },
+  {
+    "ACTION_ID": 513,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 905,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 55759,
+    "TIMESTAMP": 43754.655335648145
+  },
+  {
+    "ACTION_ID": 514,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 905,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 55759,
+    "TIMESTAMP": 43754.65534722222
+  },
+  {
+    "ACTION_ID": 515,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 905,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 55759,
+    "TIMESTAMP": 43754.65534722222
+  },
+  {
+    "ACTION_ID": 516,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 905,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 55759,
+    "TIMESTAMP": 43754.65537037037
+  },
+  {
+    "ACTION_ID": 517,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.353414351855
+  },
+  {
+    "ACTION_ID": 518,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35356481482
+  },
+  {
+    "ACTION_ID": 519,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35434027778
+  },
+  {
+    "ACTION_ID": 520,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35434027778
+  },
+  {
+    "ACTION_ID": 521,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35434027778
+  },
+  {
+    "ACTION_ID": 522,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35439814815
+  },
+  {
+    "ACTION_ID": 523,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35445601852
+  },
+  {
+    "ACTION_ID": 524,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35445601852
+  },
+  {
+    "ACTION_ID": 525,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35449074074
+  },
+  {
+    "ACTION_ID": 526,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35449074074
+  },
+  {
+    "ACTION_ID": 527,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35451388889
+  },
+  {
+    "ACTION_ID": 528,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 1316,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35451388889
+  },
+  {
+    "ACTION_ID": 529,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35451388889
+  },
+  {
+    "ACTION_ID": 530,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35457175926
+  },
+  {
+    "ACTION_ID": 531,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35457175926
+  },
+  {
+    "ACTION_ID": 532,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.354583333334
+  },
+  {
+    "ACTION_ID": 533,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35474537037
+  },
+  {
+    "ACTION_ID": 534,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35474537037
+  },
+  {
+    "ACTION_ID": 535,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.354780092595
+  },
+  {
+    "ACTION_ID": 536,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.354791666665
+  },
+  {
+    "ACTION_ID": 537,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 1472,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.35482638889
+  },
+  {
+    "ACTION_ID": 538,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 59902,
+    "TIMESTAMP": 43739.40325231481
+  },
+  {
+    "ACTION_ID": 539,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 16378,
+    "TIMESTAMP": 43742.01988425926
+  },
+  {
+    "ACTION_ID": 540,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 13415,
+    "TIMESTAMP": 43743.814421296294
+  },
+  {
+    "ACTION_ID": 541,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 392,
+    "CONTENT_ID": 1121,
+    "SESSION_ID": 83731,
+    "TIMESTAMP": 43747.37275462963
+  },
+  {
+    "ACTION_ID": 542,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 392,
+    "CONTENT_ID": 1121,
+    "SESSION_ID": 83731,
+    "TIMESTAMP": 43747.3728125
+  },
+  {
+    "ACTION_ID": 543,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 392,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 79590,
+    "TIMESTAMP": 43748.59881944444
+  },
+  {
+    "ACTION_ID": 544,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 392,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 66297,
+    "TIMESTAMP": 43755.80168981481
+  },
+  {
+    "ACTION_ID": 545,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 561,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 98934,
+    "TIMESTAMP": 43749.36740740741
+  },
+  {
+    "ACTION_ID": 546,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 561,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 32796,
+    "TIMESTAMP": 43749.45533564815
+  },
+  {
+    "ACTION_ID": 547,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 561,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 32796,
+    "TIMESTAMP": 43752.499375
+  },
+  {
+    "ACTION_ID": 548,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 561,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 32796,
+    "TIMESTAMP": 43762.50103009259
+  },
+  {
+    "ACTION_ID": 549,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 38,
+    "CONTENT_ID": 1121,
+    "SESSION_ID": 18950,
+    "TIMESTAMP": 43747.35824074074
+  },
+  {
+    "ACTION_ID": 550,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 38,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 18950,
+    "TIMESTAMP": 43747.35827546296
+  },
+  {
+    "ACTION_ID": 551,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 38,
+    "CONTENT_ID": 1121,
+    "SESSION_ID": 18950,
+    "TIMESTAMP": 43747.35828703704
+  },
+  {
+    "ACTION_ID": 552,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 38,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 18950,
+    "TIMESTAMP": 43747.35828703704
+  },
+  {
+    "ACTION_ID": 553,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 38,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 18950,
+    "TIMESTAMP": 43747.35828703704
+  },
+  {
+    "ACTION_ID": 554,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 38,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 72564,
+    "TIMESTAMP": 43747.95291666667
+  },
+  {
+    "ACTION_ID": 555,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 38,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 103397,
+    "TIMESTAMP": 43748.637974537036
+  },
+  {
+    "ACTION_ID": 556,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 734,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 19371,
+    "TIMESTAMP": 43745.722650462965
+  },
+  {
+    "ACTION_ID": 557,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 734,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 90608,
+    "TIMESTAMP": 43761.853125
+  },
+  {
+    "ACTION_ID": 558,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 734,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 99,
+    "TIMESTAMP": 43762.42716435185
+  },
+  {
+    "ACTION_ID": 559,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 23316,
+    "TIMESTAMP": 43743.35313657407
+  },
+  {
+    "ACTION_ID": 560,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 23316,
+    "TIMESTAMP": 43743.353310185186
+  },
+  {
+    "ACTION_ID": 561,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 23316,
+    "TIMESTAMP": 43743.35333333333
+  },
+  {
+    "ACTION_ID": 562,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 23316,
+    "TIMESTAMP": 43743.35333333333
+  },
+  {
+    "ACTION_ID": 563,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 23316,
+    "TIMESTAMP": 43743.35334490741
+  },
+  {
+    "ACTION_ID": 564,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 23316,
+    "TIMESTAMP": 43743.35334490741
+  },
+  {
+    "ACTION_ID": 565,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 23316,
+    "TIMESTAMP": 43743.35337962963
+  },
+  {
+    "ACTION_ID": 566,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 23316,
+    "TIMESTAMP": 43743.35337962963
+  },
+  {
+    "ACTION_ID": 567,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1411,
+    "SESSION_ID": 23316,
+    "TIMESTAMP": 43743.35340277778
+  },
+  {
+    "ACTION_ID": 568,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1121,
+    "SESSION_ID": 23316,
+    "TIMESTAMP": 43743.35340277778
+  },
+  {
+    "ACTION_ID": 569,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1121,
+    "SESSION_ID": 23316,
+    "TIMESTAMP": 43743.353414351855
+  },
+  {
+    "ACTION_ID": 570,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 25208,
+    "TIMESTAMP": 43743.96372685185
+  },
+  {
+    "ACTION_ID": 571,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 25208,
+    "TIMESTAMP": 43743.96423611111
+  },
+  {
+    "ACTION_ID": 572,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 25208,
+    "TIMESTAMP": 43743.96424768519
+  },
+  {
+    "ACTION_ID": 573,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 25208,
+    "TIMESTAMP": 43743.96424768519
+  },
+  {
+    "ACTION_ID": 574,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 28741,
+    "TIMESTAMP": 43746.35917824074
+  },
+  {
+    "ACTION_ID": 575,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 28741,
+    "TIMESTAMP": 43746.35922453704
+  },
+  {
+    "ACTION_ID": 576,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 5368,
+    "TIMESTAMP": 43746.460127314815
+  },
+  {
+    "ACTION_ID": 577,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 5368,
+    "TIMESTAMP": 43746.49351851852
+  },
+  {
+    "ACTION_ID": 578,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 5368,
+    "TIMESTAMP": 43746.49353009259
+  },
+  {
+    "ACTION_ID": 579,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 5368,
+    "TIMESTAMP": 43746.49354166666
+  },
+  {
+    "ACTION_ID": 580,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 5368,
+    "TIMESTAMP": 43746.49354166666
+  },
+  {
+    "ACTION_ID": 581,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 53969,
+    "TIMESTAMP": 43746.8009375
+  },
+  {
+    "ACTION_ID": 582,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 79750,
+    "TIMESTAMP": 43747.47996527778
+  },
+  {
+    "ACTION_ID": 583,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 79750,
+    "TIMESTAMP": 43747.480092592596
+  },
+  {
+    "ACTION_ID": 584,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 79750,
+    "TIMESTAMP": 43747.480104166665
+  },
+  {
+    "ACTION_ID": 585,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 62,
+    "SESSION_ID": 79750,
+    "TIMESTAMP": 43747.48012731481
+  },
+  {
+    "ACTION_ID": 586,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 62,
+    "SESSION_ID": 79750,
+    "TIMESTAMP": 43747.48013888889
+  },
+  {
+    "ACTION_ID": 587,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 79750,
+    "TIMESTAMP": 43747.480150462965
+  },
+  {
+    "ACTION_ID": 588,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 20756,
+    "TIMESTAMP": 43752.36256944444
+  },
+  {
+    "ACTION_ID": 589,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 20756,
+    "TIMESTAMP": 43752.36269675926
+  },
+  {
+    "ACTION_ID": 590,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 20756,
+    "TIMESTAMP": 43752.362708333334
+  },
+  {
+    "ACTION_ID": 591,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 20756,
+    "TIMESTAMP": 43752.362708333334
+  },
+  {
+    "ACTION_ID": 592,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 30904,
+    "TIMESTAMP": 43752.472025462965
+  },
+  {
+    "ACTION_ID": 593,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 30904,
+    "TIMESTAMP": 43752.472025462965
+  },
+  {
+    "ACTION_ID": 594,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1411,
+    "SESSION_ID": 30904,
+    "TIMESTAMP": 43752.472037037034
+  },
+  {
+    "ACTION_ID": 595,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1121,
+    "SESSION_ID": 30904,
+    "TIMESTAMP": 43752.472037037034
+  },
+  {
+    "ACTION_ID": 596,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1121,
+    "SESSION_ID": 30904,
+    "TIMESTAMP": 43752.47206018519
+  },
+  {
+    "ACTION_ID": 597,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 22226,
+    "TIMESTAMP": 43752.65719907408
+  },
+  {
+    "ACTION_ID": 598,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 22226,
+    "TIMESTAMP": 43752.65721064815
+  },
+  {
+    "ACTION_ID": 599,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 22226,
+    "TIMESTAMP": 43752.65729166667
+  },
+  {
+    "ACTION_ID": 600,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 22226,
+    "TIMESTAMP": 43752.65730324074
+  },
+  {
+    "ACTION_ID": 601,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 22226,
+    "TIMESTAMP": 43752.65730324074
+  },
+  {
+    "ACTION_ID": 602,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 22226,
+    "TIMESTAMP": 43752.657314814816
+  },
+  {
+    "ACTION_ID": 603,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1148,
+    "SESSION_ID": 22226,
+    "TIMESTAMP": 43752.66527777778
+  },
+  {
+    "ACTION_ID": 604,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1148,
+    "SESSION_ID": 22226,
+    "TIMESTAMP": 43752.6653125
+  },
+  {
+    "ACTION_ID": 605,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 29181,
+    "TIMESTAMP": 43753.45719907407
+  },
+  {
+    "ACTION_ID": 606,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 77412,
+    "TIMESTAMP": 43753.93827546296
+  },
+  {
+    "ACTION_ID": 607,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 57188,
+    "TIMESTAMP": 43754.42427083333
+  },
+  {
+    "ACTION_ID": 608,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1155,
+    "SESSION_ID": 39689,
+    "TIMESTAMP": 43755.39597222222
+  },
+  {
+    "ACTION_ID": 609,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1155,
+    "SESSION_ID": 39689,
+    "TIMESTAMP": 43755.396006944444
+  },
+  {
+    "ACTION_ID": 610,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 39689,
+    "TIMESTAMP": 43755.39606481481
+  },
+  {
+    "ACTION_ID": 611,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 62,
+    "SESSION_ID": 39689,
+    "TIMESTAMP": 43755.396099537036
+  },
+  {
+    "ACTION_ID": 612,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 39689,
+    "TIMESTAMP": 43755.39612268518
+  },
+  {
+    "ACTION_ID": 613,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 39689,
+    "TIMESTAMP": 43755.45824074074
+  },
+  {
+    "ACTION_ID": 614,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 81875,
+    "TIMESTAMP": 43758.75446759259
+  },
+  {
+    "ACTION_ID": 615,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43759.55131944444
+  },
+  {
+    "ACTION_ID": 616,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.6309837963
+  },
+  {
+    "ACTION_ID": 617,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.631319444445
+  },
+  {
+    "ACTION_ID": 618,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.63138888889
+  },
+  {
+    "ACTION_ID": 619,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.63138888889
+  },
+  {
+    "ACTION_ID": 620,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.63140046296
+  },
+  {
+    "ACTION_ID": 621,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.63140046296
+  },
+  {
+    "ACTION_ID": 622,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.63141203704
+  },
+  {
+    "ACTION_ID": 623,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.631423611114
+  },
+  {
+    "ACTION_ID": 624,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.631423611114
+  },
+  {
+    "ACTION_ID": 625,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1058,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.631423611114
+  },
+  {
+    "ACTION_ID": 626,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1134,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.631423611114
+  },
+  {
+    "ACTION_ID": 627,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.631423611114
+  },
+  {
+    "ACTION_ID": 628,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1058,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.63144675926
+  },
+  {
+    "ACTION_ID": 629,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1148,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.63144675926
+  },
+  {
+    "ACTION_ID": 630,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1152,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.63144675926
+  },
+  {
+    "ACTION_ID": 631,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1076,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.63144675926
+  },
+  {
+    "ACTION_ID": 632,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1301,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.63144675926
+  },
+  {
+    "ACTION_ID": 633,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1196,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.63144675926
+  },
+  {
+    "ACTION_ID": 634,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1452,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.63144675926
+  },
+  {
+    "ACTION_ID": 635,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 1152,
+    "SESSION_ID": 81844,
+    "TIMESTAMP": 43760.63148148148
+  },
+  {
+    "ACTION_ID": 636,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 71338,
+    "TIMESTAMP": 43761.51966435185
+  },
+  {
+    "ACTION_ID": 637,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 103980,
+    "TIMESTAMP": 43763.70967592593
+  },
+  {
+    "ACTION_ID": 638,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 103980,
+    "TIMESTAMP": 43763.709710648145
+  },
+  {
+    "ACTION_ID": 639,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 103980,
+    "TIMESTAMP": 43763.70972222222
+  },
+  {
+    "ACTION_ID": 640,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 103980,
+    "TIMESTAMP": 43763.70972222222
+  },
+  {
+    "ACTION_ID": 641,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 643,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 103980,
+    "TIMESTAMP": 43763.70972222222
+  },
+  {
+    "ACTION_ID": 642,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 205,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 581,
+    "TIMESTAMP": 43739.51954861111
+  },
+  {
+    "ACTION_ID": 643,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 205,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 71018,
+    "TIMESTAMP": 43740.320127314815
+  },
+  {
+    "ACTION_ID": 644,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 205,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 71018,
+    "TIMESTAMP": 43740.397141203706
+  },
+  {
+    "ACTION_ID": 645,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 205,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 81138,
+    "TIMESTAMP": 43740.66128472222
+  },
+  {
+    "ACTION_ID": 646,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 205,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 10902,
+    "TIMESTAMP": 43745.31138888889
+  },
+  {
+    "ACTION_ID": 647,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 205,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 44406,
+    "TIMESTAMP": 43756.569236111114
+  },
+  {
+    "ACTION_ID": 648,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76097222222
+  },
+  {
+    "ACTION_ID": 649,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.760983796295
+  },
+  {
+    "ACTION_ID": 650,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76101851852
+  },
+  {
+    "ACTION_ID": 651,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76101851852
+  },
+  {
+    "ACTION_ID": 652,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.761030092595
+  },
+  {
+    "ACTION_ID": 653,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.761030092595
+  },
+  {
+    "ACTION_ID": 654,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76138888889
+  },
+  {
+    "ACTION_ID": 655,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76138888889
+  },
+  {
+    "ACTION_ID": 656,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.761412037034
+  },
+  {
+    "ACTION_ID": 657,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.761412037034
+  },
+  {
+    "ACTION_ID": 658,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.761412037034
+  },
+  {
+    "ACTION_ID": 659,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76144675926
+  },
+  {
+    "ACTION_ID": 660,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1230,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76144675926
+  },
+  {
+    "ACTION_ID": 661,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.761469907404
+  },
+  {
+    "ACTION_ID": 662,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.761469907404
+  },
+  {
+    "ACTION_ID": 663,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1510,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76150462963
+  },
+  {
+    "ACTION_ID": 664,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76193287037
+  },
+  {
+    "ACTION_ID": 665,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.761967592596
+  },
+  {
+    "ACTION_ID": 666,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.761967592596
+  },
+  {
+    "ACTION_ID": 667,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.761979166666
+  },
+  {
+    "ACTION_ID": 668,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76200231481
+  },
+  {
+    "ACTION_ID": 669,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.762037037035
+  },
+  {
+    "ACTION_ID": 670,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76215277778
+  },
+  {
+    "ACTION_ID": 671,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1230,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76215277778
+  },
+  {
+    "ACTION_ID": 672,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1468,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76219907407
+  },
+  {
+    "ACTION_ID": 673,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1434,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76224537037
+  },
+  {
+    "ACTION_ID": 674,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1434,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76226851852
+  },
+  {
+    "ACTION_ID": 675,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1408,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.762349537035
+  },
+  {
+    "ACTION_ID": 676,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 34,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.762708333335
+  },
+  {
+    "ACTION_ID": 677,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76275462963
+  },
+  {
+    "ACTION_ID": 678,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 62,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76278935185
+  },
+  {
+    "ACTION_ID": 679,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76280092593
+  },
+  {
+    "ACTION_ID": 680,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 30,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76296296297
+  },
+  {
+    "ACTION_ID": 681,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 62,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76306712963
+  },
+  {
+    "ACTION_ID": 682,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.763125
+  },
+  {
+    "ACTION_ID": 683,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.763125
+  },
+  {
+    "ACTION_ID": 684,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76315972222
+  },
+  {
+    "ACTION_ID": 685,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76315972222
+  },
+  {
+    "ACTION_ID": 686,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.76315972222
+  },
+  {
+    "ACTION_ID": 687,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.7631712963
+  },
+  {
+    "ACTION_ID": 688,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 38770,
+    "TIMESTAMP": 43740.7631712963
+  },
+  {
+    "ACTION_ID": 689,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 83992,
+    "TIMESTAMP": 43745.883622685185
+  },
+  {
+    "ACTION_ID": 690,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 71331,
+    "TIMESTAMP": 43746.37420138889
+  },
+  {
+    "ACTION_ID": 691,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 40371,
+    "TIMESTAMP": 43746.743055555555
+  },
+  {
+    "ACTION_ID": 692,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 99140,
+    "TIMESTAMP": 43747.5968287037
+  },
+  {
+    "ACTION_ID": 693,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57635416667
+  },
+  {
+    "ACTION_ID": 694,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57645833334
+  },
+  {
+    "ACTION_ID": 695,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.576469907406
+  },
+  {
+    "ACTION_ID": 696,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57648148148
+  },
+  {
+    "ACTION_ID": 697,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57648148148
+  },
+  {
+    "ACTION_ID": 698,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57648148148
+  },
+  {
+    "ACTION_ID": 699,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57649305555
+  },
+  {
+    "ACTION_ID": 700,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57649305555
+  },
+  {
+    "ACTION_ID": 701,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1058,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57649305555
+  },
+  {
+    "ACTION_ID": 702,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1134,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57649305555
+  },
+  {
+    "ACTION_ID": 703,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57649305555
+  },
+  {
+    "ACTION_ID": 704,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57650462963
+  },
+  {
+    "ACTION_ID": 705,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57650462963
+  },
+  {
+    "ACTION_ID": 706,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1078,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57650462963
+  },
+  {
+    "ACTION_ID": 707,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1191,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57650462963
+  },
+  {
+    "ACTION_ID": 708,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57650462963
+  },
+  {
+    "ACTION_ID": 709,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1212,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57650462963
+  },
+  {
+    "ACTION_ID": 710,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.576516203706
+  },
+  {
+    "ACTION_ID": 711,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 29856,
+    "TIMESTAMP": 43755.57655092593
+  },
+  {
+    "ACTION_ID": 712,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 591,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 91788,
+    "TIMESTAMP": 43739.41017361111
+  },
+  {
+    "ACTION_ID": 713,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 591,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 91788,
+    "TIMESTAMP": 43739.41271990741
+  },
+  {
+    "ACTION_ID": 714,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 591,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 91788,
+    "TIMESTAMP": 43739.414872685185
+  },
+  {
+    "ACTION_ID": 715,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 591,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 91788,
+    "TIMESTAMP": 43739.41488425926
+  },
+  {
+    "ACTION_ID": 716,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 591,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 91788,
+    "TIMESTAMP": 43739.41488425926
+  },
+  {
+    "ACTION_ID": 717,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 591,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 90806,
+    "TIMESTAMP": 43747.88527777778
+  },
+  {
+    "ACTION_ID": 718,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 591,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 16469,
+    "TIMESTAMP": 43754.52960648148
+  },
+  {
+    "ACTION_ID": 719,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 591,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 66196,
+    "TIMESTAMP": 43760.422002314815
+  },
+  {
+    "ACTION_ID": 720,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 591,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 3106,
+    "TIMESTAMP": 43761.06506944444
+  },
+  {
+    "ACTION_ID": 721,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 591,
+    "CONTENT_ID": 3,
+    "SESSION_ID": 3106,
+    "TIMESTAMP": 43761.065150462964
+  },
+  {
+    "ACTION_ID": 722,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 591,
+    "CONTENT_ID": 15,
+    "SESSION_ID": 3106,
+    "TIMESTAMP": 43761.06516203703
+  },
+  {
+    "ACTION_ID": 723,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 591,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 3106,
+    "TIMESTAMP": 43761.06516203703
+  },
+  {
+    "ACTION_ID": 724,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 591,
+    "CONTENT_ID": 29,
+    "SESSION_ID": 24664,
+    "TIMESTAMP": 43761.444236111114
+  },
+  {
+    "ACTION_ID": 725,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.48642361111
+  },
+  {
+    "ACTION_ID": 726,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.48648148148
+  },
+  {
+    "ACTION_ID": 727,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.48648148148
+  },
+  {
+    "ACTION_ID": 728,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.48652777778
+  },
+  {
+    "ACTION_ID": 729,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.48652777778
+  },
+  {
+    "ACTION_ID": 730,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.48657407407
+  },
+  {
+    "ACTION_ID": 731,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.56741898148
+  },
+  {
+    "ACTION_ID": 732,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.56748842593
+  },
+  {
+    "ACTION_ID": 733,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.567511574074
+  },
+  {
+    "ACTION_ID": 734,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.567511574074
+  },
+  {
+    "ACTION_ID": 735,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.5675462963
+  },
+  {
+    "ACTION_ID": 736,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.5675462963
+  },
+  {
+    "ACTION_ID": 737,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.567557870374
+  },
+  {
+    "ACTION_ID": 738,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.608402777776
+  },
+  {
+    "ACTION_ID": 739,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.608460648145
+  },
+  {
+    "ACTION_ID": 740,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.608460648145
+  },
+  {
+    "ACTION_ID": 741,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.60847222222
+  },
+  {
+    "ACTION_ID": 742,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.60847222222
+  },
+  {
+    "ACTION_ID": 743,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 34628,
+    "TIMESTAMP": 43739.608506944445
+  },
+  {
+    "ACTION_ID": 744,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 7931,
+    "TIMESTAMP": 43739.75462962963
+  },
+  {
+    "ACTION_ID": 745,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 7931,
+    "TIMESTAMP": 43739.75518518518
+  },
+  {
+    "ACTION_ID": 746,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 7931,
+    "TIMESTAMP": 43739.75518518518
+  },
+  {
+    "ACTION_ID": 747,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 7931,
+    "TIMESTAMP": 43739.755208333336
+  },
+  {
+    "ACTION_ID": 748,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 7931,
+    "TIMESTAMP": 43739.755208333336
+  },
+  {
+    "ACTION_ID": 749,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 7931,
+    "TIMESTAMP": 43739.75523148148
+  },
+  {
+    "ACTION_ID": 750,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 851,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 95567,
+    "TIMESTAMP": 43739.525034722225
+  },
+  {
+    "ACTION_ID": 751,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 851,
+    "CONTENT_ID": 1327,
+    "SESSION_ID": 95567,
+    "TIMESTAMP": 43739.52506944445
+  },
+  {
+    "ACTION_ID": 752,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 851,
+    "CONTENT_ID": 1174,
+    "SESSION_ID": 95567,
+    "TIMESTAMP": 43739.52506944445
+  },
+  {
+    "ACTION_ID": 753,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 851,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 95567,
+    "TIMESTAMP": 43739.52511574074
+  },
+  {
+    "ACTION_ID": 754,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 851,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 95567,
+    "TIMESTAMP": 43739.52511574074
+  },
+  {
+    "ACTION_ID": 755,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 851,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 95567,
+    "TIMESTAMP": 43739.52515046296
+  },
+  {
+    "ACTION_ID": 756,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 851,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 95567,
+    "TIMESTAMP": 43739.52515046296
+  },
+  {
+    "ACTION_ID": 757,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 851,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 95567,
+    "TIMESTAMP": 43739.525289351855
+  },
+  {
+    "ACTION_ID": 758,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 851,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 95567,
+    "TIMESTAMP": 43739.525289351855
+  },
+  {
+    "ACTION_ID": 759,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 851,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 95567,
+    "TIMESTAMP": 43739.525358796294
+  },
+  {
+    "ACTION_ID": 760,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 851,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 48697,
+    "TIMESTAMP": 43739.613541666666
+  },
+  {
+    "ACTION_ID": 761,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.52490740741
+  },
+  {
+    "ACTION_ID": 762,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.524930555555
+  },
+  {
+    "ACTION_ID": 763,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.524930555555
+  },
+  {
+    "ACTION_ID": 764,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.52502314815
+  },
+  {
+    "ACTION_ID": 765,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.52502314815
+  },
+  {
+    "ACTION_ID": 766,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.525046296294
+  },
+  {
+    "ACTION_ID": 767,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.52506944445
+  },
+  {
+    "ACTION_ID": 768,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.52506944445
+  },
+  {
+    "ACTION_ID": 769,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.52508101852
+  },
+  {
+    "ACTION_ID": 770,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.52508101852
+  },
+  {
+    "ACTION_ID": 771,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.52511574074
+  },
+  {
+    "ACTION_ID": 772,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.52511574074
+  },
+  {
+    "ACTION_ID": 773,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.52512731482
+  },
+  {
+    "ACTION_ID": 774,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.52512731482
+  },
+  {
+    "ACTION_ID": 775,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.52515046296
+  },
+  {
+    "ACTION_ID": 776,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.52515046296
+  },
+  {
+    "ACTION_ID": 777,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 35491,
+    "TIMESTAMP": 43739.525185185186
+  },
+  {
+    "ACTION_ID": 778,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 11277,
+    "TIMESTAMP": 43739.66747685185
+  },
+  {
+    "ACTION_ID": 779,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 11277,
+    "TIMESTAMP": 43739.66748842593
+  },
+  {
+    "ACTION_ID": 780,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 24397,
+    "TIMESTAMP": 43739.46671296296
+  },
+  {
+    "ACTION_ID": 781,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 24397,
+    "TIMESTAMP": 43739.46675925926
+  },
+  {
+    "ACTION_ID": 782,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 24397,
+    "TIMESTAMP": 43739.46675925926
+  },
+  {
+    "ACTION_ID": 783,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 24397,
+    "TIMESTAMP": 43739.466944444444
+  },
+  {
+    "ACTION_ID": 784,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 24397,
+    "TIMESTAMP": 43739.466944444444
+  },
+  {
+    "ACTION_ID": 785,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 24397,
+    "TIMESTAMP": 43739.46697916667
+  },
+  {
+    "ACTION_ID": 786,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 24397,
+    "TIMESTAMP": 43739.47625
+  },
+  {
+    "ACTION_ID": 787,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 24397,
+    "TIMESTAMP": 43739.476273148146
+  },
+  {
+    "ACTION_ID": 788,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 24397,
+    "TIMESTAMP": 43739.476273148146
+  },
+  {
+    "ACTION_ID": 789,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 24397,
+    "TIMESTAMP": 43739.481620370374
+  },
+  {
+    "ACTION_ID": 790,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 24397,
+    "TIMESTAMP": 43739.48165509259
+  },
+  {
+    "ACTION_ID": 791,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 24397,
+    "TIMESTAMP": 43739.48165509259
+  },
+  {
+    "ACTION_ID": 792,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 17519,
+    "TIMESTAMP": 43739.6059375
+  },
+  {
+    "ACTION_ID": 793,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 17519,
+    "TIMESTAMP": 43739.60600694444
+  },
+  {
+    "ACTION_ID": 794,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 17519,
+    "TIMESTAMP": 43739.60600694444
+  },
+  {
+    "ACTION_ID": 795,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 17519,
+    "TIMESTAMP": 43739.60605324074
+  },
+  {
+    "ACTION_ID": 796,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 17519,
+    "TIMESTAMP": 43739.60605324074
+  },
+  {
+    "ACTION_ID": 797,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 17519,
+    "TIMESTAMP": 43739.606087962966
+  },
+  {
+    "ACTION_ID": 798,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 287,
+    "CONTENT_ID": 1005,
+    "SESSION_ID": 17519,
+    "TIMESTAMP": 43739.611296296294
+  },
+  {
+    "ACTION_ID": 799,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 543,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 55508,
+    "TIMESTAMP": 43739.568032407406
+  },
+  {
+    "ACTION_ID": 800,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 543,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 55508,
+    "TIMESTAMP": 43739.56806712963
+  },
+  {
+    "ACTION_ID": 801,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 543,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 55508,
+    "TIMESTAMP": 43739.56806712963
+  },
+  {
+    "ACTION_ID": 802,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 543,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 55508,
+    "TIMESTAMP": 43739.56810185185
+  },
+  {
+    "ACTION_ID": 803,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 543,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 55508,
+    "TIMESTAMP": 43739.56810185185
+  },
+  {
+    "ACTION_ID": 804,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 543,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 55508,
+    "TIMESTAMP": 43739.568125
+  },
+  {
+    "ACTION_ID": 805,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 543,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 71299,
+    "TIMESTAMP": 43739.67591435185
+  },
+  {
+    "ACTION_ID": 806,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 543,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 71299,
+    "TIMESTAMP": 43739.6759375
+  },
+  {
+    "ACTION_ID": 807,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 543,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 71299,
+    "TIMESTAMP": 43739.6759375
+  },
+  {
+    "ACTION_ID": 808,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 543,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 71299,
+    "TIMESTAMP": 43739.67597222222
+  },
+  {
+    "ACTION_ID": 809,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 543,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 71299,
+    "TIMESTAMP": 43739.67597222222
+  },
+  {
+    "ACTION_ID": 810,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 543,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 71299,
+    "TIMESTAMP": 43739.67599537037
+  },
+  {
+    "ACTION_ID": 811,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 271,
+    "CONTENT_ID": 1316,
+    "SESSION_ID": 90949,
+    "TIMESTAMP": 43739.4621875
+  },
+  {
+    "ACTION_ID": 812,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 271,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 90949,
+    "TIMESTAMP": 43739.462233796294
+  },
+  {
+    "ACTION_ID": 813,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 271,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 90949,
+    "TIMESTAMP": 43739.462233796294
+  },
+  {
+    "ACTION_ID": 814,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 271,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 90949,
+    "TIMESTAMP": 43739.46225694445
+  },
+  {
+    "ACTION_ID": 815,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 271,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 90949,
+    "TIMESTAMP": 43739.46225694445
+  },
+  {
+    "ACTION_ID": 816,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 271,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 90949,
+    "TIMESTAMP": 43739.462326388886
+  },
+  {
+    "ACTION_ID": 817,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 271,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 6583,
+    "TIMESTAMP": 43739.62883101852
+  },
+  {
+    "ACTION_ID": 818,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 808,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 57142,
+    "TIMESTAMP": 43739.46252314815
+  },
+  {
+    "ACTION_ID": 819,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 808,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 57142,
+    "TIMESTAMP": 43739.462534722225
+  },
+  {
+    "ACTION_ID": 820,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 808,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 57142,
+    "TIMESTAMP": 43739.462685185186
+  },
+  {
+    "ACTION_ID": 821,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 808,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 57142,
+    "TIMESTAMP": 43739.462685185186
+  },
+  {
+    "ACTION_ID": 822,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 808,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 57142,
+    "TIMESTAMP": 43739.462800925925
+  },
+  {
+    "ACTION_ID": 823,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 808,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 26201,
+    "TIMESTAMP": 43739.804814814815
+  },
+  {
+    "ACTION_ID": 824,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 808,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 26201,
+    "TIMESTAMP": 43739.80483796296
+  },
+  {
+    "ACTION_ID": 825,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 808,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 26201,
+    "TIMESTAMP": 43739.80483796296
+  },
+  {
+    "ACTION_ID": 826,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 808,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 26201,
+    "TIMESTAMP": 43739.804930555554
+  },
+  {
+    "ACTION_ID": 827,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 808,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 26201,
+    "TIMESTAMP": 43739.804930555554
+  },
+  {
+    "ACTION_ID": 828,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 808,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 26201,
+    "TIMESTAMP": 43739.80501157408
+  },
+  {
+    "ACTION_ID": 829,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 481,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 81142,
+    "TIMESTAMP": 43739.56679398148
+  },
+  {
+    "ACTION_ID": 830,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 481,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 81142,
+    "TIMESTAMP": 43739.566828703704
+  },
+  {
+    "ACTION_ID": 831,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 481,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 81142,
+    "TIMESTAMP": 43739.56684027778
+  },
+  {
+    "ACTION_ID": 832,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 481,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 81142,
+    "TIMESTAMP": 43739.56762731481
+  },
+  {
+    "ACTION_ID": 833,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 481,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 81142,
+    "TIMESTAMP": 43739.56762731481
+  },
+  {
+    "ACTION_ID": 834,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 481,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 81142,
+    "TIMESTAMP": 43739.567719907405
+  },
+  {
+    "ACTION_ID": 835,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 481,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 12647,
+    "TIMESTAMP": 43739.67128472222
+  },
+  {
+    "ACTION_ID": 836,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 481,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 12647,
+    "TIMESTAMP": 43739.671423611115
+  },
+  {
+    "ACTION_ID": 837,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 96956,
+    "TIMESTAMP": 43739.485925925925
+  },
+  {
+    "ACTION_ID": 838,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 96956,
+    "TIMESTAMP": 43739.48599537037
+  },
+  {
+    "ACTION_ID": 839,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 96956,
+    "TIMESTAMP": 43739.48599537037
+  },
+  {
+    "ACTION_ID": 840,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 96956,
+    "TIMESTAMP": 43739.48605324074
+  },
+  {
+    "ACTION_ID": 841,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 96956,
+    "TIMESTAMP": 43739.48605324074
+  },
+  {
+    "ACTION_ID": 842,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 96956,
+    "TIMESTAMP": 43739.48611111111
+  },
+  {
+    "ACTION_ID": 843,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 82360,
+    "TIMESTAMP": 43739.62804398148
+  },
+  {
+    "ACTION_ID": 844,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 82360,
+    "TIMESTAMP": 43739.628067129626
+  },
+  {
+    "ACTION_ID": 845,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 82360,
+    "TIMESTAMP": 43739.628067129626
+  },
+  {
+    "ACTION_ID": 846,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 82360,
+    "TIMESTAMP": 43739.62815972222
+  },
+  {
+    "ACTION_ID": 847,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 82360,
+    "TIMESTAMP": 43739.62815972222
+  },
+  {
+    "ACTION_ID": 848,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 82360,
+    "TIMESTAMP": 43739.62820601852
+  },
+  {
+    "ACTION_ID": 849,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1408,
+    "SESSION_ID": 82360,
+    "TIMESTAMP": 43739.70613425926
+  },
+  {
+    "ACTION_ID": 850,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 82360,
+    "TIMESTAMP": 43739.706770833334
+  },
+  {
+    "ACTION_ID": 851,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 82360,
+    "TIMESTAMP": 43739.706770833334
+  },
+  {
+    "ACTION_ID": 852,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 82360,
+    "TIMESTAMP": 43739.70680555556
+  },
+  {
+    "ACTION_ID": 853,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 82360,
+    "TIMESTAMP": 43739.70680555556
+  },
+  {
+    "ACTION_ID": 854,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1327,
+    "SESSION_ID": 82360,
+    "TIMESTAMP": 43739.70920138889
+  },
+  {
+    "ACTION_ID": 855,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1174,
+    "SESSION_ID": 82360,
+    "TIMESTAMP": 43739.70920138889
+  },
+  {
+    "ACTION_ID": 856,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 82360,
+    "TIMESTAMP": 43739.71166666667
+  },
+  {
+    "ACTION_ID": 857,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 675,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 82360,
+    "TIMESTAMP": 43739.71166666667
+  },
+  {
+    "ACTION_ID": 858,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 306,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 30861,
+    "TIMESTAMP": 43739.507743055554
+  },
+  {
+    "ACTION_ID": 859,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 306,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 93476,
+    "TIMESTAMP": 43739.62855324074
+  },
+  {
+    "ACTION_ID": 860,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 306,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 93476,
+    "TIMESTAMP": 43739.629224537035
+  },
+  {
+    "ACTION_ID": 861,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 306,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 93476,
+    "TIMESTAMP": 43739.62923611111
+  },
+  {
+    "ACTION_ID": 862,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 306,
+    "CONTENT_ID": 1411,
+    "SESSION_ID": 93476,
+    "TIMESTAMP": 43739.62924768519
+  },
+  {
+    "ACTION_ID": 863,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 306,
+    "CONTENT_ID": 1121,
+    "SESSION_ID": 93476,
+    "TIMESTAMP": 43739.62924768519
+  },
+  {
+    "ACTION_ID": 864,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 306,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 32125,
+    "TIMESTAMP": 43739.80472222222
+  },
+  {
+    "ACTION_ID": 865,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 206,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 38850,
+    "TIMESTAMP": 43739.51604166667
+  },
+  {
+    "ACTION_ID": 866,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 206,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 38850,
+    "TIMESTAMP": 43739.516076388885
+  },
+  {
+    "ACTION_ID": 867,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 206,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 38850,
+    "TIMESTAMP": 43739.516076388885
+  },
+  {
+    "ACTION_ID": 868,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 206,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 38850,
+    "TIMESTAMP": 43739.51613425926
+  },
+  {
+    "ACTION_ID": 869,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 206,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 38850,
+    "TIMESTAMP": 43739.51614583333
+  },
+  {
+    "ACTION_ID": 870,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 206,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 38850,
+    "TIMESTAMP": 43739.51619212963
+  },
+  {
+    "ACTION_ID": 871,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 206,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 38850,
+    "TIMESTAMP": 43739.51627314815
+  },
+  {
+    "ACTION_ID": 872,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 206,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 38850,
+    "TIMESTAMP": 43739.51627314815
+  },
+  {
+    "ACTION_ID": 873,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 206,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 36211,
+    "TIMESTAMP": 43739.60138888889
+  },
+  {
+    "ACTION_ID": 874,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 206,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 36211,
+    "TIMESTAMP": 43739.60138888889
+  },
+  {
+    "ACTION_ID": 875,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 211,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 39034,
+    "TIMESTAMP": 43739.642916666664
+  },
+  {
+    "ACTION_ID": 876,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 211,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 39034,
+    "TIMESTAMP": 43739.64295138889
+  },
+  {
+    "ACTION_ID": 877,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 211,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 39034,
+    "TIMESTAMP": 43739.64295138889
+  },
+  {
+    "ACTION_ID": 878,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 211,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 39034,
+    "TIMESTAMP": 43739.64310185185
+  },
+  {
+    "ACTION_ID": 879,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 211,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 39034,
+    "TIMESTAMP": 43739.64310185185
+  },
+  {
+    "ACTION_ID": 880,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 211,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 39034,
+    "TIMESTAMP": 43739.643113425926
+  },
+  {
+    "ACTION_ID": 881,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 211,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 39034,
+    "TIMESTAMP": 43739.643113425926
+  },
+  {
+    "ACTION_ID": 882,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 211,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 39034,
+    "TIMESTAMP": 43739.64319444444
+  },
+  {
+    "ACTION_ID": 883,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 211,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 39034,
+    "TIMESTAMP": 43739.64319444444
+  },
+  {
+    "ACTION_ID": 884,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 211,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 39034,
+    "TIMESTAMP": 43739.643217592595
+  },
+  {
+    "ACTION_ID": 885,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 211,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 39034,
+    "TIMESTAMP": 43739.643217592595
+  },
+  {
+    "ACTION_ID": 886,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 211,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 39034,
+    "TIMESTAMP": 43739.64332175926
+  },
+  {
+    "ACTION_ID": 887,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 211,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 39034,
+    "TIMESTAMP": 43739.64332175926
+  },
+  {
+    "ACTION_ID": 888,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 211,
+    "CONTENT_ID": 1012,
+    "SESSION_ID": 39034,
+    "TIMESTAMP": 43739.643379629626
+  },
+  {
+    "ACTION_ID": 889,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 211,
+    "CONTENT_ID": 1080,
+    "SESSION_ID": 12159,
+    "TIMESTAMP": 43739.79052083333
+  },
+  {
+    "ACTION_ID": 890,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 211,
+    "CONTENT_ID": 1512,
+    "SESSION_ID": 12159,
+    "TIMESTAMP": 43739.79052083333
+  },
+  {
+    "ACTION_ID": 891,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 29423,
+    "TIMESTAMP": 43740.66133101852
+  },
+  {
+    "ACTION_ID": 892,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.751909722225
+  },
+  {
+    "ACTION_ID": 893,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75206018519
+  },
+  {
+    "ACTION_ID": 894,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75206018519
+  },
+  {
+    "ACTION_ID": 895,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75221064815
+  },
+  {
+    "ACTION_ID": 896,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75221064815
+  },
+  {
+    "ACTION_ID": 897,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75221064815
+  },
+  {
+    "ACTION_ID": 898,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.752222222225
+  },
+  {
+    "ACTION_ID": 899,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.752222222225
+  },
+  {
+    "ACTION_ID": 900,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75252314815
+  },
+  {
+    "ACTION_ID": 901,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75271990741
+  },
+  {
+    "ACTION_ID": 902,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75277777778
+  },
+  {
+    "ACTION_ID": 903,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75304398148
+  },
+  {
+    "ACTION_ID": 904,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75356481481
+  },
+  {
+    "ACTION_ID": 905,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75380787037
+  },
+  {
+    "ACTION_ID": 906,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75402777778
+  },
+  {
+    "ACTION_ID": 907,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75480324074
+  },
+  {
+    "ACTION_ID": 908,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75481481481
+  },
+  {
+    "ACTION_ID": 909,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75487268518
+  },
+  {
+    "ACTION_ID": 910,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75487268518
+  },
+  {
+    "ACTION_ID": 911,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 71409,
+    "TIMESTAMP": 43740.75487268518
+  },
+  {
+    "ACTION_ID": 912,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.940416666665
+  },
+  {
+    "ACTION_ID": 913,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.940567129626
+  },
+  {
+    "ACTION_ID": 914,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.940567129626
+  },
+  {
+    "ACTION_ID": 915,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1325,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.940613425926
+  },
+  {
+    "ACTION_ID": 916,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1048,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.940613425926
+  },
+  {
+    "ACTION_ID": 917,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94075231482
+  },
+  {
+    "ACTION_ID": 918,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94075231482
+  },
+  {
+    "ACTION_ID": 919,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94079861111
+  },
+  {
+    "ACTION_ID": 920,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94079861111
+  },
+  {
+    "ACTION_ID": 921,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94079861111
+  },
+  {
+    "ACTION_ID": 922,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94082175926
+  },
+  {
+    "ACTION_ID": 923,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94082175926
+  },
+  {
+    "ACTION_ID": 924,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94082175926
+  },
+  {
+    "ACTION_ID": 925,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94181712963
+  },
+  {
+    "ACTION_ID": 926,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94181712963
+  },
+  {
+    "ACTION_ID": 927,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.941875
+  },
+  {
+    "ACTION_ID": 928,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.941875
+  },
+  {
+    "ACTION_ID": 929,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.941875
+  },
+  {
+    "ACTION_ID": 930,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94189814815
+  },
+  {
+    "ACTION_ID": 931,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94189814815
+  },
+  {
+    "ACTION_ID": 932,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94189814815
+  },
+  {
+    "ACTION_ID": 933,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.9419212963
+  },
+  {
+    "ACTION_ID": 934,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 51,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94196759259
+  },
+  {
+    "ACTION_ID": 935,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94201388889
+  },
+  {
+    "ACTION_ID": 936,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94280092593
+  },
+  {
+    "ACTION_ID": 937,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94280092593
+  },
+  {
+    "ACTION_ID": 938,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.94280092593
+  },
+  {
+    "ACTION_ID": 939,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.942824074074
+  },
+  {
+    "ACTION_ID": 940,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 6897,
+    "TIMESTAMP": 43740.942824074074
+  },
+  {
+    "ACTION_ID": 941,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.79697916667
+  },
+  {
+    "ACTION_ID": 942,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.79728009259
+  },
+  {
+    "ACTION_ID": 943,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.79728009259
+  },
+  {
+    "ACTION_ID": 944,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.797326388885
+  },
+  {
+    "ACTION_ID": 945,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.797326388885
+  },
+  {
+    "ACTION_ID": 946,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.797326388885
+  },
+  {
+    "ACTION_ID": 947,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.797372685185
+  },
+  {
+    "ACTION_ID": 948,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.797372685185
+  },
+  {
+    "ACTION_ID": 949,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.80142361111
+  },
+  {
+    "ACTION_ID": 950,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.80143518518
+  },
+  {
+    "ACTION_ID": 951,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.80152777778
+  },
+  {
+    "ACTION_ID": 952,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.80153935185
+  },
+  {
+    "ACTION_ID": 953,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.801932870374
+  },
+  {
+    "ACTION_ID": 954,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.80211805556
+  },
+  {
+    "ACTION_ID": 955,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.802407407406
+  },
+  {
+    "ACTION_ID": 956,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.80241898148
+  },
+  {
+    "ACTION_ID": 957,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.802511574075
+  },
+  {
+    "ACTION_ID": 958,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.802511574075
+  },
+  {
+    "ACTION_ID": 959,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.802511574075
+  },
+  {
+    "ACTION_ID": 960,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 40,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.81700231481
+  },
+  {
+    "ACTION_ID": 961,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 51312,
+    "TIMESTAMP": 43740.81759259259
+  },
+  {
+    "ACTION_ID": 962,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 57937,
+    "TIMESTAMP": 43740.923784722225
+  },
+  {
+    "ACTION_ID": 963,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 40,
+    "SESSION_ID": 57937,
+    "TIMESTAMP": 43740.923796296294
+  },
+  {
+    "ACTION_ID": 964,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 57937,
+    "TIMESTAMP": 43740.92383101852
+  },
+  {
+    "ACTION_ID": 965,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 57937,
+    "TIMESTAMP": 43740.923842592594
+  },
+  {
+    "ACTION_ID": 966,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 57937,
+    "TIMESTAMP": 43740.923842592594
+  },
+  {
+    "ACTION_ID": 967,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 57937,
+    "TIMESTAMP": 43740.923842592594
+  },
+  {
+    "ACTION_ID": 968,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 57937,
+    "TIMESTAMP": 43740.923842592594
+  },
+  {
+    "ACTION_ID": 969,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 57937,
+    "TIMESTAMP": 43740.923842592594
+  },
+  {
+    "ACTION_ID": 970,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 57937,
+    "TIMESTAMP": 43740.923842592594
+  },
+  {
+    "ACTION_ID": 971,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 57937,
+    "TIMESTAMP": 43740.923854166664
+  },
+  {
+    "ACTION_ID": 972,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 57937,
+    "TIMESTAMP": 43740.923854166664
+  },
+  {
+    "ACTION_ID": 973,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 57937,
+    "TIMESTAMP": 43740.923854166664
+  },
+  {
+    "ACTION_ID": 974,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 428,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 57937,
+    "TIMESTAMP": 43740.92386574074
+  },
+  {
+    "ACTION_ID": 975,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.79782407408
+  },
+  {
+    "ACTION_ID": 976,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.79796296296
+  },
+  {
+    "ACTION_ID": 977,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.79796296296
+  },
+  {
+    "ACTION_ID": 978,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.798159722224
+  },
+  {
+    "ACTION_ID": 979,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.798159722224
+  },
+  {
+    "ACTION_ID": 980,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.798159722224
+  },
+  {
+    "ACTION_ID": 981,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.79824074074
+  },
+  {
+    "ACTION_ID": 982,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.79824074074
+  },
+  {
+    "ACTION_ID": 983,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.798854166664
+  },
+  {
+    "ACTION_ID": 984,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.79886574074
+  },
+  {
+    "ACTION_ID": 985,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.7996412037
+  },
+  {
+    "ACTION_ID": 986,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.80033564815
+  },
+  {
+    "ACTION_ID": 987,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.80087962963
+  },
+  {
+    "ACTION_ID": 988,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1072,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.800891203704
+  },
+  {
+    "ACTION_ID": 989,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.801030092596
+  },
+  {
+    "ACTION_ID": 990,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.801030092596
+  },
+  {
+    "ACTION_ID": 991,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 88912,
+    "TIMESTAMP": 43740.801030092596
+  },
+  {
+    "ACTION_ID": 992,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 27,
+    "SESSION_ID": 28585,
+    "TIMESTAMP": 43740.95600694444
+  },
+  {
+    "ACTION_ID": 993,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1311,
+    "SESSION_ID": 28585,
+    "TIMESTAMP": 43740.956030092595
+  },
+  {
+    "ACTION_ID": 994,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1170,
+    "SESSION_ID": 28585,
+    "TIMESTAMP": 43740.956030092595
+  },
+  {
+    "ACTION_ID": 995,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1089,
+    "SESSION_ID": 28585,
+    "TIMESTAMP": 43740.95605324074
+  },
+  {
+    "ACTION_ID": 996,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 28585,
+    "TIMESTAMP": 43740.95605324074
+  },
+  {
+    "ACTION_ID": 997,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1138,
+    "SESSION_ID": 28585,
+    "TIMESTAMP": 43740.95605324074
+  },
+  {
+    "ACTION_ID": 998,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1025,
+    "SESSION_ID": 28585,
+    "TIMESTAMP": 43740.95607638889
+  },
+  {
+    "ACTION_ID": 999,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1381,
+    "SESSION_ID": 28585,
+    "TIMESTAMP": 43740.95607638889
+  },
+  {
+    "ACTION_ID": 1000,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 18,
+    "CONTENT_ID": 1352,
+    "SESSION_ID": 28585,
+    "TIMESTAMP": 43740.95607638889
+  }
+]

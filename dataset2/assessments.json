@@ -1,0 +1,1639 @@
+[
+  {
+    "code_module": "AAA",
+    "code_presentation": "2013J",
+    "id_assessment": 1752,
+    "assessment_type": "TMA",
+    "date": 19,
+    "weight": 10
+  },
+  {
+    "code_module": "AAA",
+    "code_presentation": "2013J",
+    "id_assessment": 1753,
+    "assessment_type": "TMA",
+    "date": 54,
+    "weight": 20
+  },
+  {
+    "code_module": "AAA",
+    "code_presentation": "2013J",
+    "id_assessment": 1754,
+    "assessment_type": "TMA",
+    "date": 117,
+    "weight": 20
+  },
+  {
+    "code_module": "AAA",
+    "code_presentation": "2013J",
+    "id_assessment": 1755,
+    "assessment_type": "TMA",
+    "date": 166,
+    "weight": 20
+  },
+  {
+    "code_module": "AAA",
+    "code_presentation": "2013J",
+    "id_assessment": 1756,
+    "assessment_type": "TMA",
+    "date": 215,
+    "weight": 30
+  },
+  {
+    "code_module": "AAA",
+    "code_presentation": "2013J",
+    "id_assessment": 1757,
+    "assessment_type": "Exam",
+    "weight": 100
+  },
+  {
+    "code_module": "AAA",
+    "code_presentation": "2014J",
+    "id_assessment": 1758,
+    "assessment_type": "TMA",
+    "date": 19,
+    "weight": 10
+  },
+  {
+    "code_module": "AAA",
+    "code_presentation": "2014J",
+    "id_assessment": 1759,
+    "assessment_type": "TMA",
+    "date": 54,
+    "weight": 20
+  },
+  {
+    "code_module": "AAA",
+    "code_presentation": "2014J",
+    "id_assessment": 1760,
+    "assessment_type": "TMA",
+    "date": 117,
+    "weight": 20
+  },
+  {
+    "code_module": "AAA",
+    "code_presentation": "2014J",
+    "id_assessment": 1761,
+    "assessment_type": "TMA",
+    "date": 166,
+    "weight": 20
+  },
+  {
+    "code_module": "AAA",
+    "code_presentation": "2014J",
+    "id_assessment": 1762,
+    "assessment_type": "TMA",
+    "date": 215,
+    "weight": 30
+  },
+  {
+    "code_module": "AAA",
+    "code_presentation": "2014J",
+    "id_assessment": 1763,
+    "assessment_type": "Exam",
+    "weight": 100
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013B",
+    "id_assessment": 14991,
+    "assessment_type": "CMA",
+    "date": 54,
+    "weight": 1
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013B",
+    "id_assessment": 14992,
+    "assessment_type": "CMA",
+    "date": 89,
+    "weight": 1
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013B",
+    "id_assessment": 14993,
+    "assessment_type": "CMA",
+    "date": 124,
+    "weight": 1
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013B",
+    "id_assessment": 14994,
+    "assessment_type": "CMA",
+    "date": 159,
+    "weight": 1
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013B",
+    "id_assessment": 14995,
+    "assessment_type": "CMA",
+    "date": 187,
+    "weight": 1
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013B",
+    "id_assessment": 14984,
+    "assessment_type": "TMA",
+    "date": 19,
+    "weight": 5
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013B",
+    "id_assessment": 14985,
+    "assessment_type": "TMA",
+    "date": 47,
+    "weight": 18
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013B",
+    "id_assessment": 14986,
+    "assessment_type": "TMA",
+    "date": 89,
+    "weight": 18
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013B",
+    "id_assessment": 14987,
+    "assessment_type": "TMA",
+    "date": 124,
+    "weight": 18
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013B",
+    "id_assessment": 14988,
+    "assessment_type": "TMA",
+    "date": 159,
+    "weight": 18
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013B",
+    "id_assessment": 14989,
+    "assessment_type": "TMA",
+    "date": 187,
+    "weight": 18
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013B",
+    "id_assessment": 14990,
+    "assessment_type": "Exam",
+    "weight": 100
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013J",
+    "id_assessment": 15003,
+    "assessment_type": "CMA",
+    "date": 54,
+    "weight": 1
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013J",
+    "id_assessment": 15004,
+    "assessment_type": "CMA",
+    "date": 96,
+    "weight": 1
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013J",
+    "id_assessment": 15005,
+    "assessment_type": "CMA",
+    "date": 131,
+    "weight": 1
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013J",
+    "id_assessment": 15006,
+    "assessment_type": "CMA",
+    "date": 166,
+    "weight": 1
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013J",
+    "id_assessment": 15007,
+    "assessment_type": "CMA",
+    "date": 208,
+    "weight": 1
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013J",
+    "id_assessment": 14996,
+    "assessment_type": "TMA",
+    "date": 19,
+    "weight": 5
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013J",
+    "id_assessment": 14997,
+    "assessment_type": "TMA",
+    "date": 47,
+    "weight": 18
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013J",
+    "id_assessment": 14998,
+    "assessment_type": "TMA",
+    "date": 96,
+    "weight": 18
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013J",
+    "id_assessment": 14999,
+    "assessment_type": "TMA",
+    "date": 131,
+    "weight": 18
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013J",
+    "id_assessment": 15000,
+    "assessment_type": "TMA",
+    "date": 166,
+    "weight": 18
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013J",
+    "id_assessment": 15001,
+    "assessment_type": "TMA",
+    "date": 208,
+    "weight": 18
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2013J",
+    "id_assessment": 15002,
+    "assessment_type": "Exam",
+    "weight": 100
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014B",
+    "id_assessment": 15015,
+    "assessment_type": "CMA",
+    "date": 47,
+    "weight": 1
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014B",
+    "id_assessment": 15016,
+    "assessment_type": "CMA",
+    "date": 82,
+    "weight": 1
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014B",
+    "id_assessment": 15017,
+    "assessment_type": "CMA",
+    "date": 117,
+    "weight": 1
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014B",
+    "id_assessment": 15018,
+    "assessment_type": "CMA",
+    "date": 152,
+    "weight": 1
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014B",
+    "id_assessment": 15019,
+    "assessment_type": "CMA",
+    "date": 194,
+    "weight": 1
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014B",
+    "id_assessment": 15008,
+    "assessment_type": "TMA",
+    "date": 12,
+    "weight": 5
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014B",
+    "id_assessment": 15009,
+    "assessment_type": "TMA",
+    "date": 40,
+    "weight": 18
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014B",
+    "id_assessment": 15010,
+    "assessment_type": "TMA",
+    "date": 82,
+    "weight": 18
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014B",
+    "id_assessment": 15011,
+    "assessment_type": "TMA",
+    "date": 117,
+    "weight": 18
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014B",
+    "id_assessment": 15012,
+    "assessment_type": "TMA",
+    "date": 152,
+    "weight": 18
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014B",
+    "id_assessment": 15013,
+    "assessment_type": "TMA",
+    "date": 194,
+    "weight": 18
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014B",
+    "id_assessment": 15014,
+    "assessment_type": "Exam",
+    "weight": 100
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014J",
+    "id_assessment": 15020,
+    "assessment_type": "TMA",
+    "date": 19,
+    "weight": 0
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014J",
+    "id_assessment": 15021,
+    "assessment_type": "TMA",
+    "date": 54,
+    "weight": 10
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014J",
+    "id_assessment": 15022,
+    "assessment_type": "TMA",
+    "date": 110,
+    "weight": 20
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014J",
+    "id_assessment": 15023,
+    "assessment_type": "TMA",
+    "date": 152,
+    "weight": 35
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014J",
+    "id_assessment": 15024,
+    "assessment_type": "TMA",
+    "date": 201,
+    "weight": 35
+  },
+  {
+    "code_module": "BBB",
+    "code_presentation": "2014J",
+    "id_assessment": 15025,
+    "assessment_type": "Exam",
+    "weight": 100
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014B",
+    "id_assessment": 24286,
+    "assessment_type": "CMA",
+    "date": 18,
+    "weight": 2
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014B",
+    "id_assessment": 24287,
+    "assessment_type": "CMA",
+    "date": 67,
+    "weight": 7
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014B",
+    "id_assessment": 24288,
+    "assessment_type": "CMA",
+    "date": 137,
+    "weight": 8
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014B",
+    "id_assessment": 24289,
+    "assessment_type": "CMA",
+    "date": 207,
+    "weight": 8
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014B",
+    "id_assessment": 24282,
+    "assessment_type": "TMA",
+    "date": 32,
+    "weight": 9
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014B",
+    "id_assessment": 24283,
+    "assessment_type": "TMA",
+    "date": 102,
+    "weight": 22
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014B",
+    "id_assessment": 24284,
+    "assessment_type": "TMA",
+    "date": 151,
+    "weight": 22
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014B",
+    "id_assessment": 24285,
+    "assessment_type": "TMA",
+    "date": 200,
+    "weight": 22
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014B",
+    "id_assessment": 24290,
+    "assessment_type": "Exam",
+    "weight": 100
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014B",
+    "id_assessment": 40087,
+    "assessment_type": "Exam",
+    "weight": 100
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014J",
+    "id_assessment": 24295,
+    "assessment_type": "CMA",
+    "date": 18,
+    "weight": 2
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014J",
+    "id_assessment": 24296,
+    "assessment_type": "CMA",
+    "date": 67,
+    "weight": 7
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014J",
+    "id_assessment": 24297,
+    "assessment_type": "CMA",
+    "date": 144,
+    "weight": 8
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014J",
+    "id_assessment": 24298,
+    "assessment_type": "CMA",
+    "date": 214,
+    "weight": 8
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014J",
+    "id_assessment": 24291,
+    "assessment_type": "TMA",
+    "date": 32,
+    "weight": 9
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014J",
+    "id_assessment": 24292,
+    "assessment_type": "TMA",
+    "date": 109,
+    "weight": 22
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014J",
+    "id_assessment": 24293,
+    "assessment_type": "TMA",
+    "date": 158,
+    "weight": 22
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014J",
+    "id_assessment": 24294,
+    "assessment_type": "TMA",
+    "date": 207,
+    "weight": 22
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014J",
+    "id_assessment": 24299,
+    "assessment_type": "Exam",
+    "weight": 100
+  },
+  {
+    "code_module": "CCC",
+    "code_presentation": "2014J",
+    "id_assessment": 40088,
+    "assessment_type": "Exam",
+    "weight": 100
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013B",
+    "id_assessment": 25341,
+    "assessment_type": "CMA",
+    "date": 23,
+    "weight": 2
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013B",
+    "id_assessment": 25342,
+    "assessment_type": "CMA",
+    "date": 51,
+    "weight": 3
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013B",
+    "id_assessment": 25343,
+    "assessment_type": "CMA",
+    "date": 79,
+    "weight": 3
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013B",
+    "id_assessment": 25344,
+    "assessment_type": "CMA",
+    "date": 114,
+    "weight": 4
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013B",
+    "id_assessment": 25345,
+    "assessment_type": "CMA",
+    "date": 149,
+    "weight": 4
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013B",
+    "id_assessment": 25346,
+    "assessment_type": "CMA",
+    "date": 170,
+    "weight": 3
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013B",
+    "id_assessment": 25347,
+    "assessment_type": "CMA",
+    "date": 206,
+    "weight": 6
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013B",
+    "id_assessment": 25334,
+    "assessment_type": "TMA",
+    "date": 25,
+    "weight": 7.5
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013B",
+    "id_assessment": 25335,
+    "assessment_type": "TMA",
+    "date": 53,
+    "weight": 10
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013B",
+    "id_assessment": 25336,
+    "assessment_type": "TMA",
+    "date": 81,
+    "weight": 12.5
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013B",
+    "id_assessment": 25337,
+    "assessment_type": "TMA",
+    "date": 116,
+    "weight": 15
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013B",
+    "id_assessment": 25338,
+    "assessment_type": "TMA",
+    "date": 151,
+    "weight": 15
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013B",
+    "id_assessment": 25339,
+    "assessment_type": "TMA",
+    "date": 200,
+    "weight": 15
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013B",
+    "id_assessment": 25340,
+    "assessment_type": "Exam",
+    "date": 240,
+    "weight": 100
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013J",
+    "id_assessment": 25348,
+    "assessment_type": "TMA",
+    "date": 25,
+    "weight": 10
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013J",
+    "id_assessment": 25349,
+    "assessment_type": "TMA",
+    "date": 53,
+    "weight": 12.5
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013J",
+    "id_assessment": 25350,
+    "assessment_type": "TMA",
+    "date": 88,
+    "weight": 17.5
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013J",
+    "id_assessment": 25351,
+    "assessment_type": "TMA",
+    "date": 123,
+    "weight": 20
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013J",
+    "id_assessment": 25352,
+    "assessment_type": "TMA",
+    "date": 165,
+    "weight": 20
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013J",
+    "id_assessment": 25353,
+    "assessment_type": "TMA",
+    "date": 207,
+    "weight": 20
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2013J",
+    "id_assessment": 25354,
+    "assessment_type": "Exam",
+    "date": 261,
+    "weight": 100
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2014B",
+    "id_assessment": 25355,
+    "assessment_type": "TMA",
+    "date": 25,
+    "weight": 10
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2014B",
+    "id_assessment": 25356,
+    "assessment_type": "TMA",
+    "date": 53,
+    "weight": 12.5
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2014B",
+    "id_assessment": 25357,
+    "assessment_type": "TMA",
+    "date": 74,
+    "weight": 17.5
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2014B",
+    "id_assessment": 25358,
+    "assessment_type": "TMA",
+    "date": 116,
+    "weight": 20
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2014B",
+    "id_assessment": 25359,
+    "assessment_type": "TMA",
+    "date": 158,
+    "weight": 20
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2014B",
+    "id_assessment": 25360,
+    "assessment_type": "TMA",
+    "date": 200,
+    "weight": 20
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2014B",
+    "id_assessment": 25361,
+    "assessment_type": "Exam",
+    "date": 241,
+    "weight": 100
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2014J",
+    "id_assessment": 25362,
+    "assessment_type": "TMA",
+    "date": 20,
+    "weight": 5
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2014J",
+    "id_assessment": 25363,
+    "assessment_type": "TMA",
+    "date": 41,
+    "weight": 10
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2014J",
+    "id_assessment": 25364,
+    "assessment_type": "TMA",
+    "date": 62,
+    "weight": 10
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2014J",
+    "id_assessment": 25365,
+    "assessment_type": "TMA",
+    "date": 111,
+    "weight": 25
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2014J",
+    "id_assessment": 25366,
+    "assessment_type": "TMA",
+    "date": 146,
+    "weight": 25
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2014J",
+    "id_assessment": 25367,
+    "assessment_type": "TMA",
+    "date": 195,
+    "weight": 25
+  },
+  {
+    "code_module": "DDD",
+    "code_presentation": "2014J",
+    "id_assessment": 25368,
+    "assessment_type": "Exam",
+    "weight": 100
+  },
+  {
+    "code_module": "EEE",
+    "code_presentation": "2013J",
+    "id_assessment": 30709,
+    "assessment_type": "TMA",
+    "date": 33,
+    "weight": 16
+  },
+  {
+    "code_module": "EEE",
+    "code_presentation": "2013J",
+    "id_assessment": 30710,
+    "assessment_type": "TMA",
+    "date": 68,
+    "weight": 28
+  },
+  {
+    "code_module": "EEE",
+    "code_presentation": "2013J",
+    "id_assessment": 30711,
+    "assessment_type": "TMA",
+    "date": 124,
+    "weight": 28
+  },
+  {
+    "code_module": "EEE",
+    "code_presentation": "2013J",
+    "id_assessment": 30712,
+    "assessment_type": "TMA",
+    "date": 159,
+    "weight": 28
+  },
+  {
+    "code_module": "EEE",
+    "code_presentation": "2013J",
+    "id_assessment": 30713,
+    "assessment_type": "Exam",
+    "date": 235,
+    "weight": 100
+  },
+  {
+    "code_module": "EEE",
+    "code_presentation": "2014B",
+    "id_assessment": 30714,
+    "assessment_type": "TMA",
+    "date": 33,
+    "weight": 16
+  },
+  {
+    "code_module": "EEE",
+    "code_presentation": "2014B",
+    "id_assessment": 30715,
+    "assessment_type": "TMA",
+    "date": 68,
+    "weight": 28
+  },
+  {
+    "code_module": "EEE",
+    "code_presentation": "2014B",
+    "id_assessment": 30716,
+    "assessment_type": "TMA",
+    "date": 117,
+    "weight": 28
+  },
+  {
+    "code_module": "EEE",
+    "code_presentation": "2014B",
+    "id_assessment": 30717,
+    "assessment_type": "TMA",
+    "date": 152,
+    "weight": 28
+  },
+  {
+    "code_module": "EEE",
+    "code_presentation": "2014B",
+    "id_assessment": 30718,
+    "assessment_type": "Exam",
+    "date": 228,
+    "weight": 100
+  },
+  {
+    "code_module": "EEE",
+    "code_presentation": "2014J",
+    "id_assessment": 30719,
+    "assessment_type": "TMA",
+    "date": 33,
+    "weight": 16
+  },
+  {
+    "code_module": "EEE",
+    "code_presentation": "2014J",
+    "id_assessment": 30720,
+    "assessment_type": "TMA",
+    "date": 68,
+    "weight": 28
+  },
+  {
+    "code_module": "EEE",
+    "code_presentation": "2014J",
+    "id_assessment": 30721,
+    "assessment_type": "TMA",
+    "date": 131,
+    "weight": 28
+  },
+  {
+    "code_module": "EEE",
+    "code_presentation": "2014J",
+    "id_assessment": 30722,
+    "assessment_type": "TMA",
+    "date": 166,
+    "weight": 28
+  },
+  {
+    "code_module": "EEE",
+    "code_presentation": "2014J",
+    "id_assessment": 30723,
+    "assessment_type": "Exam",
+    "date": 235,
+    "weight": 100
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013B",
+    "id_assessment": 34865,
+    "assessment_type": "CMA",
+    "date": 222,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013B",
+    "id_assessment": 34866,
+    "assessment_type": "CMA",
+    "date": 222,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013B",
+    "id_assessment": 34867,
+    "assessment_type": "CMA",
+    "date": 222,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013B",
+    "id_assessment": 34868,
+    "assessment_type": "CMA",
+    "date": 222,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013B",
+    "id_assessment": 34869,
+    "assessment_type": "CMA",
+    "date": 222,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013B",
+    "id_assessment": 34871,
+    "assessment_type": "CMA",
+    "date": 222,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013B",
+    "id_assessment": 34870,
+    "assessment_type": "CMA",
+    "date": 222,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013B",
+    "id_assessment": 34860,
+    "assessment_type": "TMA",
+    "date": 19,
+    "weight": 12.5
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013B",
+    "id_assessment": 34861,
+    "assessment_type": "TMA",
+    "date": 47,
+    "weight": 12.5
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013B",
+    "id_assessment": 34862,
+    "assessment_type": "TMA",
+    "date": 89,
+    "weight": 25
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013B",
+    "id_assessment": 34863,
+    "assessment_type": "TMA",
+    "date": 131,
+    "weight": 25
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013B",
+    "id_assessment": 34864,
+    "assessment_type": "TMA",
+    "date": 166,
+    "weight": 25
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013B",
+    "id_assessment": 34872,
+    "assessment_type": "Exam",
+    "date": 222,
+    "weight": 100
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013J",
+    "id_assessment": 34878,
+    "assessment_type": "CMA",
+    "date": 236,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013J",
+    "id_assessment": 34879,
+    "assessment_type": "CMA",
+    "date": 236,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013J",
+    "id_assessment": 34880,
+    "assessment_type": "CMA",
+    "date": 236,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013J",
+    "id_assessment": 34881,
+    "assessment_type": "CMA",
+    "date": 236,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013J",
+    "id_assessment": 34882,
+    "assessment_type": "CMA",
+    "date": 236,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013J",
+    "id_assessment": 34884,
+    "assessment_type": "CMA",
+    "date": 236,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013J",
+    "id_assessment": 34883,
+    "assessment_type": "CMA",
+    "date": 236,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013J",
+    "id_assessment": 34873,
+    "assessment_type": "TMA",
+    "date": 19,
+    "weight": 12.5
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013J",
+    "id_assessment": 34874,
+    "assessment_type": "TMA",
+    "date": 47,
+    "weight": 12.5
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013J",
+    "id_assessment": 34875,
+    "assessment_type": "TMA",
+    "date": 96,
+    "weight": 25
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013J",
+    "id_assessment": 34876,
+    "assessment_type": "TMA",
+    "date": 131,
+    "weight": 25
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013J",
+    "id_assessment": 34877,
+    "assessment_type": "TMA",
+    "date": 173,
+    "weight": 25
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2013J",
+    "id_assessment": 34885,
+    "assessment_type": "Exam",
+    "date": 236,
+    "weight": 100
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014B",
+    "id_assessment": 34891,
+    "assessment_type": "CMA",
+    "date": 227,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014B",
+    "id_assessment": 34892,
+    "assessment_type": "CMA",
+    "date": 227,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014B",
+    "id_assessment": 34893,
+    "assessment_type": "CMA",
+    "date": 227,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014B",
+    "id_assessment": 34894,
+    "assessment_type": "CMA",
+    "date": 227,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014B",
+    "id_assessment": 34895,
+    "assessment_type": "CMA",
+    "date": 227,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014B",
+    "id_assessment": 34897,
+    "assessment_type": "CMA",
+    "date": 227,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014B",
+    "id_assessment": 34896,
+    "assessment_type": "CMA",
+    "date": 227,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014B",
+    "id_assessment": 34886,
+    "assessment_type": "TMA",
+    "date": 24,
+    "weight": 12.5
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014B",
+    "id_assessment": 34887,
+    "assessment_type": "TMA",
+    "date": 52,
+    "weight": 12.5
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014B",
+    "id_assessment": 34888,
+    "assessment_type": "TMA",
+    "date": 87,
+    "weight": 25
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014B",
+    "id_assessment": 34889,
+    "assessment_type": "TMA",
+    "date": 129,
+    "weight": 25
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014B",
+    "id_assessment": 34890,
+    "assessment_type": "TMA",
+    "date": 171,
+    "weight": 25
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014B",
+    "id_assessment": 34898,
+    "assessment_type": "Exam",
+    "date": 227,
+    "weight": 100
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014J",
+    "id_assessment": 34904,
+    "assessment_type": "CMA",
+    "date": 241,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014J",
+    "id_assessment": 34905,
+    "assessment_type": "CMA",
+    "date": 241,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014J",
+    "id_assessment": 34906,
+    "assessment_type": "CMA",
+    "date": 241,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014J",
+    "id_assessment": 34907,
+    "assessment_type": "CMA",
+    "date": 241,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014J",
+    "id_assessment": 34908,
+    "assessment_type": "CMA",
+    "date": 241,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014J",
+    "id_assessment": 34910,
+    "assessment_type": "CMA",
+    "date": 241,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014J",
+    "id_assessment": 34909,
+    "assessment_type": "CMA",
+    "date": 241,
+    "weight": 0
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014J",
+    "id_assessment": 34899,
+    "assessment_type": "TMA",
+    "date": 24,
+    "weight": 12.5
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014J",
+    "id_assessment": 34900,
+    "assessment_type": "TMA",
+    "date": 52,
+    "weight": 12.5
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014J",
+    "id_assessment": 34901,
+    "assessment_type": "TMA",
+    "date": 94,
+    "weight": 25
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014J",
+    "id_assessment": 34902,
+    "assessment_type": "TMA",
+    "date": 136,
+    "weight": 25
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014J",
+    "id_assessment": 34903,
+    "assessment_type": "TMA",
+    "date": 199,
+    "weight": 25
+  },
+  {
+    "code_module": "FFF",
+    "code_presentation": "2014J",
+    "id_assessment": 34911,
+    "assessment_type": "Exam",
+    "date": 241,
+    "weight": 100
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2013J",
+    "id_assessment": 37418,
+    "assessment_type": "CMA",
+    "date": 229,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2013J",
+    "id_assessment": 37419,
+    "assessment_type": "CMA",
+    "date": 229,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2013J",
+    "id_assessment": 37420,
+    "assessment_type": "CMA",
+    "date": 229,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2013J",
+    "id_assessment": 37421,
+    "assessment_type": "CMA",
+    "date": 229,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2013J",
+    "id_assessment": 37422,
+    "assessment_type": "CMA",
+    "date": 229,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2013J",
+    "id_assessment": 37423,
+    "assessment_type": "CMA",
+    "date": 229,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2013J",
+    "id_assessment": 37415,
+    "assessment_type": "TMA",
+    "date": 61,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2013J",
+    "id_assessment": 37416,
+    "assessment_type": "TMA",
+    "date": 124,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2013J",
+    "id_assessment": 37417,
+    "assessment_type": "TMA",
+    "date": 173,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2013J",
+    "id_assessment": 37424,
+    "assessment_type": "Exam",
+    "date": 229,
+    "weight": 100
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014B",
+    "id_assessment": 37428,
+    "assessment_type": "CMA",
+    "date": 222,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014B",
+    "id_assessment": 37429,
+    "assessment_type": "CMA",
+    "date": 222,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014B",
+    "id_assessment": 37430,
+    "assessment_type": "CMA",
+    "date": 222,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014B",
+    "id_assessment": 37431,
+    "assessment_type": "CMA",
+    "date": 222,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014B",
+    "id_assessment": 37432,
+    "assessment_type": "CMA",
+    "date": 222,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014B",
+    "id_assessment": 37433,
+    "assessment_type": "CMA",
+    "date": 222,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014B",
+    "id_assessment": 37425,
+    "assessment_type": "TMA",
+    "date": 61,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014B",
+    "id_assessment": 37426,
+    "assessment_type": "TMA",
+    "date": 117,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014B",
+    "id_assessment": 37427,
+    "assessment_type": "TMA",
+    "date": 166,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014B",
+    "id_assessment": 37434,
+    "assessment_type": "Exam",
+    "date": 222,
+    "weight": 100
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014J",
+    "id_assessment": 37438,
+    "assessment_type": "CMA",
+    "date": 229,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014J",
+    "id_assessment": 37439,
+    "assessment_type": "CMA",
+    "date": 229,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014J",
+    "id_assessment": 37440,
+    "assessment_type": "CMA",
+    "date": 229,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014J",
+    "id_assessment": 37441,
+    "assessment_type": "CMA",
+    "date": 229,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014J",
+    "id_assessment": 37442,
+    "assessment_type": "CMA",
+    "date": 229,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014J",
+    "id_assessment": 37443,
+    "assessment_type": "CMA",
+    "date": 229,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014J",
+    "id_assessment": 37435,
+    "assessment_type": "TMA",
+    "date": 61,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014J",
+    "id_assessment": 37436,
+    "assessment_type": "TMA",
+    "date": 124,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014J",
+    "id_assessment": 37437,
+    "assessment_type": "TMA",
+    "date": 173,
+    "weight": 0
+  },
+  {
+    "code_module": "GGG",
+    "code_presentation": "2014J",
+    "id_assessment": 37444,
+    "assessment_type": "Exam",
+    "date": 229,
+    "weight": 100
+  }
+]
