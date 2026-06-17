@@ -1,0 +1,7002 @@
+[
+  {
+    "CONSUMPTION_ID": 1,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 46,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 2,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 46,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 3,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 6,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 30
+  },
+  {
+    "CONSUMPTION_ID": 4,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 6,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 5,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 6,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 6,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 6,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 73
+  },
+  {
+    "CONSUMPTION_ID": 7,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 6,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 61
+  },
+  {
+    "CONSUMPTION_ID": 8,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 6,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 63
+  },
+  {
+    "CONSUMPTION_ID": 9,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 6,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 126
+  },
+  {
+    "CONSUMPTION_ID": 10,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 6,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 28
+  },
+  {
+    "CONSUMPTION_ID": 11,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 6,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 12,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 6,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 83
+  },
+  {
+    "CONSUMPTION_ID": 13,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 6,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 60
+  },
+  {
+    "CONSUMPTION_ID": 14,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 15,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 16,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 17,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 129,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 18,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 371,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 19,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 371,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 20,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 874,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 21,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 193,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 22,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 193,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 23,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 510,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 24,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 510,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 25,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 510,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 28
+  },
+  {
+    "CONSUMPTION_ID": 26,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 510,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 27,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 510,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 42
+  },
+  {
+    "CONSUMPTION_ID": 28,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 510,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 29,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 510,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 16
+  },
+  {
+    "CONSUMPTION_ID": 30,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 510,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 31,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 740,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 32,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 740,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 33,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 740,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 25
+  },
+  {
+    "CONSUMPTION_ID": 34,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 740,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 35,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 740,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 14
+  },
+  {
+    "CONSUMPTION_ID": 36,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 740,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 16
+  },
+  {
+    "CONSUMPTION_ID": 37,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 740,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 38,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 740,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 39,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 740,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 40,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 779,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 41,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 779,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 42,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 779,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 16
+  },
+  {
+    "CONSUMPTION_ID": 43,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 779,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 44,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 158,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 45,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 158,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 31
+  },
+  {
+    "CONSUMPTION_ID": 46,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 446,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 47,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 446,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 48,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 133,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 49,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 151,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 50,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 151,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 51,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 151,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 52,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 505,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 14
+  },
+  {
+    "CONSUMPTION_ID": 53,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 505,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 54,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 505,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 55,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 505,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 56,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 505,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 24
+  },
+  {
+    "CONSUMPTION_ID": 57,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 581,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 14
+  },
+  {
+    "CONSUMPTION_ID": 58,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 581,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 16
+  },
+  {
+    "CONSUMPTION_ID": 59,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 581,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 60,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 581,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 61,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 581,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 62,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 482,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 63,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 482,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 30
+  },
+  {
+    "CONSUMPTION_ID": 64,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 482,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 65,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 482,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 66,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 482,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 67,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 482,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 68,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 479,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 69,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 103,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 70,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 134,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 71,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 134,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 72,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 134,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 73,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 134,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 14
+  },
+  {
+    "CONSUMPTION_ID": 74,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 134,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 75,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 134,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 76,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 134,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 77,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 134,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 14
+  },
+  {
+    "CONSUMPTION_ID": 78,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 758,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 79,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 758,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 80,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 758,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 81,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 22,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 82,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 60,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 39
+  },
+  {
+    "CONSUMPTION_ID": 83,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 60,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 84,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 60,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 85,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 60,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 86,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 834,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 21
+  },
+  {
+    "CONSUMPTION_ID": 87,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 834,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 88,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 529,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 89,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 248,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 90,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 248,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 91,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 248,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 92,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 248,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 93,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 56,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 94,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 567,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 95,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 25,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 96,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 25,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 20
+  },
+  {
+    "CONSUMPTION_ID": 97,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 25,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 98,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 25,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 99,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 25,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 100,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 463,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 101,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 463,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 102,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 463,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 103,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 463,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 104,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 812,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 105,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 812,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 106,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 848,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 107,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 848,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 108,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 848,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 109,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 81,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 110,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 81,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 111,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 324,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 112,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 324,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 113,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 324,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 114,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 324,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 115,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 394,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 116,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 394,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 117,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 394,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 118,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 680,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 119,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 680,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 39
+  },
+  {
+    "CONSUMPTION_ID": 120,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 680,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 60
+  },
+  {
+    "CONSUMPTION_ID": 121,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 213,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 122,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 213,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 123,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 213,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 124,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 213,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 125,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 277,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 126,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 277,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 127,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 521,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 128,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 742,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 129,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 742,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 130,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 742,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 131,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 742,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 132,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 761,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 16
+  },
+  {
+    "CONSUMPTION_ID": 133,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 184,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 23
+  },
+  {
+    "CONSUMPTION_ID": 134,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 184,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 135,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 184,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 136,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 184,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 24
+  },
+  {
+    "CONSUMPTION_ID": 137,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 184,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 138,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 184,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 139,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 328,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 140,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 328,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 141,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 708,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 142,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 723,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 143,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 723,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 144,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 66,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 145,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 66,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 146,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 66,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 147,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 71,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 148,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 87,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 149,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 267,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 150,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 267,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 151,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 267,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 152,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 500,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 153,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 501,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 154,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 501,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 155,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 501,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 156,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 501,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 157,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 495,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 158,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 495,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 159,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 816,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 20
+  },
+  {
+    "CONSUMPTION_ID": 160,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 816,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 23
+  },
+  {
+    "CONSUMPTION_ID": 161,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 816,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 34
+  },
+  {
+    "CONSUMPTION_ID": 162,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 816,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 163,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 816,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 164,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 816,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 18
+  },
+  {
+    "CONSUMPTION_ID": 165,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 839,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 166,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 157,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 167,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 157,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 23
+  },
+  {
+    "CONSUMPTION_ID": 168,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 471,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 169,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 471,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 170,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 471,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 171,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 471,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 172,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 656,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 173,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 686,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 174,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 686,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 175,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 686,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 176,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 686,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 177,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 686,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 178,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 686,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 179,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 686,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 180,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 686,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 181,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 686,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 18
+  },
+  {
+    "CONSUMPTION_ID": 182,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 701,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 183,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 701,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 184,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 701,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 185,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 65,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 186,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 432,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 18
+  },
+  {
+    "CONSUMPTION_ID": 187,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 432,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 188,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 588,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 189,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 588,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 190,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 588,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 191,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 588,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 192,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 588,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 193,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 588,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 29
+  },
+  {
+    "CONSUMPTION_ID": 194,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 588,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 195,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 682,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 196,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 682,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 197,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 822,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 198,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 852,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 199,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 904,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 200,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 904,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 201,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 280,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 202,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 372,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 16
+  },
+  {
+    "CONSUMPTION_ID": 203,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 372,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 204,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 372,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 205,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 411,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 206,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 411,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 207,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 411,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 208,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 411,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 209,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 411,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 210,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 411,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 20
+  },
+  {
+    "CONSUMPTION_ID": 211,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 542,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 14
+  },
+  {
+    "CONSUMPTION_ID": 212,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 542,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 213,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 542,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 214,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 475,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 215,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 475,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 216,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 58,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 217,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 268,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 218,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 268,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 219,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 608,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 30
+  },
+  {
+    "CONSUMPTION_ID": 220,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 608,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 62
+  },
+  {
+    "CONSUMPTION_ID": 221,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 608,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 222,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 789,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 223,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 789,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 224,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 789,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 225,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 789,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 18
+  },
+  {
+    "CONSUMPTION_ID": 226,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 789,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 227,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 798,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 228,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 798,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 229,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 798,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 230,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 799,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 231,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 799,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 232,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 799,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 233,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 817,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 234,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 817,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 235,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 817,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 21
+  },
+  {
+    "CONSUMPTION_ID": 236,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 817,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 237,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 817,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 238,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 817,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 239,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 817,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 240,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 817,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 16
+  },
+  {
+    "CONSUMPTION_ID": 241,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 825,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 242,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 841,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 243,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 841,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 14
+  },
+  {
+    "CONSUMPTION_ID": 244,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 841,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 245,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 841,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 246,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 841,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 247,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 849,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 248,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 849,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 249,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 849,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 250,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 849,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 251,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 849,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 252,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 849,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 253,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 849,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 254,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 849,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 255,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 865,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 256,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 865,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 257,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 873,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 258,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 889,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 259,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 889,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 26
+  },
+  {
+    "CONSUMPTION_ID": 260,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 895,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 261,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 895,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 262,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 895,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 263,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 895,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 264,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 895,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 265,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 895,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 266,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 895,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 267,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 895,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 268,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 895,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 269,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 895,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 270,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 914,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 271,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 914,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 272,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 109,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 273,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 109,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 274,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 136,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 275,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 136,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 276,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 146,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 277,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 146,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 278,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 146,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 279,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 146,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 280,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 152,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 281,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 152,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 282,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 152,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 283,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 152,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 284,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 152,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 285,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 152,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 22
+  },
+  {
+    "CONSUMPTION_ID": 286,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 152,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 29
+  },
+  {
+    "CONSUMPTION_ID": 287,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 152,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 21
+  },
+  {
+    "CONSUMPTION_ID": 288,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 152,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 289,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 152,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 17
+  },
+  {
+    "CONSUMPTION_ID": 290,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 152,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 44
+  },
+  {
+    "CONSUMPTION_ID": 291,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 154,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 292,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 164,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 293,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 164,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 294,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 164,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 295,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 164,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 296,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 164,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 297,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 171,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 298,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 171,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 299,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 171,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 300,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 171,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 24
+  },
+  {
+    "CONSUMPTION_ID": 301,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 173,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 302,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 173,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 303,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 178,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 304,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 178,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 305,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 178,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 306,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 179,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 307,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 179,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 308,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 182,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 309,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 182,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 310,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 182,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 311,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 187,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 30
+  },
+  {
+    "CONSUMPTION_ID": 312,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 187,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 313,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 187,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 73
+  },
+  {
+    "CONSUMPTION_ID": 314,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 187,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 14
+  },
+  {
+    "CONSUMPTION_ID": 315,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 187,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 316,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 187,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 317,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 524,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 318,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 524,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 22
+  },
+  {
+    "CONSUMPTION_ID": 319,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 524,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 320,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 524,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 321,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 527,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 322,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 527,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 323,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 527,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 324,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 527,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 325,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 527,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 326,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 527,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 327,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 527,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 328,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 527,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 329,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 527,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 330,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 546,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 331,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 546,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 332,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 547,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 333,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 547,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 334,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 555,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 335,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 555,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 336,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 555,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 337,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 555,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 338,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 555,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 339,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 555,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 14
+  },
+  {
+    "CONSUMPTION_ID": 340,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 569,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 24
+  },
+  {
+    "CONSUMPTION_ID": 341,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 569,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 342,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 569,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 343,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 569,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 344,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 569,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 345,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 569,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 38
+  },
+  {
+    "CONSUMPTION_ID": 346,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 569,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 347,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 569,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 348,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 569,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 349,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 578,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 350,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 578,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 351,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 582,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 352,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 582,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 353,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 582,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 354,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 582,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 355,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 582,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 356,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 582,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 357,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 584,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 358,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 587,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 359,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 597,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 30
+  },
+  {
+    "CONSUMPTION_ID": 360,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 597,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 361,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 597,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 362,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 597,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 27
+  },
+  {
+    "CONSUMPTION_ID": 363,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 597,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 21
+  },
+  {
+    "CONSUMPTION_ID": 364,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 597,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 365,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 597,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 366,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 597,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 367,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 616,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 368,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 616,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 369,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 616,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 370,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 616,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 371,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 629,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 372,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 632,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 30
+  },
+  {
+    "CONSUMPTION_ID": 373,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 632,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 374,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 632,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 375,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 632,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 73
+  },
+  {
+    "CONSUMPTION_ID": 376,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 632,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 61
+  },
+  {
+    "CONSUMPTION_ID": 377,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 632,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 46
+  },
+  {
+    "CONSUMPTION_ID": 378,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 632,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 62
+  },
+  {
+    "CONSUMPTION_ID": 379,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 632,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 21
+  },
+  {
+    "CONSUMPTION_ID": 380,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 632,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 24
+  },
+  {
+    "CONSUMPTION_ID": 381,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 632,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 66
+  },
+  {
+    "CONSUMPTION_ID": 382,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 632,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 60
+  },
+  {
+    "CONSUMPTION_ID": 383,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 642,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 384,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 644,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 385,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 386,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 20
+  },
+  {
+    "CONSUMPTION_ID": 387,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 388,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 23
+  },
+  {
+    "CONSUMPTION_ID": 389,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 44
+  },
+  {
+    "CONSUMPTION_ID": 390,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 391,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 392,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 51
+  },
+  {
+    "CONSUMPTION_ID": 393,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 659,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 394,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 662,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 395,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 662,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 396,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 662,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 397,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 662,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 398,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 662,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 31
+  },
+  {
+    "CONSUMPTION_ID": 399,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 664,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 400,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 669,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 23
+  },
+  {
+    "CONSUMPTION_ID": 401,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 669,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 402,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 669,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 403,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 669,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 404,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 669,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 405,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 674,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 406,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 674,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 407,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 674,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 408,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 674,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 44
+  },
+  {
+    "CONSUMPTION_ID": 409,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 684,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 410,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 684,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 29
+  },
+  {
+    "CONSUMPTION_ID": 411,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 684,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 412,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 684,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 25
+  },
+  {
+    "CONSUMPTION_ID": 413,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 684,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 16
+  },
+  {
+    "CONSUMPTION_ID": 414,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 684,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 91
+  },
+  {
+    "CONSUMPTION_ID": 415,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 684,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 14
+  },
+  {
+    "CONSUMPTION_ID": 416,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 684,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 35
+  },
+  {
+    "CONSUMPTION_ID": 417,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 696,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 418,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 696,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 419,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 696,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 420,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 696,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 421,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 696,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 422,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 696,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 423,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 696,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 424,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 696,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 425,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 696,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 28
+  },
+  {
+    "CONSUMPTION_ID": 426,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 696,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 427,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 710,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 428,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 710,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 429,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 711,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 430,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 711,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 431,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 711,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 432,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 748,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 433,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 748,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 434,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 748,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 435,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 748,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 436,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 748,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 437,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 891,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 29
+  },
+  {
+    "CONSUMPTION_ID": 438,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 891,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 439,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 891,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 69
+  },
+  {
+    "CONSUMPTION_ID": 440,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 891,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 55
+  },
+  {
+    "CONSUMPTION_ID": 441,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 891,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 61
+  },
+  {
+    "CONSUMPTION_ID": 442,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 891,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 114
+  },
+  {
+    "CONSUMPTION_ID": 443,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 891,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 26
+  },
+  {
+    "CONSUMPTION_ID": 444,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 891,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 39
+  },
+  {
+    "CONSUMPTION_ID": 445,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 891,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 79
+  },
+  {
+    "CONSUMPTION_ID": 446,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 891,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 59
+  },
+  {
+    "CONSUMPTION_ID": 447,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 892,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 448,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 892,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 449,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 903,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 450,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 903,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 21
+  },
+  {
+    "CONSUMPTION_ID": 451,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 903,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 452,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 903,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 453,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 903,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 23
+  },
+  {
+    "CONSUMPTION_ID": 454,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 903,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 24
+  },
+  {
+    "CONSUMPTION_ID": 455,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 903,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 32
+  },
+  {
+    "CONSUMPTION_ID": 456,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 903,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 457,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 913,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 458,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 913,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 459,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 913,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 460,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 916,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 461,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 917,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 462,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 917,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 463,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 917,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 464,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 917,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 465,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 925,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 466,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 927,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 467,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 927,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 468,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 934,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 469,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 4,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 470,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 4,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 471,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 4,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 472,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 4,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 473,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 4,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 474,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 4,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 475,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 4,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 476,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 20,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 28
+  },
+  {
+    "CONSUMPTION_ID": 477,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 20,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 22
+  },
+  {
+    "CONSUMPTION_ID": 478,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 20,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 20
+  },
+  {
+    "CONSUMPTION_ID": 479,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 20,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 29
+  },
+  {
+    "CONSUMPTION_ID": 480,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 20,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 17
+  },
+  {
+    "CONSUMPTION_ID": 481,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 20,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 69
+  },
+  {
+    "CONSUMPTION_ID": 482,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 20,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 483,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 20,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 484,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 20,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 29
+  },
+  {
+    "CONSUMPTION_ID": 485,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 20,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 22
+  },
+  {
+    "CONSUMPTION_ID": 486,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 21,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 21
+  },
+  {
+    "CONSUMPTION_ID": 487,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 21,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 488,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 21,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 23
+  },
+  {
+    "CONSUMPTION_ID": 489,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 21,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 30
+  },
+  {
+    "CONSUMPTION_ID": 490,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 21,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 491,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 21,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 37
+  },
+  {
+    "CONSUMPTION_ID": 492,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 21,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 24
+  },
+  {
+    "CONSUMPTION_ID": 493,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 21,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 494,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 21,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 25
+  },
+  {
+    "CONSUMPTION_ID": 495,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 26,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 496,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 26,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 497,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 26,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 498,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 26,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 20
+  },
+  {
+    "CONSUMPTION_ID": 499,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 26,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 16
+  },
+  {
+    "CONSUMPTION_ID": 500,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 26,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 34
+  },
+  {
+    "CONSUMPTION_ID": 501,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 26,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 23
+  },
+  {
+    "CONSUMPTION_ID": 502,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 26,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 503,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 26,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 504,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 26,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 21
+  },
+  {
+    "CONSUMPTION_ID": 505,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 26,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 26
+  },
+  {
+    "CONSUMPTION_ID": 506,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 28,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 507,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 28,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 36
+  },
+  {
+    "CONSUMPTION_ID": 508,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 28,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 509,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 28,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 510,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 28,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 69
+  },
+  {
+    "CONSUMPTION_ID": 511,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 31,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 512,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 31,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 513,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 31,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 514,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 31,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 515,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 31,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 516,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 31,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 517,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 31,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 39
+  },
+  {
+    "CONSUMPTION_ID": 518,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 35,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 519,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 35,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 520,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 35,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 521,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 35,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 522,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 35,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 523,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 36,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 524,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 36,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 525,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 37,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 526,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 37,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 527,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 47,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 528,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 47,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 529,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 49,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 23
+  },
+  {
+    "CONSUMPTION_ID": 530,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 140,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 531,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 142,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 532,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 148,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 533,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 162,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 534,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 162,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 535,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 162,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 536,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 162,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 49
+  },
+  {
+    "CONSUMPTION_ID": 537,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 162,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 538,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 166,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 539,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 177,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 540,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 177,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 541,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 177,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 542,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 177,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 543,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 177,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 544,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 177,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 545,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 177,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 20
+  },
+  {
+    "CONSUMPTION_ID": 546,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 177,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 547,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 548,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 186,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 549,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 190,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 30
+  },
+  {
+    "CONSUMPTION_ID": 550,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 190,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 551,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 190,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 552,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 190,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 72
+  },
+  {
+    "CONSUMPTION_ID": 553,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 190,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 61
+  },
+  {
+    "CONSUMPTION_ID": 554,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 190,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 62
+  },
+  {
+    "CONSUMPTION_ID": 555,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 190,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 126
+  },
+  {
+    "CONSUMPTION_ID": 556,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 190,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 28
+  },
+  {
+    "CONSUMPTION_ID": 557,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 190,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 558,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 190,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 82
+  },
+  {
+    "CONSUMPTION_ID": 559,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 190,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 60
+  },
+  {
+    "CONSUMPTION_ID": 560,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 204,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 16
+  },
+  {
+    "CONSUMPTION_ID": 561,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 204,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 562,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 204,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 563,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 210,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 16
+  },
+  {
+    "CONSUMPTION_ID": 564,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 210,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 565,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 210,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 566,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 210,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 17
+  },
+  {
+    "CONSUMPTION_ID": 567,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 210,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 568,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 210,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 569,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 210,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 570,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 215,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 571,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 225,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 572,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 225,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 573,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 225,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 574,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 225,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 575,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 225,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 576,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 225,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 22
+  },
+  {
+    "CONSUMPTION_ID": 577,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 225,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 578,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 225,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 579,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 225,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 580,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 225,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 581,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 412,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 582,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 412,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 31
+  },
+  {
+    "CONSUMPTION_ID": 583,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 412,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 584,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 412,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 585,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 419,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 586,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 419,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 587,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 419,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 588,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 419,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 589,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 419,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 590,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 430,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 591,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 430,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 592,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 430,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 593,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 430,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 594,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 430,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 595,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 449,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 596,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 456,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 14
+  },
+  {
+    "CONSUMPTION_ID": 597,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 456,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 598,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 456,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 599,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 456,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 600,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 456,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 601,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 456,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 602,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 456,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 36
+  },
+  {
+    "CONSUMPTION_ID": 603,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 465,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 604,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 465,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 605,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 465,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 606,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 465,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 46
+  },
+  {
+    "CONSUMPTION_ID": 607,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 465,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 49
+  },
+  {
+    "CONSUMPTION_ID": 608,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 465,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 22
+  },
+  {
+    "CONSUMPTION_ID": 609,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 465,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 23
+  },
+  {
+    "CONSUMPTION_ID": 610,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 465,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 37
+  },
+  {
+    "CONSUMPTION_ID": 611,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 465,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 612,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 465,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 17
+  },
+  {
+    "CONSUMPTION_ID": 613,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 472,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 21
+  },
+  {
+    "CONSUMPTION_ID": 614,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 472,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 615,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 472,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 616,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 472,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 617,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 472,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 618,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 473,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 14
+  },
+  {
+    "CONSUMPTION_ID": 619,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 473,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 620,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 473,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 621,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 473,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 622,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 473,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 623,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 473,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 624,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 473,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 625,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 473,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 626,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 476,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 627,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 476,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 628,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 476,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 629,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 476,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 630,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 476,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 631,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 476,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 17
+  },
+  {
+    "CONSUMPTION_ID": 632,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 477,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 14
+  },
+  {
+    "CONSUMPTION_ID": 633,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 477,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 18
+  },
+  {
+    "CONSUMPTION_ID": 634,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 477,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 635,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 477,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 636,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 551,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 637,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 551,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 638,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 551,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 639,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 551,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 640,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 566,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 641,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 570,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 642,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 570,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 643,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 570,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 644,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 580,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 645,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 605,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 646,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 605,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 647,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 605,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 648,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 605,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 649,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 605,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 650,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 605,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 14
+  },
+  {
+    "CONSUMPTION_ID": 651,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 605,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 652,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 627,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 653,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 627,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 654,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 640,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 655,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 640,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 656,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 648,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 657,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 648,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 658,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 658,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 659,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 658,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 660,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 658,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 661,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 658,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 662,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 666,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 663,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 667,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 664,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 667,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 665,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 667,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 666,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 667,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 667,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 667,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 668,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 667,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 27
+  },
+  {
+    "CONSUMPTION_ID": 669,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 667,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 670,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 667,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 671,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 667,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 672,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 670,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 673,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 670,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 674,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 672,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 675,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 683,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 676,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 683,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 677,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 769,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 678,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 769,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 679,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 769,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 28
+  },
+  {
+    "CONSUMPTION_ID": 680,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 769,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 681,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 769,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 682,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 769,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 683,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 769,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 684,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 780,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 685,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 782,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 686,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 782,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 31
+  },
+  {
+    "CONSUMPTION_ID": 687,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 797,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 688,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 809,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 689,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 809,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 690,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 809,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 691,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 809,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 692,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 809,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 693,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 809,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 694,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 809,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 695,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 809,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 696,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 820,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 697,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 820,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 698,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 823,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 699,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 824,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 18
+  },
+  {
+    "CONSUMPTION_ID": 700,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 824,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 701,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 824,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 702,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 824,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 703,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 824,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 704,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 824,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 705,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 830,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 706,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 830,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 707,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 830,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 708,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 830,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 709,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 837,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 710,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 837,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 711,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 837,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 712,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 837,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 713,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 837,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 714,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 838,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 715,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 838,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 716,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 838,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 717,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 838,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 718,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 858,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 719,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 858,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 720,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 864,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 721,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 869,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 722,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 121,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 723,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 121,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 724,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 121,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 31
+  },
+  {
+    "CONSUMPTION_ID": 725,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 121,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 726,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 121,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 38
+  },
+  {
+    "CONSUMPTION_ID": 727,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 124,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 728,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 124,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 16
+  },
+  {
+    "CONSUMPTION_ID": 729,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 124,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 730,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 124,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 731,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 132,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 732,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 132,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 22
+  },
+  {
+    "CONSUMPTION_ID": 733,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 132,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 734,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 132,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 735,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 132,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 21
+  },
+  {
+    "CONSUMPTION_ID": 736,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 132,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 737,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 132,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 738,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 132,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 739,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 139,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 740,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 141,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 741,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 141,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 23
+  },
+  {
+    "CONSUMPTION_ID": 742,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 141,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 18
+  },
+  {
+    "CONSUMPTION_ID": 743,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 141,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 24
+  },
+  {
+    "CONSUMPTION_ID": 744,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 141,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 745,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 141,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 17
+  },
+  {
+    "CONSUMPTION_ID": 746,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 141,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 747,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 147,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 27
+  },
+  {
+    "CONSUMPTION_ID": 748,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 147,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 749,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 147,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 17
+  },
+  {
+    "CONSUMPTION_ID": 750,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 147,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 24
+  },
+  {
+    "CONSUMPTION_ID": 751,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 147,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 27
+  },
+  {
+    "CONSUMPTION_ID": 752,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 147,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 753,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 147,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 33
+  },
+  {
+    "CONSUMPTION_ID": 754,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 147,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 755,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 147,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 756,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 147,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 42
+  },
+  {
+    "CONSUMPTION_ID": 757,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 147,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 43
+  },
+  {
+    "CONSUMPTION_ID": 758,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 149,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 759,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 149,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 760,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 149,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 761,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 149,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 762,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 149,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 763,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 149,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 764,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 156,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 765,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 156,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 766,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 156,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 27
+  },
+  {
+    "CONSUMPTION_ID": 767,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 156,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 18
+  },
+  {
+    "CONSUMPTION_ID": 768,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 156,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 17
+  },
+  {
+    "CONSUMPTION_ID": 769,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 156,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 22
+  },
+  {
+    "CONSUMPTION_ID": 770,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 156,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 771,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 156,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 24
+  },
+  {
+    "CONSUMPTION_ID": 772,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 156,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 773,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 159,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 774,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 167,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 13
+  },
+  {
+    "CONSUMPTION_ID": 775,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 167,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 776,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 167,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 777,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 167,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 14
+  },
+  {
+    "CONSUMPTION_ID": 778,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 167,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 779,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 167,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 25
+  },
+  {
+    "CONSUMPTION_ID": 780,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 167,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 781,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 167,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 782,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 167,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 25
+  },
+  {
+    "CONSUMPTION_ID": 783,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 167,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 784,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 170,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 785,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 170,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 50
+  },
+  {
+    "CONSUMPTION_ID": 786,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 170,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 787,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 189,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 788,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 195,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 789,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 195,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 790,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 195,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 791,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 338,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 792,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 338,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 793,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 338,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 20
+  },
+  {
+    "CONSUMPTION_ID": 794,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 338,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 795,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 338,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 36
+  },
+  {
+    "CONSUMPTION_ID": 796,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 338,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 28
+  },
+  {
+    "CONSUMPTION_ID": 797,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 338,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 798,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 338,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 36
+  },
+  {
+    "CONSUMPTION_ID": 799,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 338,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 800,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 364,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 801,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 382,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 802,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 387,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 803,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 387,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 804,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 406,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 805,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 406,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 806,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 406,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 807,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 406,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 39
+  },
+  {
+    "CONSUMPTION_ID": 808,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 415,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 809,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 415,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 810,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 414,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 811,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 431,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 812,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 431,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 813,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 431,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 25
+  },
+  {
+    "CONSUMPTION_ID": 814,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 431,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 815,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 433,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 816,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 445,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 21
+  },
+  {
+    "CONSUMPTION_ID": 817,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 445,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 24
+  },
+  {
+    "CONSUMPTION_ID": 818,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 447,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 819,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 447,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 820,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 447,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 821,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 447,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 18
+  },
+  {
+    "CONSUMPTION_ID": 822,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 450,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 823,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 450,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 824,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 450,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 825,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 450,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 826,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 451,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 827,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 451,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 828,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 455,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 20
+  },
+  {
+    "CONSUMPTION_ID": 829,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 455,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 830,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 455,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 831,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 455,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 16
+  },
+  {
+    "CONSUMPTION_ID": 832,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 455,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 35
+  },
+  {
+    "CONSUMPTION_ID": 833,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 455,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 834,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 455,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 43
+  },
+  {
+    "CONSUMPTION_ID": 835,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 459,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 836,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 460,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 837,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 460,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 838,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 462,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 839,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 462,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 840,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 462,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 841,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 530,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 842,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 530,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 843,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 530,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 844,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 536,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 845,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 536,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 846,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 536,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 847,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 536,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 48
+  },
+  {
+    "CONSUMPTION_ID": 848,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 536,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 849,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 537,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 850,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 560,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 30
+  },
+  {
+    "CONSUMPTION_ID": 851,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 560,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 852,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 560,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 853,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 560,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 70
+  },
+  {
+    "CONSUMPTION_ID": 854,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 560,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 60
+  },
+  {
+    "CONSUMPTION_ID": 855,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 560,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 62
+  },
+  {
+    "CONSUMPTION_ID": 856,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 560,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 92
+  },
+  {
+    "CONSUMPTION_ID": 857,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 560,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 28
+  },
+  {
+    "CONSUMPTION_ID": 858,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 560,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 37
+  },
+  {
+    "CONSUMPTION_ID": 859,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 560,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 80
+  },
+  {
+    "CONSUMPTION_ID": 860,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 560,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 60
+  },
+  {
+    "CONSUMPTION_ID": 861,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 562,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 862,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 562,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 19
+  },
+  {
+    "CONSUMPTION_ID": 863,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 562,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 864,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 562,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 865,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 562,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 866,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 562,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 867,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 562,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 868,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 562,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 869,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 562,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 870,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 562,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 871,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 585,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 17
+  },
+  {
+    "CONSUMPTION_ID": 872,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 585,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 873,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 585,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 874,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 585,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 875,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 585,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 876,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 585,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 36
+  },
+  {
+    "CONSUMPTION_ID": 877,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 585,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 878,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 585,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 879,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 585,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 30
+  },
+  {
+    "CONSUMPTION_ID": 880,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 595,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 33
+  },
+  {
+    "CONSUMPTION_ID": 881,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 609,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 882,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 623,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 883,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 630,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 884,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 630,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 885,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 637,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 886,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 637,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 887,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 651,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 888,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 775,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 889,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 775,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 890,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 775,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 891,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 775,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 892,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 775,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 893,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 792,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 894,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 804,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 895,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 804,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 896,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 804,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 897,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 808,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 898,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 808,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 899,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 808,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 900,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 814,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 901,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 814,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 902,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 814,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 18
+  },
+  {
+    "CONSUMPTION_ID": 903,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 814,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 904,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 818,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 30
+  },
+  {
+    "CONSUMPTION_ID": 905,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 818,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 906,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 818,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 907,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 818,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 73
+  },
+  {
+    "CONSUMPTION_ID": 908,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 818,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 61
+  },
+  {
+    "CONSUMPTION_ID": 909,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 818,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 63
+  },
+  {
+    "CONSUMPTION_ID": 910,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 818,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 126
+  },
+  {
+    "CONSUMPTION_ID": 911,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 818,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 28
+  },
+  {
+    "CONSUMPTION_ID": 912,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 818,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 913,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 818,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 83
+  },
+  {
+    "CONSUMPTION_ID": 914,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 818,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 60
+  },
+  {
+    "CONSUMPTION_ID": 915,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 821,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 28
+  },
+  {
+    "CONSUMPTION_ID": 916,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 821,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 9
+  },
+  {
+    "CONSUMPTION_ID": 917,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 821,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 8
+  },
+  {
+    "CONSUMPTION_ID": 918,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 821,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 16
+  },
+  {
+    "CONSUMPTION_ID": 919,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 821,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 920,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 840,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 921,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 840,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 23
+  },
+  {
+    "CONSUMPTION_ID": 922,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 855,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 923,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 62,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 924,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 62,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 925,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 62,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 926,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 62,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 927,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 62,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 17
+  },
+  {
+    "CONSUMPTION_ID": 928,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 62,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 929,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 62,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 930,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 62,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 16
+  },
+  {
+    "CONSUMPTION_ID": 931,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 62,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 12
+  },
+  {
+    "CONSUMPTION_ID": 932,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 70,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 933,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 70,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 934,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 70,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 935,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 72,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 936,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 72,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 937,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 73,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 938,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 77,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 939,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 78,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 940,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 78,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 23
+  },
+  {
+    "CONSUMPTION_ID": 941,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 82,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 942,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 82,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 943,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 89,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 944,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 89,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 945,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 100,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 33
+  },
+  {
+    "CONSUMPTION_ID": 946,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 100,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 947,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 100,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 16
+  },
+  {
+    "CONSUMPTION_ID": 948,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 100,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 949,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 100,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 950,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 100,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 21
+  },
+  {
+    "CONSUMPTION_ID": 951,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 100,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 952,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 105,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 953,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 105,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 954,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 105,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 955,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 105,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 956,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 105,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 957,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 105,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 958,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 108,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 24
+  },
+  {
+    "CONSUMPTION_ID": 959,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 108,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 960,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 116,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 961,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 116,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 962,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 116,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 32
+  },
+  {
+    "CONSUMPTION_ID": 963,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 118,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 964,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 118,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 965,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 118,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 966,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 118,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 967,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 118,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 968,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 300,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 11
+  },
+  {
+    "CONSUMPTION_ID": 969,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 309,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 970,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 323,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 971,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 323,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 972,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 323,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 10
+  },
+  {
+    "CONSUMPTION_ID": 973,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 323,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 974,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 323,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 975,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 323,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 29
+  },
+  {
+    "CONSUMPTION_ID": 976,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 350,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 7
+  },
+  {
+    "CONSUMPTION_ID": 977,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 351,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 978,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 357,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 30
+  },
+  {
+    "CONSUMPTION_ID": 979,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 357,
+    "CONTEXT_ID": 4,
+    "NUM_READ_POSTS": 15
+  },
+  {
+    "CONSUMPTION_ID": 980,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 357,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 981,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 357,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 54
+  },
+  {
+    "CONSUMPTION_ID": 982,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 357,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 51
+  },
+  {
+    "CONSUMPTION_ID": 983,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 357,
+    "CONTEXT_ID": 3,
+    "NUM_READ_POSTS": 49
+  },
+  {
+    "CONSUMPTION_ID": 984,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 357,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 48
+  },
+  {
+    "CONSUMPTION_ID": 985,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 357,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 17
+  },
+  {
+    "CONSUMPTION_ID": 986,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 357,
+    "CONTEXT_ID": 22,
+    "NUM_READ_POSTS": 41
+  },
+  {
+    "CONSUMPTION_ID": 987,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 357,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 54
+  },
+  {
+    "CONSUMPTION_ID": 988,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 357,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 60
+  },
+  {
+    "CONSUMPTION_ID": 989,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 367,
+    "CONTEXT_ID": 18,
+    "NUM_READ_POSTS": 5
+  },
+  {
+    "CONSUMPTION_ID": 990,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 367,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 991,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 367,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 992,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 367,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 1
+  },
+  {
+    "CONSUMPTION_ID": 993,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 367,
+    "CONTEXT_ID": 20,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 994,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 377,
+    "CONTEXT_ID": 0,
+    "NUM_READ_POSTS": 2
+  },
+  {
+    "CONSUMPTION_ID": 995,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 380,
+    "CONTEXT_ID": 16,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 996,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 380,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 997,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 405,
+    "CONTEXT_ID": 13,
+    "NUM_READ_POSTS": 3
+  },
+  {
+    "CONSUMPTION_ID": 998,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 405,
+    "CONTEXT_ID": 14,
+    "NUM_READ_POSTS": 6
+  },
+  {
+    "CONSUMPTION_ID": 999,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 408,
+    "CONTEXT_ID": 8,
+    "NUM_READ_POSTS": 4
+  },
+  {
+    "CONSUMPTION_ID": 1000,
+    "COURSE_ID": "Accountancy",
+    "USER_ID": 413,
+    "CONTEXT_ID": 1,
+    "NUM_READ_POSTS": 29
+  }
+]

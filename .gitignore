@@ -43,3 +43,8 @@ next-env.d.ts
 # markdowns
 AGENTS.md
 CLAUDE.md
+TUGAS AKHIR KECERDASAN BUATAN_KEL 2.md
+
+# datasets
+*.csv
+*.xlsx

@@ -1,26 +1,129 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #FDFCFB;
+  --foreground: #1E1E1E;
+  
+  --primary: #F86041;
+  --primary-foreground: #FDFCFB;
+  
+  --secondary: #FEDFD9;
+  --secondary-foreground: #1E1E1E;
+  
+  --muted: #F4F1EC;
+  --muted-foreground: #6B6862;
+  
+  --border: #1E1E1E;
+  --input: #1E1E1E;
+  --ring: #F86041;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-plus-jakarta);
+  --animate-fade-in-up: fade-in-up 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
+  letter-spacing: -0.04em;
+  overflow-x: hidden;
 }
+
+/* Apply global -4% tracking to all text elements to enforce the typography constraint */
+h1, h2, h3, h4, h5, h6, p, span, a, button, input, label, select, textarea, table, th, td {
+  letter-spacing: -0.04em !important;
+}
+
+/* Custom minimal scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FDFCFB;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #E5E2DD;
+  border-radius: 0px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #D1CBC4;
+}
+
+/* Minimalist Flat Card */
+.flat-card {
+  background: #FDFCFB;
+  border: 1px solid #1E1E1E;
+  border-radius: 0px;
+  position: relative;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Brutalist style flat interactive states if desired */
+.flat-card-interactive:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 2px 2px 0px 0px #1E1E1E;
+}
+
+.flat-card-orange {
+  background: #FEDFD9;
+  border: 1px solid #1E1E1E;
+}
+
+.flat-card-hover:hover {
+  border-color: #F86041;
+}
+
+/* Minimal solid borders */
+.border-solid-main {
+  border: 1px solid #1E1E1E;
+}
+
+.border-b-solid-main {
+  border-b: 1px solid #1E1E1E;
+}
+
+/* Solid status badges (no gradients) */
+.badge-low {
+  background: #EAF7F0;
+  color: #1B8755;
+  border: 1px solid #1B8755;
+}
+
+.badge-medium {
+  background: #FFF9E6;
+  color: #B28300;
+  border: 1px solid #B28300;
+}
+
+.badge-high {
+  background: #FFF2E6;
+  color: #CC6600;
+  border: 1px solid #CC6600;
+}
+
+.badge-critical {
+  background: #FFF0F2;
+  color: #D61C4E;
+  border: 1px solid #D61C4E;
+}
+
+

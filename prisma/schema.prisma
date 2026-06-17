@@ -1,0 +1,30 @@
+datasource db {
+  provider = "postgresql"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Student {
+  id                      String   @id @default(uuid())
+  name                    String
+  strugglesLogic          Boolean
+  strugglesCoreOOP        Boolean
+  strugglesAdvancedOOP    Boolean
+  strugglesDataStructures Boolean
+  learningStyle           String
+  diagnosisTitle          String
+  riskLevel               String
+  explanation             String
+  createdAt               DateTime @default(now())
+  tasks                   Task[]
+}
+
+model Task {
+  id        String   @id
+  title     String
+  completed Boolean
+  studentId String
+  student   Student  @relation(fields: [studentId], references: [id], onDelete: Cascade)
+}
