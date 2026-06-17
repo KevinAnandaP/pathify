@@ -10,15 +10,30 @@ export default function DashboardPage() {
   const [activeFacts, setActiveFacts] = useState<Facts | null>(null);
   const [tasks, setTasks] = useState<{ id: string; title: string; completed: boolean }[]>([]);
 
-  const loadDefaultStudent = () => {
-    const defaultStudent = MOCK_STUDENTS[0];
-    setActiveDiagnosis(defaultStudent.diagnosis);
-    setActiveFacts(defaultStudent.facts);
-    setTasks(defaultStudent.diagnosis.remediationTasks);
-  };
-
   // Load diagnosis from localstorage/database or use a default mock student
   useEffect(() => {
+    const loadDefaultStudent = () => {
+      const defaultStudent = MOCK_STUDENTS[0];
+      setActiveDiagnosis(defaultStudent.diagnosis);
+      setActiveFacts(defaultStudent.facts);
+      setTasks(defaultStudent.diagnosis.remediationTasks);
+    };
+
+    const loadFromLocalStorage = (storedDiag: string | null, storedFacts: string | null) => {
+      if (storedDiag && storedFacts) {
+        try {
+          const diag = JSON.parse(storedDiag) as Diagnosis;
+          setActiveDiagnosis(diag);
+          setActiveFacts(JSON.parse(storedFacts) as Facts);
+          setTasks(diag.remediationTasks);
+        } catch {
+          loadDefaultStudent();
+        }
+      } else {
+        loadDefaultStudent();
+      }
+    };
+
     const timer = setTimeout(() => {
       const storedId = localStorage.getItem("pathify_active_student_id");
       const storedDiag = localStorage.getItem("pathify_active_diagnosis");
@@ -58,21 +73,6 @@ export default function DashboardPage() {
     }, 0);
     return () => clearTimeout(timer);
   }, []);
-
-  const loadFromLocalStorage = (storedDiag: string | null, storedFacts: string | null) => {
-    if (storedDiag && storedFacts) {
-      try {
-        const diag = JSON.parse(storedDiag) as Diagnosis;
-        setActiveDiagnosis(diag);
-        setActiveFacts(JSON.parse(storedFacts) as Facts);
-        setTasks(diag.remediationTasks);
-      } catch {
-        loadDefaultStudent();
-      }
-    } else {
-      loadDefaultStudent();
-    }
-  };
 
   // Recalculate exam readiness percentage during render instead of using a separate effect
   const readiness = tasks.length === 0

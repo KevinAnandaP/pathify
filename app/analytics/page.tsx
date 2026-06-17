@@ -19,6 +19,20 @@ interface ParsedStudent {
   };
 }
 
+interface DbStudent {
+  id: string;
+  name: string;
+  strugglesLogic: boolean;
+  strugglesCoreOOP: boolean;
+  strugglesAdvancedOOP: boolean;
+  strugglesDataStructures: boolean;
+  learningStyle: "Visual" | "Auditory" | "Kinesthetic";
+  diagnosisTitle: string;
+  riskLevel: "Low" | "Medium" | "High" | "Critical";
+  explanation: string;
+  tasks: { id: string; title: string; completed: boolean }[];
+}
+
 export default function AnalyticsPage() {
   const router = useRouter();
   const [students, setStudents] = useState<ParsedStudent[]>(() => {
@@ -44,7 +58,7 @@ export default function AnalyticsPage() {
       })
       .then(data => {
         if (data && Array.isArray(data) && data.length > 0) {
-          const formatted = data.map((std: any) => ({
+          const formatted = data.map((std: DbStudent) => ({
             name: std.name,
             facts: {
               strugglesLogic: std.strugglesLogic,
@@ -58,7 +72,12 @@ export default function AnalyticsPage() {
               title: std.diagnosisTitle,
               risk: std.riskLevel,
               explanation: std.explanation,
-              remediationTasks: std.tasks
+              remediationTasks: std.tasks.map(t => ({
+                id: t.id,
+                title: t.title,
+                completed: t.completed,
+                source: "Database"
+              }))
             }
           }));
           setStudents(formatted);
@@ -311,7 +330,7 @@ export default function AnalyticsPage() {
       );
 
       if (isParsedStudentFormat) {
-        const formatted = data.map((item: any) => ({
+        const formatted = data.map((item: ParsedStudent) => ({
           name: item.name,
           facts: item.facts,
           diagnosis: item.diagnosis,
@@ -366,8 +385,8 @@ export default function AnalyticsPage() {
 
       for (let i = 0; i < maxRows; i++) {
         const row = data[i];
-        const rowData: Record<string, any> = {};
-        Object.entries(row).forEach(([k, v]) => {
+        const rowData: Record<string, string | number | boolean> = {};
+        Object.entries(row as Record<string, string | number | boolean>).forEach(([k, v]) => {
           rowData[k.toLowerCase()] = v;
         });
 
@@ -376,9 +395,9 @@ export default function AnalyticsPage() {
           const name = `Mhs #${studentId}`;
           const finalResult = String(rowData["final_result"]);
           const highestEducation = String(rowData["highest_education"]);
-          const credits = parseInt(rowData["studied_credits"]) || 60;
+          const credits = parseInt(String(rowData["studied_credits"])) || 60;
           const gender = String(rowData["gender"]);
-          const prevAttempts = parseInt(rowData["num_of_prev_attempts"]) || 0;
+          const prevAttempts = parseInt(String(rowData["num_of_prev_attempts"])) || 0;
           const disability = String(rowData["disability"]);
 
           const strugglesLogic = highestEducation.toLowerCase().includes("lower than") || highestEducation.toLowerCase().includes("no formal");
@@ -478,8 +497,9 @@ export default function AnalyticsPage() {
             console.error("Gagal melakukan impor ke database:", err);
           });
       }
-    } catch (e: any) {
-      setErrorMsg(`Terjadi kesalahan parsing berkas JSON: ${e.message}`);
+    } catch (e) {
+      const error = e as Error;
+      setErrorMsg(`Terjadi kesalahan parsing berkas JSON: ${error.message}`);
       setSuccessMsg(null);
       setConvertedJson(null);
     }
