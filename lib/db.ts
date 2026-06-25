@@ -24,7 +24,7 @@ if (typeof window === "undefined") {
   }
 } else {
   // Client-side fallback proxy
-  prismaInstance = new Proxy({} as any, {
+  prismaInstance = new Proxy({} as unknown as PrismaClient, {
     get() {
       throw new Error("Cannot execute database queries on the client side.");
     }
