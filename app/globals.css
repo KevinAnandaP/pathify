@@ -98,7 +98,7 @@ h1, h2, h3, h4, h5, h6, p, span, a, button, input, label, select, textarea, tabl
 }
 
 .border-b-solid-main {
-  border-b: 1px solid #1E1E1E;
+  border-bottom: 1px solid #1E1E1E;
 }
 
 /* Solid status badges (no gradients) */

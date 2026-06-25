@@ -39,7 +39,7 @@ export async function POST(req: NextRequest) {
         riskLevel: diagnosis.risk,
         explanation: diagnosis.explanation,
         tasks: {
-          create: diagnosis.remediationTasks.map((t: any) => ({
+          create: diagnosis.remediationTasks.map((t: { id: string; title: string; completed: boolean }) => ({
             id: t.id,
             title: t.title,
             completed: t.completed || false,
