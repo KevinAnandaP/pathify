@@ -1,11 +1,13 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import { runForwardChaining, Facts, DetailedFacts, InferenceResult } from "@/lib/expert-system";
+import Header from "@/app/components/Header";
 
 export default function DiagnosePage() {
   const [studentName, setStudentName] = useState("");
+  const [userId, setUserId] = useState<string | null>(null);
   const [detailedFacts, setDetailedFacts] = useState<DetailedFacts>({
     g001: false,
     g002: false,
@@ -17,6 +19,21 @@ export default function DiagnosePage() {
     g008: false,
     learningStyle: "",
   });
+
+  useEffect(() => {
+    fetch("/api/auth/me")
+      .then((res) => {
+        if (res.ok) return res.json();
+        return null;
+      })
+      .then((user) => {
+        if (user) {
+          setStudentName(user.name);
+          setUserId(user.id);
+        }
+      })
+      .catch(() => {});
+  }, []);
 
   const [result, setResult] = useState<InferenceResult | null>(null);
   const [showTrace, setShowTrace] = useState(false);
@@ -64,6 +81,7 @@ export default function DiagnosePage() {
         name: studentName,
         facts: mappedFacts,
         diagnosis: res.diagnosis,
+        userId: userId,
       }),
     })
       .then((response) => response.json())
@@ -117,33 +135,7 @@ export default function DiagnosePage() {
 
   return (
     <div className="flex flex-col min-h-screen bg-[#FDFCFB] text-[#1E1E1E] selection:bg-[#FEDFD9] selection:text-[#1E1E1E]">
-      {/* Header */}
-      <header className="border-b border-[#1E1E1E] bg-[#FDFCFB] sticky top-0 z-50">
-        <div className="max-w-6xl mx-auto px-6 h-20 flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-3">
-            <div className="w-10 h-10 bg-[#F86041] border border-[#1E1E1E] flex items-center justify-center font-bold text-[#FDFCFB] text-lg">
-              P
-            </div>
-            <span className="text-xl font-bold tracking-tight">
-              Pathify
-            </span>
-          </Link>
-          <nav className="flex items-center gap-8 text-sm font-bold">
-            <Link href="/" className="hover:text-[#F86041] hover:underline">
-              Beranda
-            </Link>
-            <Link href="/diagnose" className="text-[#F86041] hover:underline">
-              Mulai Diagnosis
-            </Link>
-            <Link href="/dashboard" className="hover:text-[#F86041] hover:underline">
-              Dashboard Tracker
-            </Link>
-            <Link href="/analytics" className="hover:text-[#F86041] hover:underline">
-              Analisis Dataset
-            </Link>
-          </nav>
-        </div>
-      </header>
+      <Header />
 
       {/* Main Content */}
       <main className="flex-1 max-w-4xl w-full mx-auto px-6 py-12 flex flex-col gap-10">
@@ -167,8 +159,9 @@ export default function DiagnosePage() {
                   type="text"
                   value={studentName}
                   onChange={(e) => setStudentName(e.target.value)}
+                  disabled={!!userId}
                   placeholder="Masukkan nama lengkap Anda..."
-                  className="p-4 border border-[#1E1E1E] bg-[#FDFCFB] text-sm focus:outline-none focus:ring-1 focus:ring-[#F86041] rounded-none w-full"
+                  className="p-4 border border-[#1E1E1E] bg-[#FDFCFB] text-sm focus:outline-none focus:ring-1 focus:ring-[#F86041] rounded-none w-full disabled:opacity-75 disabled:bg-[#F4F1EC]"
                 />
               </div>
             </div>

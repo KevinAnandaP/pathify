@@ -1,10 +1,10 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Facts, runForwardChaining, Diagnosis } from "@/lib/expert-system";
-import { MOCK_STUDENTS, SAMPLE_CSV_STRING } from "@/lib/mock-data";
+import { SAMPLE_CSV_STRING } from "@/lib/mock-data";
+import Header from "@/app/components/Header";
 
 interface ParsedStudent {
   name: string;
@@ -35,13 +35,9 @@ interface DbStudent {
 
 export default function AnalyticsPage() {
   const router = useRouter();
-  const [students, setStudents] = useState<ParsedStudent[]>(() => {
-    return MOCK_STUDENTS.map(std => ({
-      name: std.name,
-      facts: std.facts,
-      diagnosis: std.diagnosis
-    }));
-  });
+  const [students, setStudents] = useState<ParsedStudent[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [isLecturer, setIsLecturer] = useState(false);
   const [errorMsg, setErrorMsg] = useState<string | null>(null);
   const [successMsg, setSuccessMsg] = useState<string | null>(null);
   const [dragActive, setDragActive] = useState(false);
@@ -49,44 +45,60 @@ export default function AnalyticsPage() {
   const [convertedJson, setConvertedJson] = useState<string | null>(null);
   const [uploadedFilename, setUploadedFilename] = useState<string>("");
 
-  // Fetch from PostgreSQL database on mount
+  // Verify Lecturer access and fetch from database on mount
   useEffect(() => {
-    fetch("/api/students")
-      .then(res => {
-        if (!res.ok) throw new Error("API failed");
-        return res.json();
+    fetch("/api/auth/me")
+      .then((res) => {
+        if (res.ok) return res.json();
+        throw new Error("Unauthorized");
       })
-      .then(data => {
-        if (data && Array.isArray(data) && data.length > 0) {
-          const formatted = data.map((std: DbStudent) => ({
-            name: std.name,
-            facts: {
-              strugglesLogic: std.strugglesLogic,
-              strugglesCoreOOP: std.strugglesCoreOOP,
-              strugglesAdvancedOOP: std.strugglesAdvancedOOP,
-              strugglesDataStructures: std.strugglesDataStructures,
-              learningStyle: std.learningStyle
-            },
-            diagnosis: {
-              id: std.id,
-              title: std.diagnosisTitle,
-              risk: std.riskLevel,
-              explanation: std.explanation,
-              remediationTasks: std.tasks.map(t => ({
-                id: t.id,
-                title: t.title,
-                completed: t.completed,
-                source: "Database"
-              }))
-            }
-          }));
-          setStudents(formatted);
+      .then((user) => {
+        if (user.role !== "LECTURER") {
+          router.push("/dashboard");
+        } else {
+          setIsLecturer(true);
+          // Fetch students
+          return fetch("/api/students")
+            .then(res => {
+              if (!res.ok) throw new Error("API failed");
+              return res.json();
+            })
+            .then(data => {
+              if (data && Array.isArray(data) && data.length > 0) {
+                const formatted = data.map((std: DbStudent) => ({
+                  name: std.name,
+                  facts: {
+                    strugglesLogic: std.strugglesLogic,
+                    strugglesCoreOOP: std.strugglesCoreOOP,
+                    strugglesAdvancedOOP: std.strugglesAdvancedOOP,
+                    strugglesDataStructures: std.strugglesDataStructures,
+                    learningStyle: std.learningStyle
+                  },
+                  diagnosis: {
+                    id: std.id,
+                    title: std.diagnosisTitle,
+                    risk: std.riskLevel,
+                    explanation: std.explanation,
+                    remediationTasks: std.tasks.map(t => ({
+                      id: t.id,
+                      title: t.title,
+                      completed: t.completed,
+                      source: "Database"
+                    }))
+                  }
+                }));
+                setStudents(formatted);
+              }
+            });
         }
       })
-      .catch(err => {
-        console.warn("Gagal mengambil data dari database, menggunakan data mock bawaan:", err);
+      .catch(() => {
+        router.push("/login");
+      })
+      .finally(() => {
+        setLoading(false);
       });
-  }, []);
+  }, [router]);
 
   const downloadTemplate = () => {
     const blob = new Blob([SAMPLE_CSV_STRING], { type: "text/csv;charset=utf-8;" });
@@ -653,36 +665,14 @@ export default function AnalyticsPage() {
 
   return (
     <div className="flex flex-col min-h-screen bg-[#FDFCFB] text-[#1E1E1E] selection:bg-[#FEDFD9] selection:text-[#1E1E1E]">
-      {/* Header */}
-      <header className="border-b border-[#1E1E1E] bg-[#FDFCFB] sticky top-0 z-50">
-        <div className="max-w-6xl mx-auto px-6 h-20 flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-3">
-            <div className="w-10 h-10 bg-[#F86041] border border-[#1E1E1E] flex items-center justify-center font-bold text-[#FDFCFB] text-lg">
-              P
-            </div>
-            <span className="text-xl font-bold tracking-tight">
-              Pathify
-            </span>
-          </Link>
-          <nav className="flex items-center gap-8 text-sm font-bold">
-            <Link href="/" className="hover:text-[#F86041] hover:underline">
-              Beranda
-            </Link>
-            <Link href="/diagnose" className="hover:text-[#F86041] hover:underline">
-              Mulai Diagnosis
-            </Link>
-            <Link href="/dashboard" className="hover:text-[#F86041] hover:underline">
-              Dashboard Tracker
-            </Link>
-            <Link href="/analytics" className="text-[#F86041] hover:underline">
-              Analisis Dataset
-            </Link>
-          </nav>
-        </div>
-      </header>
+      <Header />
 
-      {/* Main Content */}
-      <main className="flex-1 max-w-6xl w-full mx-auto px-6 py-12 flex flex-col gap-10">
+      {loading ? (
+        <main className="flex-1 max-w-6xl w-full mx-auto px-6 py-20 text-center">
+          <p className="text-sm text-zinc-500 font-bold uppercase tracking-wider animate-pulse">Memuat Analisis Dataset...</p>
+        </main>
+      ) : !isLecturer ? null : (
+        <main className="flex-1 max-w-6xl w-full mx-auto px-6 py-12 flex flex-col gap-10">
         {/* Title */}
         <div className="border-b border-[#1E1E1E] pb-6 flex flex-col sm:flex-row sm:items-center justify-between gap-6">
           <div>
@@ -693,24 +683,12 @@ export default function AnalyticsPage() {
               Impor berkas CSV mahasiswa (seperti berkas OULAD <code className="font-mono text-zinc-800">studentInfo.csv</code> atau templat Pathify) untuk dianalisis.
             </p>
           </div>
-          <div className="flex gap-3">
+          <div>
             <button
               onClick={downloadTemplate}
               className="px-5 py-3 border border-[#1E1E1E] bg-[#FDFCFB] hover:bg-[#FEDFD9] text-xs font-bold uppercase transition-colors shadow-[2px_2px_0px_0px_#1E1E1E]"
             >
               Unduh Templat CSV
-            </button>
-            <button
-              onClick={() => {
-                const formatted = MOCK_STUDENTS.map(s => ({ name: s.name, facts: s.facts, diagnosis: s.diagnosis }));
-                setStudents(formatted);
-                setDatasetType("pathify");
-                setSuccessMsg(null);
-                setErrorMsg(null);
-              }}
-              className="px-5 py-3 border border-[#1E1E1E] bg-[#F4F1EC] hover:bg-[#E5E2DD] text-xs font-bold uppercase transition-colors text-zinc-600 shadow-[2px_2px_0px_0px_#1E1E1E]"
-            >
-              Data Bawaan (Default)
             </button>
           </div>
         </div>
@@ -920,7 +898,8 @@ export default function AnalyticsPage() {
             <p className="text-sm text-zinc-500">Berkas CSV belum dimuat. Silakan seret berkas CSV di atas.</p>
           </div>
         )}
-      </main>
+        </main>
+      )}
     </div>
   );
 }
