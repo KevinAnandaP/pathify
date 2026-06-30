@@ -18,7 +18,11 @@ export default function RegisterPage() {
     e.preventDefault();
     setErrorMsg(null);
     setSuccessMsg(null);
-    setLoading(true);
+    if (password.length < 8) {
+      setErrorMsg("Kata sandi harus terdiri dari minimal 8 karakter.");
+      setLoading(false);
+      return;
+    }
 
     try {
       const response = await fetch("/api/auth/register", {
@@ -111,9 +115,10 @@ export default function RegisterPage() {
             <input
               type="password"
               required
+              minLength={8}
               value={password}
               onChange={(e) => setPassword(e.target.value)}
-              placeholder="Minimal 6 karakter"
+              placeholder="Minimal 8 karakter"
               className="p-4 border border-[#1E1E1E] bg-[#FDFCFB] text-sm focus:outline-none focus:ring-1 focus:ring-[#F86041] rounded-none w-full"
             />
           </div>

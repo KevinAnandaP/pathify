@@ -13,6 +13,13 @@ export async function POST(request: Request) {
       );
     }
 
+    if (password.length < 8) {
+      return NextResponse.json(
+        { error: "Kata sandi harus terdiri dari minimal 8 karakter." },
+        { status: 400 }
+      );
+    }
+
     if (role !== "STUDENT" && role !== "LECTURER") {
       return NextResponse.json(
         { error: "Peran harus berupa STUDENT atau LECTURER." },
