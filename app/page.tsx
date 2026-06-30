@@ -9,10 +9,6 @@ export default function Home() {
       {/* Hero Section */}
       <main className="flex-1 max-w-6xl w-full mx-auto px-6 py-20 flex flex-col justify-center gap-12">
         <div className="max-w-3xl flex flex-col gap-6 animate-fade-in-up">
-          <div className="inline-block self-start px-3 py-1 border border-[#1E1E1E] bg-[#FEDFD9] text-xs font-bold uppercase tracking-wider text-[#1E1E1E]">
-            Tugas Akhir Kecerdasan Buatan - Kelompok 2
-          </div>
-          
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold tracking-tight leading-tight text-zinc-950">
             Analisis Kesulitan Belajar dengan Rule-Based Reasoning
           </h1>
