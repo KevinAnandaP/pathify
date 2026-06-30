@@ -38,12 +38,13 @@ RUN chown nextjs:nodejs .next
 COPY --from=builder --chown=nextjs:nodejs /app/.next/standalone ./
 COPY --from=builder --chown=nextjs:nodejs /app/.next/static ./.next/static
 COPY --from=builder --chown=nextjs:nodejs /app/prisma ./prisma
+COPY --from=builder --chown=nextjs:nodejs /app/prisma.config.js ./
 
 USER nextjs
 
-EXPOSE 3000
+EXPOSE 3008
 
-ENV PORT=3000
+ENV PORT=3008
 ENV HOSTNAME="0.0.0.0"
 
 # server.js is created by next build when output: "standalone" is set
