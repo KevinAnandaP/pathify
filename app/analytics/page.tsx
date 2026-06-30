@@ -625,10 +625,10 @@ export default function AnalyticsPage() {
     const entries = Object.entries(struggleStats);
     entries.sort((a, b) => b[1] - a[1]);
     const names: Record<string, string> = {
-      Logic: "Logika Dasar",
-      CoreOOP: "Konsep OOP",
-      AdvancedOOP: "OOP Abstraksi",
-      DataStructures: "Struktur Data"
+      Logic: "Partisipasi Kolaboratif (Forum)",
+      CoreOOP: "Evaluasi Praktis (Kuis & Tugas)",
+      AdvancedOOP: "Literasi Konten (Bahan Ajar)",
+      DataStructures: "Manajemen Waktu & Konsistensi Belajar"
     };
     return names[entries[0][0]] || "-";
   };
@@ -779,17 +779,17 @@ export default function AnalyticsPage() {
               <div className="border border-[#1E1E1E] p-8 bg-[#FDFCFB] flex flex-col gap-6">
                 <div>
                   <h3 className="font-bold text-sm uppercase tracking-wider text-zinc-500">
-                    {datasetType === "oulad" ? "Faktor Risiko Terdeteksi (OULAD)" : "Persentase Kesulitan per Sub-bab"}
+                    {datasetType === "oulad" ? "Faktor Risiko Terdeteksi (OULAD)" : "Persentase Hambatan Aktivitas Belajar"}
                   </h3>
                   <p className="text-xs text-zinc-500 mt-1">Proporsi indikasi kendala yang terpetakan dari dataset.</p>
                 </div>
 
                 <div className="flex flex-col gap-5">
                   {[
-                    { label: datasetType === "oulad" ? "Pendidikan di bawah A Level" : "Logika Dasar & Kontrol Alur", count: struggleStats.Logic },
-                    { label: datasetType === "oulad" ? "Memiliki Riwayat Mengulang" : "Konsep Dasar OOP", count: struggleStats.CoreOOP },
-                    { label: datasetType === "oulad" ? "Beban Kredit Tinggi (>100)" : "Struktur Data & Ref Objek", count: struggleStats.DataStructures },
-                    { label: datasetType === "oulad" ? "Memiliki Keterbatasan Fisik" : "OOP Abstraksi Lanjut", count: struggleStats.AdvancedOOP },
+                    { label: datasetType === "oulad" ? "Pendidikan di bawah A Level" : "Partisipasi Kolaboratif (Forum)", count: struggleStats.Logic },
+                    { label: datasetType === "oulad" ? "Memiliki Riwayat Mengulang" : "Evaluasi Praktis (Kuis & Tugas)", count: struggleStats.CoreOOP },
+                    { label: datasetType === "oulad" ? "Beban Kredit Tinggi (>100)" : "Manajemen Waktu & Konsistensi Belajar", count: struggleStats.DataStructures },
+                    { label: datasetType === "oulad" ? "Memiliki Keterbatasan Fisik" : "Literasi Konten (Bahan Ajar)", count: struggleStats.AdvancedOOP },
                   ].map((item, idx) => {
                     const percentage = totalCount > 0 ? Math.round((item.count / totalCount) * 100) : 0;
                     return (
