@@ -169,16 +169,16 @@ export default function DashboardPage() {
     <div className="flex flex-col min-h-screen bg-[#FDFCFB] text-[#1E1E1E] selection:bg-[#FEDFD9] selection:text-[#1E1E1E]">
       {/* Header */}
       <header className="border-b border-[#1E1E1E] bg-[#FDFCFB] sticky top-0 z-50">
-        <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
+        <div className="max-w-6xl mx-auto px-6 h-20 flex items-center justify-between">
           <Link href="/" className="flex items-center gap-3">
-            <div className="w-8 h-8 bg-[#F86041] border border-[#1E1E1E] flex items-center justify-center font-bold text-[#FDFCFB] text-base">
+            <div className="w-10 h-10 bg-[#F86041] border border-[#1E1E1E] flex items-center justify-center font-bold text-[#FDFCFB] text-lg">
               P
             </div>
-            <span className="text-lg font-bold tracking-tight">
+            <span className="text-xl font-bold tracking-tight">
               Pathify
             </span>
           </Link>
-          <nav className="flex items-center gap-6 text-sm font-medium">
+          <nav className="flex items-center gap-8 text-sm font-bold">
             <Link href="/" className="hover:text-[#F86041] hover:underline">
               Beranda
             </Link>
@@ -196,89 +196,89 @@ export default function DashboardPage() {
       </header>
 
       {/* Main Content */}
-      <main className="flex-1 max-w-6xl w-full mx-auto px-6 py-12 flex flex-col gap-8">
+      <main className="flex-1 max-w-6xl w-full mx-auto px-6 py-12 flex flex-col gap-10">
         {/* Title & Actions */}
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-[#1E1E1E] pb-6">
+        <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 border-b border-[#1E1E1E] pb-6">
           <div>
             <div className="flex items-center gap-2">
-              <span className="w-2 h-2 bg-emerald-500 border border-[#1E1E1E]" />
-              <span className="text-[10px] font-bold text-[#F86041] uppercase tracking-wider">
+              <span className="w-3 h-3 bg-emerald-500 border border-[#1E1E1E]" />
+              <span className="text-xs font-bold text-[#F86041] uppercase tracking-wider">
                 Pemantauan Remedi Aktif
               </span>
             </div>
-            <h1 className="text-2xl font-extrabold text-[#1E1E1E] mt-0.5">
+            <h1 className="text-3xl font-extrabold text-[#1E1E1E] mt-1.5">
               Dasbor Pelacak Belajar Mandiri
             </h1>
           </div>
           <Link
             href="/diagnose"
-            className="self-start px-4 py-2.5 border border-[#1E1E1E] bg-[#FDFCFB] hover:bg-[#FEDFD9] text-xs font-bold uppercase transition-colors"
+            className="self-start px-6 py-3.5 border border-[#1E1E1E] bg-[#FDFCFB] hover:bg-[#FEDFD9] text-xs font-bold uppercase transition-colors shadow-[3px_3px_0px_0px_#1E1E1E]"
           >
             Ulangi Diagnosis
           </Link>
         </div>
 
         {activeDiagnosis ? (
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
             {/* Left Column (Diagnosis info and tasks) */}
-            <div className="lg:col-span-2 flex flex-col gap-6">
+            <div className="lg:col-span-2 flex flex-col gap-8">
               {/* Active Diagnosis Info */}
-              <div className="border border-[#1E1E1E] p-6 bg-[#FDFCFB]">
+              <div className="border border-[#1E1E1E] p-8 bg-[#FDFCFB]">
                 <div className="flex items-start justify-between gap-4 border-b border-[#1E1E1E] pb-4">
                   <div>
-                    <span className="text-[9px] font-bold text-zinc-500 uppercase tracking-wider block">
+                    <span className="text-xs font-bold text-zinc-500 uppercase tracking-wider block">
                       DIAGNOSIS TERAKHIR
                     </span>
-                    <h2 className="text-lg font-bold text-[#1E1E1E] mt-0.5">
+                    <h2 className="text-xl font-bold text-[#1E1E1E] mt-1">
                       {activeDiagnosis.title}
                     </h2>
                   </div>
                   {activeFacts && (
-                    <span className="px-2 py-0.5 border border-[#1E1E1E] bg-[#FEDFD9] text-[9px] font-bold uppercase tracking-wider">
+                    <span className="px-3 py-1 border border-[#1E1E1E] bg-[#FEDFD9] text-xs font-bold uppercase tracking-wider">
                       Gaya Belajar: {activeFacts.learningStyle}
                     </span>
                   )}
                 </div>
-                <p className="text-xs text-zinc-600 mt-4 leading-relaxed">
+                <p className="text-sm text-zinc-600 mt-6 leading-relaxed">
                   {activeDiagnosis.explanation}
                 </p>
               </div>
 
               {/* Task board / list */}
-              <div className="border border-[#1E1E1E] p-6 bg-[#FDFCFB] flex flex-col gap-4">
+              <div className="border border-[#1E1E1E] p-8 bg-[#FDFCFB] flex flex-col gap-6">
                 <div>
-                  <h3 className="font-bold text-sm text-[#1E1E1E]">Papan Rencana Aksi</h3>
-                  <p className="text-[10px] text-zinc-500 mt-0.5">
+                  <h3 className="font-bold text-lg text-[#1E1E1E]">Papan Rencana Aksi</h3>
+                  <p className="text-xs text-zinc-500 mt-1">
                     Selesaikan rencana aksi remedi mandiri ini sebelum pelaksanaan masa ujian semester.
                   </p>
                 </div>
 
-                <div className="flex flex-col gap-2.5">
+                <div className="flex flex-col gap-4">
                   {tasks.map((task) => (
                     <div
                       key={task.id}
                       onClick={() => toggleTask(task.id)}
-                      className={`p-4 border border-[#1E1E1E] transition-colors cursor-pointer flex items-center justify-between gap-3 select-none ${
-                        task.completed ? "bg-[#FEDFD9]/30 text-zinc-500" : "bg-[#FDFCFB] hover:bg-[#F4F1EC]"
+                      className={`p-5 border border-[#1E1E1E] transition-colors cursor-pointer flex items-center justify-between gap-4 select-none ${
+                        task.completed ? "bg-[#FEDFD9]/20 text-zinc-500" : "bg-[#FDFCFB] hover:bg-[#F4F1EC]/30"
                       }`}
                     >
-                      <div className="flex items-start gap-3">
-                        <div className={`mt-0.5 w-4.5 h-4.5 border border-[#1E1E1E] flex items-center justify-center shrink-0 transition-colors ${
+                      <div className="flex items-start gap-4">
+                        <div className={`mt-0.5 w-5 h-5 border border-[#1E1E1E] flex items-center justify-center shrink-0 transition-colors ${
                           task.completed ? "bg-[#F86041]" : "bg-[#FDFCFB]"
                         }`}>
                           {task.completed && (
-                            <svg className="w-3 h-3 text-[#FDFCFB]" viewBox="0 0 20 20" fill="currentColor">
+                            <svg className="w-3.5 h-3.5 text-[#FDFCFB]" viewBox="0 0 20 20" fill="currentColor">
                               <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                             </svg>
                           )}
                         </div>
-                        <span className={`text-xs leading-relaxed ${task.completed ? "line-through text-zinc-500" : "text-[#1E1E1E]"}`}>
+                        <span className={`text-sm leading-relaxed ${task.completed ? "line-through text-zinc-400 font-normal" : "text-[#1E1E1E] font-medium"}`}>
                           {task.title}
                         </span>
                       </div>
 
-                      <span className={`text-[8px] font-bold border border-[#1E1E1E] px-1.5 py-0.5 tracking-wider uppercase shrink-0 ${
-                        task.completed ? "bg-[#F4F1EC] text-zinc-500" : "bg-[#FEDFD9] text-[#1E1E1E]"
+                      <span className={`text-xs font-bold border border-[#1E1E1E] px-2 py-0.5 tracking-wider uppercase shrink-0 ${
+                        task.completed ? "bg-[#F4F1EC] text-zinc-400" : "bg-[#FEDFD9] text-[#1E1E1E]"
                       }`}>
                         {task.completed ? "Selesai" : "Tunda"}
                       </span>
@@ -289,21 +289,21 @@ export default function DashboardPage() {
             </div>
 
             {/* Right Column (Metrics, Early Warning, and Syllabus) */}
-            <div className="flex flex-col gap-6">
+            <div className="flex flex-col gap-8">
               {/* Exam Readiness Flat progress */}
-              <div className="border border-[#1E1E1E] p-6 bg-[#FDFCFB] flex flex-col gap-4">
+              <div className="border border-[#1E1E1E] p-8 bg-[#FDFCFB] flex flex-col gap-5">
                 <h3 className="font-bold text-xs uppercase tracking-wider text-zinc-500 border-b border-[#1E1E1E] pb-3">
                   Kesiapan Ujian (Readiness)
                 </h3>
 
-                <div className="flex flex-col gap-2">
+                <div className="flex flex-col gap-3">
                   <div className="flex items-baseline justify-between">
-                    <span className="text-3xl font-extrabold tracking-tighter text-[#F86041]">{readiness}%</span>
-                    <span className="text-[9px] font-bold text-zinc-500">TERPENUHI</span>
+                    <span className="text-4xl font-extrabold tracking-tighter text-[#F86041]">{readiness}%</span>
+                    <span className="text-xs font-bold text-zinc-500">TERPENUHI</span>
                   </div>
 
                   {/* Minimal flat progress bar */}
-                  <div className="h-5 w-full bg-[#F4F1EC] border border-[#1E1E1E] overflow-hidden">
+                  <div className="h-6 w-full bg-[#F4F1EC] border border-[#1E1E1E] overflow-hidden">
                     <div
                       style={{ width: `${readiness}%` }}
                       className="h-full bg-[#F86041] border-r border-[#1E1E1E] transition-all duration-300"
@@ -311,23 +311,23 @@ export default function DashboardPage() {
                   </div>
                 </div>
 
-                <p className="text-[10px] text-zinc-600 italic mt-1">{getProgressMessage(readiness)}</p>
+                <p className="text-xs text-zinc-600 italic mt-1 leading-normal">{getProgressMessage(readiness)}</p>
               </div>
 
               {/* Early Warning System Panel */}
               {riskDetails && (
-                <div className={`border p-4 bg-[#FDFCFB] flex flex-col gap-3 ${riskDetails.border}`}>
-                  <div className="flex items-center gap-2">
-                    <span className="w-1.5 h-1.5 bg-current rounded-full" />
-                    <span className="font-extrabold text-[10px] tracking-wider uppercase">
+                <div className={`border p-6 bg-[#FDFCFB] flex flex-col gap-4 ${riskDetails.border}`}>
+                  <div className="flex items-center gap-2.5">
+                    <span className="w-2.5 h-2.5 bg-current rounded-full" />
+                    <span className="font-extrabold text-xs tracking-wider uppercase">
                       {riskDetails.label}
                     </span>
                   </div>
-                  <p className="text-[11px] leading-relaxed">
+                  <p className="text-xs leading-relaxed">
                     {riskDetails.message}
                   </p>
-                  <div className="h-px bg-[#1E1E1E] opacity-10 my-1" />
-                  <div className="flex flex-col gap-1 text-[9px] font-mono text-zinc-600">
+                  <div className="h-px bg-[#1E1E1E] opacity-10 my-2" />
+                  <div className="flex flex-col gap-2 text-xs font-mono text-zinc-600">
                     <div className="flex justify-between">
                       <span>KEHADIRAN KULIAH:</span>
                       <span className="font-bold text-[#1E1E1E]">100%</span>
@@ -341,39 +341,44 @@ export default function DashboardPage() {
               )}
 
               {/* Syllabus Outline */}
-              <div className="border border-[#1E1E1E] p-4 bg-[#FDFCFB] flex flex-col gap-3">
-                <h4 className="font-bold text-xs">Hirarki Capaian Sub-bab</h4>
-                <div className="flex flex-col gap-1.5">
-                  {[
-                    { name: "PBO - Kontrol Alur Dasar", active: activeFacts?.strugglesLogic },
-                    { name: "PBO - Enkapsulasi & Pewarisan", active: activeFacts?.strugglesCoreOOP },
-                    { name: "PBO - Abstraksi & Polimorfisme", active: activeFacts?.strugglesAdvancedOOP },
-                    { name: "PBO - ArrayList & Referensi", active: activeFacts?.strugglesDataStructures },
-                  ].map((sub, sIdx) => (
-                    <div key={sIdx} className="flex items-center justify-between p-2 border border-[#1E1E1E] bg-[#F4F1EC]/40 text-[10px]">
-                      <span className="text-[#1E1E1E] font-medium">{sub.name}</span>
-                      <span className={`px-1.5 py-0.5 text-[8px] font-bold uppercase tracking-wider border ${
-                        sub.active ? "bg-[#FFF0F2] text-[#D61C4E] border-[#D61C4E]" : "bg-[#EAF7F0] text-[#1B8755] border-[#1B8755]"
-                      }`}>
-                        {sub.active ? "Lemah" : "Kuasai"}
-                      </span>
-                    </div>
-                  ))}
+              <div className="border border-[#1E1E1E] p-6 bg-[#FDFCFB] flex flex-col gap-4">
+                <h4 className="font-bold text-sm">Hirarki Capaian Sub-bab</h4>
+                <div className="flex flex-col gap-3">
+                  {(() => {
+                    const struggles = [
+                      { name: "Logika Dasar & Kontrol Alur", active: activeFacts?.strugglesLogic },
+                      { name: "Konsep Dasar OOP (PBO)", active: activeFacts?.strugglesCoreOOP },
+                      { name: "OOP Lanjut & Abstraksi (PBO)", active: activeFacts?.strugglesAdvancedOOP },
+                      { name: "Struktur Data & Basis Data (DBMS)", active: activeFacts?.strugglesDataStructures },
+                    ].filter(sub => sub.active);
+
+                    if (struggles.length === 0) {
+                      return (
+                        <p className="text-xs text-zinc-500 italic leading-relaxed">
+                          Tidak ada kelemahan akademis spesifik yang terdeteksi. Semua kompetensi belajar terpantau aman.
+                        </p>
+                      );
+                    }
+
+                    return struggles.map((sub, sIdx) => (
+                      <div key={sIdx} className="flex items-center justify-between p-3 border border-[#1E1E1E] bg-[#FFF0F2]/40 text-xs">
+                        <span className="text-[#1E1E1E] font-medium">{sub.name}</span>
+                        <span className="px-2 py-0.5 text-xs font-bold uppercase tracking-wider border bg-[#FFF0F2] text-[#D61C4E] border-[#D61C4E]">
+                          Lemah
+                        </span>
+                      </div>
+                    ));
+                  })()}
                 </div>
               </div>
             </div>
           </div>
         ) : (
-          <div className="border border-[#1E1E1E] py-16 text-center bg-[#FDFCFB]">
-            <p className="text-xs text-zinc-500">Tidak ada data diagnosis yang ditemukan.</p>
+          <div className="border border-[#1E1E1E] py-20 text-center bg-[#FDFCFB]">
+            <p className="text-sm text-zinc-500">Tidak ada data diagnosis yang ditemukan.</p>
           </div>
         )}
       </main>
-
-      {/* Footer
-      <footer className="border-t border-[#1E1E1E] bg-[#F4F1EC] py-8 text-center text-[10px] text-zinc-500 mt-auto">
-        <p>© 2026 Pathify Kelompok 2. Informatika Universitas Sebelas Maret. Hak Cipta Dilindungi.</p>
-      </footer> */}
     </div>
   );
 }

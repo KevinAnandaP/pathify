@@ -1,9 +1,7 @@
 /* eslint-disable */
-const { defineConfig } = require("prisma/config");
-
-module.exports = defineConfig({
+module.exports = {
   schema: "prisma/schema.prisma",
   datasource: {
-    url: process.env.DATABASE_URL || "postgresql://postgres:postgres@localhost:5432/pathify",
+    url: process.env.DATABASE_URL || "postgresql://postgres:alwayspromise@db:5432/pathify",
   },
-});
+};
