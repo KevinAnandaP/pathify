@@ -166,14 +166,14 @@ export default function DiagnosePage() {
               </div>
             </div>
 
-            {/* Step 1: PBO Symptoms */}
+            {/* Step 1: Content & Evaluation Symptoms */}
             <div className="border border-[#1E1E1E] p-8 bg-[#FDFCFB] flex flex-col gap-6">
               <div>
                 <span className="text-xs font-bold text-[#F86041] uppercase tracking-wider">
                   Bagian 1
                 </span>
                 <h2 className="text-xl font-bold mt-1">
-                  Gejala Kesulitan Pemrograman Berorientasi Objek (PBO)
+                  Gejala Kesulitan Literasi & Evaluasi Belajar
                 </h2>
               </div>
 
@@ -182,26 +182,26 @@ export default function DiagnosePage() {
                   {
                     id: "g001",
                     code: "G001",
-                    title: "Bingung menggunakan Inheritance biasa atau Kelas Abstrak",
-                    desc: "Sering salah memilih relasi pewarisan yang tepat saat merancang kelas dasar.",
+                    title: "Jarang membaca atau mengakses materi kuliah utama (Course Material / Slide)",
+                    desc: "Sering melewatkan modul bahan bacaan atau slide PPT yang disediakan dosen.",
                   },
                   {
                     id: "g002",
                     code: "G002",
-                    title: "Gagal mengimplementasikan metode abstract di kelas anak",
-                    desc: "Memicu error kompilasi karena lupa mengimplementasikan metode kosong dari kelas induk.",
+                    title: "Kesulitan merangkum atau memahami konsep teoritis dari bahan ajar mandiri",
+                    desc: "Susah menangkap garis besar teori secara otodidak tanpa penjelasan langsung.",
                   },
                   {
                     id: "g003",
                     code: "G003",
-                    title: "Kesulitan memahami konsep Multiple Inheritance semu (Interface)",
-                    desc: "Bingung bagaimana mengimplementasikan banyak interface pada satu kelas Java.",
+                    title: "Sering terlambat atau tidak mengumpulkan tugas mingguan (Assignment)",
+                    desc: "Kesulitan membagi waktu pengerjaan tugas sehingga sering terlambat dari batas waktu.",
                   },
                   {
                     id: "g004",
                     code: "G004",
-                    title: "Tidak memahami perbedaan keyword extends dan implements",
-                    desc: "Sering terbalik dalam menulis sintaks pewarisan class vs implementasi interface.",
+                    title: "Mendapatkan nilai di bawah batas kelulusan pada kuis evaluasi berkala (Quiz)",
+                    desc: "Hasil nilai uji pemahaman kuis mandiri mingguan sering kali kurang memuaskan.",
                   },
                 ].map((item) => (
                   <label
@@ -232,14 +232,14 @@ export default function DiagnosePage() {
               </div>
             </div>
 
-            {/* Step 2: Logic & DBMS Symptoms */}
+            {/* Step 2: Interaction & Time Management Symptoms */}
             <div className="border border-[#1E1E1E] p-8 bg-[#FDFCFB] flex flex-col gap-6">
               <div>
                 <span className="text-xs font-bold text-[#F86041] uppercase tracking-wider">
                   Bagian 2
                 </span>
                 <h2 className="text-xl font-bold mt-1">
-                  Gejala Kesulitan Logika, Struktur Data & DBMS
+                  Gejala Kesulitan Partisipasi Forum & Manajemen Waktu
                 </h2>
               </div>
 
@@ -248,26 +248,26 @@ export default function DiagnosePage() {
                   {
                     id: "g005",
                     code: "G005",
-                    title: "Bingung konsep logika dasar & alur kontrol (looping/branching)",
-                    desc: "Kesulitan merancang conditional branching nested if-else atau perulangan bersarang.",
+                    title: "Jarang terlibat aktif dalam memberikan kontribusi di forum diskusi kelas (Forum Post)",
+                    desc: "Hampir tidak pernah menanyakan pertanyaan atau menanggapi topik di forum belajar.",
                   },
                   {
                     id: "g006",
                     code: "G006",
-                    title: "Kesulitan mengakses alamat memori referensi pointer & ArrayList",
-                    desc: "Sering bingung tentang data passing referensi alamat objek PBO dalam memori heap.",
+                    title: "Kurang aktif membaca informasi atau membalas postingan rekan di forum (Forum View)",
+                    desc: "Hanya sekadar login tanpa membaca postingan atau membalas diskusi rekan kelas.",
                   },
                   {
                     id: "g007",
                     code: "G007",
-                    title: "Kesulitan merancang Entity Relationship Diagram (ERD)",
-                    desc: "Kebingungan memetakan relasi kardinalitas (1:M atau M:N) dari deskripsi naratif studi kasus.",
+                    title: "Memiliki jumlah log masuk / waktu belajar di VLE (Virtual Learning) yang sangat rendah",
+                    desc: "Frekuensi atau intensitas akses harian ke sistem e-learning terpantau sangat rendah.",
                   },
                   {
                     id: "g008",
                     code: "G008",
-                    title: "Bingung menerapkan aturan normalisasi database (1NF hingga 3NF)",
-                    desc: "Tidak mengerti cara memecah tabel yang mengalami anomali redundansi data.",
+                    title: "Melakukan belajar SKS (Sistem Kebut Semalam) menjelang UTS/UAS (Procrastination)",
+                    desc: "Baru terburu-buru membuka seluruh materi kuliah sesaat sebelum hari ujian tiba.",
                   },
                 ].map((item) => (
                   <label

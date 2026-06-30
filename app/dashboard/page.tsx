@@ -151,9 +151,6 @@ export default function DashboardPage() {
           <div>
             <div className="flex items-center gap-2">
               <span className="w-3 h-3 bg-emerald-500 border border-[#1E1E1E]" />
-              <span className="text-xs font-bold text-[#F86041] uppercase tracking-wider">
-                Pemantauan Remedi Hack
-              </span>
             </div>
             <h1 className="text-3xl font-extrabold text-[#1E1E1E] mt-1.5">
               Dasbor Pelacak Belajar Mandiri
@@ -332,10 +329,10 @@ export default function DashboardPage() {
                 <div className="flex flex-col gap-3">
                   {(() => {
                     const struggles = [
-                      { name: "Logika Dasar & Kontrol Alur", active: activeFacts?.strugglesLogic },
-                      { name: "Konsep Dasar OOP (PBO)", active: activeFacts?.strugglesCoreOOP },
-                      { name: "OOP Lanjut & Abstraksi (PBO)", active: activeFacts?.strugglesAdvancedOOP },
-                      { name: "Struktur Data & Basis Data (DBMS)", active: activeFacts?.strugglesDataStructures },
+                      { name: "Partisipasi Kolaboratif (Forum)", active: activeFacts?.strugglesLogic },
+                      { name: "Evaluasi Praktis (Kuis & Tugas)", active: activeFacts?.strugglesCoreOOP },
+                      { name: "Literasi Konten (Bahan Ajar)", active: activeFacts?.strugglesAdvancedOOP },
+                      { name: "Manajemen Waktu & Konsistensi Belajar", active: activeFacts?.strugglesDataStructures },
                     ].filter(sub => sub.active);
 
                     if (struggles.length === 0) {

@@ -51,45 +51,45 @@ interface Rule {
 const RULES: Rule[] = [
   {
     id: "RULE_1",
-    name: "Deteksi Hambatan Kelas Abstrak (RULE 1)",
+    name: "Deteksi Hambatan Literasi Konten (RULE 1)",
     premise: (wm) => !!(wm["g001"] && wm["g002"]),
     conclusion: "S001",
-    explanation: "Jika mahasiswa bingung memilih Inheritance vs Kelas Abstrak (G001) dan gagal mengimplementasikan metode abstract (G002), maka didiagnosa kesulitan Abstract Class (S001)."
+    explanation: "Jika mahasiswa jarang mengakses materi utama (G001) and kesulitan konsep teoritis mandiri (G002), maka disimpulkan mengalami Hambatan Literasi Konten (S001)."
   },
   {
     id: "RULE_2",
-    name: "Deteksi Hambatan Interface (RULE 2)",
+    name: "Deteksi Hambatan Evaluasi Praktis (RULE 2)",
     premise: (wm) => !!(wm["g003"] && wm["g004"]),
     conclusion: "S002",
-    explanation: "Jika mahasiswa kesulitan memahami Multiple Inheritance semu (G003) dan bingung extends vs implements (G004), maka didiagnosa kesulitan Interface (S002)."
+    explanation: "Jika mahasiswa sering terlambat mengumpulkan tugas (G003) and nilai kuis rendah (G004), maka disimpulkan mengalami Hambatan Evaluasi Praktis (S002)."
   },
   {
     id: "RULE_3",
-    name: "Evaluasi Paket Remediasi OOP Lanjut (RULE 3)",
+    name: "Evaluasi Paket Pendampingan Akademik Intensif (RULE 3)",
     premise: (wm) => !!(wm["S001"] && wm["S002"]),
     conclusion: "S003",
-    explanation: "Jika mahasiswa terdiagnosa mengalami kesulitan Abstract Class (S001) dan Interface (S002), maka disimpulkan membutuhkan Paket Remediasi OOP Lanjut (S003)."
+    explanation: "Jika mahasiswa terdiagnosa mengalami Hambatan Literasi Konten (S001) and Hambatan Evaluasi Praktis (S002), maka disimpulkan membutuhkan Paket Pendampingan Akademik Intensif (S003)."
   },
   {
     id: "RULE_4",
-    name: "Deteksi Hambatan Basis Data / DBMS (RULE 4)",
+    name: "Deteksi Hambatan Manajemen & Konsistensi Belajar (RULE 4)",
     premise: (wm) => !!(wm["g007"] && wm["g008"]),
     conclusion: "S004",
-    explanation: "Jika mahasiswa kesulitan merancang ERD (G007) dan bingung menerapkan aturan normalisasi (G008), maka didiagnosa kesulitan Basis Data / DBMS (S004)."
+    explanation: "Jika mahasiswa memiliki log masuk VLE sangat rendah (G007) and cenderung belajar SKS (G008), maka disimpulkan mengalami Hambatan Manajemen & Konsistensi Belajar (S004)."
   },
   {
     id: "RULE_5",
-    name: "Deteksi Kelemahan Logika & Struktur Data (RULE 5)",
+    name: "Deteksi Hambatan Partisipasi Kolaboratif (RULE 5)",
     premise: (wm) => !!(wm["g005"] && wm["g006"]),
     conclusion: "S005",
-    explanation: "Jika mahasiswa bingung alur logika dasar (G005) dan kesulitan referensi alamat memori/ArrayList (G006), maka didiagnosa kelemahan Logika & Struktur Data (S005)."
+    explanation: "Jika mahasiswa tidak aktif kontribusi forum (G005) and jarang membaca postingan rekan (G006), maka disimpulkan mengalami Hambatan Partisipasi Kolaboratif (S005)."
   },
   {
     id: "RULE_6",
-    name: "Evaluasi Risiko Akademik Komprehensif (RULE 6)",
+    name: "Evaluasi Risiko Perkembangan Akademik Sangat Tinggi (RULE 6)",
     premise: (wm) => !!(wm["S003"] && wm["S004"]),
     conclusion: "S006",
-    explanation: "Jika mahasiswa membutuhkan Paket Remediasi OOP Lanjut (S003) dan kesulitan DBMS (S004), maka disimpulkan berisiko tinggi dan memerlukan Rencana Remediasi Komprehensif (S006)."
+    explanation: "Jika mahasiswa membutuhkan Paket Pendampingan Akademik Intensif (S003) and mengalami Hambatan Konsistensi Belajar (S004), maka disimpulkan memiliki Risiko Perkembangan Akademik Sangat Tinggi (S006)."
   }
 ];
 
@@ -102,181 +102,181 @@ interface DiagnosticOutcome {
 
 const OUTCOMES: Record<string, DiagnosticOutcome> = {
   S001: {
-    title: "Kesulitan Kelas Abstrak (Abstract Class)",
+    title: "Hambatan Literasi Konten",
     risk: "Medium",
-    explanation: "Mahasiswa terdeteksi mengalami kesulitan konseptual dalam memahami Abstract Class (RULE 1 dipicu). Direkomendasikan pengenalan kembali hirarki pewarisan.",
+    explanation: "Mahasiswa terdeteksi mengalami kesulitan memahami materi bacaan utama secara mandiri (RULE 1 dipicu). Direkomendasikan penguatan pemahaman teori dasar secara terpandu.",
     tasks: {
       Visual: [
-        "Gambar diagram hirarki kelas abstrak dan kelas anak",
-        "Tonton video visualisasi runtime static vs dynamic binding",
-        "Buat tabel komparasi method abstract vs concrete"
+        "Buat peta konsep/mindmap ringkasan dari materi slide kuliah",
+        "Warnai poin-poin penting pada modul membaca menggunakan highlighter",
+        "Buat tabel intisari bab materi ajar"
       ],
       Auditory: [
-        "Jelaskan konsep inheritance abstract class ke rekan belajar (Rubber Ducking)",
-        "Dengarkan rekaman kuliah PBO tentang perbedaan abstract class",
-        "Ikuti diskusi praktikum kelompok mengenai overriding"
+        "Jelaskan ringkasan materi kuliah ke rekan belajar (Rubber Ducking)",
+        "Dengarkan rekaman kuliah online untuk memperjelas konsep teoretis",
+        "Ikuti sesi tanya jawab interaktif bersama asisten dosen"
       ],
       Kinesthetic: [
-        "Implementasikan Class Diagram geometris dengan Abstract Class di IDE",
-        "Tulis ulang kode perulangan yang mewarisi class abstract",
-        "Buat simulasi kode CLI overriding abstract method"
+        "Tulis ulang rangkuman materi dengan bahasa sendiri dalam bentuk flashcard",
+        "Praktikkan langsung konsep yang dibaca pada lingkungan kerja (lab/editor)",
+        "Kerjakan latihan soal teori mandiri secara berkala"
       ],
       "": [
-        "Gambar diagram hirarki kelas abstrak dan kelas anak",
-        "Implementasikan Class Diagram geometris dengan Abstract Class di IDE"
+        "Buat peta konsep/mindmap ringkasan dari materi slide kuliah",
+        "Tulis ulang rangkuman materi dengan bahasa sendiri dalam bentuk flashcard"
       ]
     }
   },
   S002: {
-    title: "Kesulitan Antarmuka (Interface)",
+    title: "Hambatan Evaluasi Praktis",
     risk: "Medium",
-    explanation: "Mahasiswa terdeteksi mengalami kendala membedakan extends dan implements serta polimorfisme interface (RULE 2 dipicu).",
+    explanation: "Mahasiswa terdeteksi mengalami kendala dalam menyelesaikan penugasan praktis dan kuis berkala (RULE 2 dipicu).",
     tasks: {
       Visual: [
-        "Gambarkan class diagram relasi implements interface",
-        "Buat infografis extends vs implements",
-        "Petakan hirarki polimorfisme interface menggunakan bagan"
+        "Petakan instruksi tugas menggunakan diagram alur (flowchart) sebelum mulai pengerjaan",
+        "Buat diagram pencapaian skor tugas mingguan sebagai motivasi visual",
+        "Pelajari contoh penyelesaian tugas (worked examples) yang disajikan dalam visual"
       ],
       Auditory: [
-        "Diskusikan konsep 'kontrak interface' dengan asisten",
-        "Dengarkan podcast edukasi tentang modularitas interface",
-        "Presentasikan rancangan modular polymorphism di depan kelompok"
+        "Diskusikan instruksi pengerjaan tugas bersama kelompok belajar",
+        "Dengarkan ulasan kesalahan tugas dari asisten praktikum",
+        "Tanyakan bagian tugas yang tidak dimengerti secara verbal saat sesi tanya jawab"
       ],
       Kinesthetic: [
-        "Buat kode interface Comparable untuk sorting objek",
-        "Refactoring coupled code menjadi decoupled menggunakan interface",
-        "Tulis interface event handler sederhana di proyek CLI"
+        "Kerjakan tugas-tugas latihan mandiri di luar kelas",
+        "Lakukan refactoring/modifikasi pada tugas lama yang mendapat skor kurang maksimal",
+        "Ikuti latihan simulasi kuis berwaktu secara berkala"
       ],
       "": [
-        "Gambarkan class diagram relasi implements interface",
-        "Refactoring coupled code menjadi decoupled menggunakan interface"
+        "Petakan instruksi tugas menggunakan diagram alur (flowchart) sebelum mulai pengerjaan",
+        "Kerjakan tugas-tugas latihan mandiri di luar kelas"
       ]
     }
   },
   S003: {
-    title: "Kesulitan Komprehensif OOP Lanjut",
+    title: "Hambatan Penguasaan Akademik Utama",
     risk: "High",
-    explanation: "Mahasiswa terdeteksi mengalami kendala pada Abstract Class dan Interface secara bersamaan (RULE 3 dipicu). Diperlukan penguatan arsitektur OOP terstruktur.",
+    explanation: "Mahasiswa terdeteksi mengalami kendala pemahaman materi dan penugasan sekaligus (RULE 3 dipicu). Diperlukan pendampingan akademik terstruktur.",
     tasks: {
       Visual: [
-        "Rancang UML Class Diagram lengkap dengan Abstract Class dan Interface",
-        "Simulasikan diagram objek memori polymorphism",
-        "Warnai relasi extends (solid) vs implements (dashed) di rancangan"
+        "Buat bagan relasi antara materi kuliah dengan penugasan praktis terkait",
+        "Susun jadwal belajar visual harian di meja belajar",
+        "Rancang infografis ringkasan seluruh bab materi untuk UTS/UAS"
       ],
       Auditory: [
-        "Bahas tuntas arsitektur PBO modular dengan dosen wali",
-        "Jelaskan rancangan OOP lanjut Anda di depan kelas",
-        "Ikuti kelompok belajar khusus PBO lanjutan"
+        "Konsultasi tatap muka langsung dengan dosen pengampu mengenai perkembangan belajar",
+        "Ikuti forum diskusi interaktif intensif membahas materi dan tugas sulit",
+        "Bahas tuntas penyelesaian latihan soal bersama kelompok belajar khusus"
       ],
       Kinesthetic: [
-        "Bangun mini proyek CLI (e.g. library system) menggunakan Abstract Class dan Interface",
-        "Lakukan latihan refactoring total kode coupled",
-        "Buat unit test sederhana untuk memverifikasi behavior interface"
+        "Bangun mini-proyek mandiri untuk menggabungkan pemahaman teori dan praktik",
+        "Lakukan simulasi ujian mandiri dengan batasan waktu",
+        "Selesaikan latihan soal komprehensif dari bab awal hingga akhir"
       ],
       "": [
-        "Rancang UML Class Diagram lengkap dengan Abstract Class dan Interface",
-        "Bangun mini proyek CLI menggunakan Abstract Class dan Interface"
+        "Buat bagan relasi antara materi kuliah dengan penugasan praktis terkait",
+        "Bangun mini-proyek mandiri untuk menggabungkan pemahaman teori dan praktik"
       ]
     }
   },
   S004: {
-    title: "Kesulitan DBMS & Normalisasi",
+    title: "Hambatan Manajemen Waktu & Konsistensi Belajar",
     risk: "High",
-    explanation: "Mahasiswa terdeteksi mengalami kendala merancang ERD dan membagi entitas/tabel sesuai kaidah normalisasi database (RULE 4 dipicu).",
+    explanation: "Mahasiswa terdeteksi mengalami kendala manajemen waktu, dicirikan oleh rendahnya akses platform belajar VLE dan kecenderungan belajar SKS (RULE 4 dipicu).",
     tasks: {
       Visual: [
-        "Gambar ERD lengkap dengan relasi kardinalitas (1:N, N:M)",
-        "Buat tabel skema relasi dari ERD",
-        "Buat peta diagram transisi 1NF ke 3NF"
+        "Gunakan kalender visual untuk menandai tenggat waktu tugas dan jadwal belajar harian",
+        "Buat grafik log belajar mingguan untuk memantau konsistensi akses",
+        "Pasang pengingat visual (sticky notes) di laptop mengenai target harian"
       ],
       Auditory: [
-        "Bahas kasus normalisasi tabel anomali bersama teman kelompok",
-        "Diskusikan perbedaan primary key vs foreign key dengan asisten",
-        "Presentasikan rancangan skema database di depan kelas"
+        "Dengarkan alarm/pengingat waktu otomatis untuk memulai sesi belajar",
+        "Minta teman atau asisten menjadi partner akuntabilitas belajar (peer study partner)",
+        "Diskusikan kendala manajemen waktu bersama konselor atau mentor akademik"
       ],
       Kinesthetic: [
-        "Normalisasikan tabel transaksi real-world menjadi 3NF",
-        "Tulis script SQL DDL lengkap dengan foreign key constraints",
-        "Uji anomali INSERT/UPDATE di database lokal"
+        "Terapkan teknik Pomodoro (25 menit belajar aktif, 5 menit istirahat)",
+        "Bagi pengerjaan tugas besar menjadi sub-tugas kecil yang dikerjakan setiap hari",
+        "Unduh aplikasi pelacak waktu (time tracker) dan catat durasi belajar secara berkala"
       ],
       "": [
-        "Gambar ERD lengkap dengan relasi kardinalitas (1:N, N:M)",
-        "Normalisasikan tabel transaksi real-world menjadi 3NF"
+        "Gunakan kalender visual untuk menandai tenggat waktu tugas",
+        "Terapkan teknik Pomodoro (25 menit belajar aktif, 5 menit istirahat)"
       ]
     }
   },
   S005: {
-    title: "Kesulitan Logika & Struktur Data",
+    title: "Hambatan Partisipasi Kolaboratif",
     risk: "Medium",
-    explanation: "Mahasiswa terdeteksi memiliki kendala dalam alur logika bercabang serta pengaksesan ArrayList referensi pointer alamat memori (RULE 5 dipicu).",
+    explanation: "Mahasiswa kurang aktif berkontribusi di forum diskusi kelas dan kurang membalas postingan rekan (RULE 5 dipicu).",
     tasks: {
       Visual: [
-        "Gambarkan flowchart perulangan bersarang (nested loops)",
-        "Tonton eksekusi visual memori ArrayList di PythonTutor",
-        "Buat diagram blok referensi alamat memori pointer"
+        "Buat sketsa diagram alur diskusi forum sebelum menulis postingan",
+        "Tandai postingan diskusi rekan yang menarik menggunakan fitur penanda buku (bookmark)",
+        "Petakan kontribusi diskusi kelas dalam peta pikiran sosial"
       ],
       Auditory: [
-        "Rubber duck: terangkan alur looping bersarang ke bebek mainan",
-        "Diskusikan kompleksitas memori ArrayList bersama kelompok",
-        "Dengarkan rekaman rekursi dasar"
+        "Ikuti sesi diskusi verbal/diskusi kelompok kecil di luar kelas",
+        "Dengarkan pendapat rekan lain di kelas dan catat intisarinya",
+        "Gunakan voice note untuk menyusun gagasan sebelum memposting di forum"
       ],
       Kinesthetic: [
-        "Tulis 5 program rekursi dan nested loops dasar di LeetCode",
-        "Buat program CRUD sederhana memakai ArrayList of Objects",
-        "Debug program baris-per-baris menggunakan VS Code Debugger"
+        "Tulis minimal 1 postingan pertanyaan atau jawaban di forum diskusi kelas setiap minggu",
+        "Balas minimal 2 tanggapan rekan kelas di forum dengan argumen konstruktif",
+        "Selesaikan tugas kolaboratif kelompok secara aktif"
       ],
       "": [
-        "Gambarkan flowchart perulangan bersarang (nested loops)",
-        "Debug program baris-per-baris menggunakan VS Code Debugger"
+        "Buat sketsa diagram alur diskusi forum sebelum menulis postingan",
+        "Tulis minimal 1 postingan pertanyaan atau jawaban di forum diskusi kelas setiap minggu"
       ]
     }
   },
   S006: {
-    title: "Risiko Akademik Sangat Kritis",
+    title: "Risiko Perkembangan Akademik Sangat Tinggi",
     risk: "Critical",
-    explanation: "Mahasiswa memiliki kelemahan bertumpuk pada OOP, basis data, dan logika pemrograman (RULE 6 dipicu). Diperlukan bimbingan akademik intensif segera.",
+    explanation: "Mahasiswa memiliki kelemahan bertumpuk pada pemahaman materi, penugasan praktis, dan manajemen waktu belajar (RULE 6 dipicu). Diperlukan rencana intervensi komprehensif segera.",
     tasks: {
       Visual: [
-        "Buat diagram alur integrasi sistem PBO dan DBMS",
-        "Gambar peta koneksi relasional database ke model objek",
-        "Buat resume visual seluruh modul praktikum"
+        "Buat peta jalan (roadmap) visual pemulihan progres belajar komprehensif",
+        "Susun checklist visual harian tugas-tugas remedi yang tersisa",
+        "Gambar infografis alur integrasi konsep teoretis, praktis, dan log belajar"
       ],
       Auditory: [
-        "Wajib bimbingan akademik mingguan dengan dosen wali",
-        "Konsultasi intensif dengan asisten praktikum",
-        "Diskusi studi kasus integrasi OOP-DBMS"
+        "Wajib mengikuti bimbingan akademik mingguan terstruktur dengan dosen wali",
+        "Diskusikan progres rencana aksi remedi secara teratur dengan mentor",
+        "Ikuti kelas pendampingan lisan tambahan (tutorial session) setiap minggu"
       ],
       Kinesthetic: [
-        "Ikuti kelas remedial terpandu / bootcamp intensif dasar coding",
-        "Selesaikan lembar kerja portofolio pemrograman mandiri",
-        "Selesaikan proyek mini CRUD database PBO dari nol"
+        "Selesaikan program bootcamp belajar terpandu (guided learning paths) dasar",
+        "Lengkapi seluruh portofolio rencana remedi visual dari minggu ke minggu",
+        "Selesaikan seluruh modul mini-proyek intervensi gabungan mandiri"
       ],
       "": [
-        "Wajib bimbingan akademik mingguan dengan dosen wali",
-        "Selesaikan proyek mini CRUD database PBO dari nol"
+        "Wajib mengikuti bimbingan akademik mingguan terstruktur dengan dosen wali",
+        "Selesaikan seluruh modul mini-proyek intervensi gabungan mandiri"
       ]
     }
   },
   DEFAULT: {
-    title: "Aman & Siap Ujian (Pencegahan Preventif)",
+    title: "Aman & Siap Perkembangan Lanjut",
     risk: "Low",
-    explanation: "Mahasiswa tidak menunjukkan kendala belajar yang signifikan. Disarankan melakukan latihan tantangan lanjut untuk memantapkan pemahaman.",
+    explanation: "Mahasiswa menunjukkan tingkat partisipasi dan pemahaman mandiri yang sangat baik. Disarankan pengayaan materi lanjut.",
     tasks: {
       Visual: [
-        "Pelajari Class Diagram pola desain (Design Patterns) populer",
-        "Gambarkan skema optimasi indeks tabel basis data"
+        "Pelajari bagan arsitektur sistem berskala besar atau desain pola lanjutan",
+        "Buat resume visual materi pengayaan mandiri"
       ],
       Auditory: [
-        "Jelaskan materi polimorfisme kepada teman kelas yang kesulitan",
-        "Ikuti seminar teknologi tentang clean code dan arsitektur microservices"
+        "Jelaskan topik materi kuliah lanjutan kepada rekan kelas yang mengalami kesulitan",
+        "Ikuti seminar/webinar teknologi luar untuk memperluas wawasan akademik"
       ],
       Kinesthetic: [
-        "Tulis tutorial pemrograman OOP di Medium atau blog pribadi",
-        "Implementasikan pola desain Singleton/Factory di proyek sederhana"
+        "Tulis artikel atau tutorial di media sosial / blog pribadi mengenai topik mata kuliah",
+        "Rancang proyek mandiri berskala menengah untuk melatih skill tingkat lanjut"
       ],
       "": [
-        "Tulis tutorial pemrograman OOP di Medium atau blog pribadi",
-        "Implementasikan pola desain Singleton/Factory di proyek sederhana"
+        "Tulis artikel atau tutorial di media sosial / blog pribadi mengenai topik mata kuliah",
+        "Rancang proyek mandiri berskala menengah untuk melatih skill tingkat lanjut"
       ]
     }
   }

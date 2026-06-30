@@ -60,7 +60,7 @@ export default function RegisterPage() {
       </div>
 
       {/* Card Form */}
-      <div className="max-w-md w-full border border-[#1E1E1E] p-8 bg-[#FDFCFB] shadow-[5px_5px_0px_0px_#1E1E1E]">
+      <div className="max-w-md w-full border border-[#1E1E1E] p-8 bg-[#FDFCFB] shadow-[5px_5px_0px_0px_#1E1E1E] animate-fade-in-up">
         <h1 className="text-xl font-extrabold mb-6 text-zinc-950">Daftar Akun Baru</h1>
 
         {errorMsg && (
@@ -99,7 +99,7 @@ export default function RegisterPage() {
               required
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              placeholder="nama@mahasiswa.uns.ac.id"
+              placeholder="nama@gmail.com"
               className="p-4 border border-[#1E1E1E] bg-[#FDFCFB] text-sm focus:outline-none focus:ring-1 focus:ring-[#F86041] rounded-none w-full"
             />
           </div>
