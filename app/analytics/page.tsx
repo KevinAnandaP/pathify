@@ -847,7 +847,7 @@ export default function AnalyticsPage() {
 
             {/* Students Table */}
             <div className="border border-[#1E1E1E] bg-[#FDFCFB] mt-4">
-              <div className="p-6 border-b border-[#1E1E1E] flex items-center justify-between">
+              <div className="p-6 border-b border-[#1E1E1E] flex flex-col sm:flex-row sm:items-center justify-between gap-4">
                 <h3 className="font-bold text-sm uppercase">Rincian Hasil Diagnosa Aggregat ({datasetType === "oulad" ? "OULAD Dataset" : "Pathify Dataset"})</h3>
                 <span className="text-xs font-mono border border-[#1E1E1E] px-2.5 py-0.5 bg-[#FEDFD9] font-bold uppercase">{totalCount} Mahasiswa terproses</span>
               </div>
